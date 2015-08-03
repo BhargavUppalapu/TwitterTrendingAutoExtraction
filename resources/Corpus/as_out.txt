@@ -1,0 +1,6617 @@
+﻿#Jesseventura	--> Jesse ventura
+#AmericanSniper	--> American Sniper
+#بإنفرآد	--> بإنفرآد
+#القناصه	--> القناصه
+#The12DaysOfContent	-->
+#يعرض_في_السينما	--> يعرض_في_السينما
+#CriticsChoice	--> Critics Choice
+#Freedom	--> Freedom
+#ChrisKyle	--> Chris Kyle
+#TheLegend	--> The Legend
+#LLTB	--> LLTB
+#HonorChrisKyle	--> Honor Chris Kyle
+#BoxOffice	--> Box Office
+#OscarNoms	--> Oscar Noms
+#WeddingRinger	--> Wedding Ringer
+#tcot	--> tcot
+#pjnet	--> pjnet
+#tlot	--> tlot
+#lnyhbt	--> lnyhbt
+#teaparty	--> tea party
+#Foxnews	--> Fox news
+#ThnxChris	--> Thnx Chris
+#boxoffice	--> box office
+#EEBAFTAs	--> EEBAFTAs
+#IMAX	--> IMAX
+#โคตรอยากดู	--> โคตรอยากดู
+#redwhiteblue	--> red white blue
+#ALLDAY	--> ALL DAY
+#Mortdecai	--> Mortdecai
+#KillAllMuslims	--> Kill All Muslims
+#BradleyCooper	--> Bradley Cooper
+#epicignorance	--> epic ignorance
+#americansniper	--> american sniper
+#FuckYeah	--> Fuck Yeah
+#TheTheoryofEverything	-->
+#StillAlice	--> Still Alice
+#TheGrandBudapestHotel	--> The Grand Budapest Hotel
+#Whiplash	--> Whiplash
+#Oscars	--> Oscars
+#1	-->
+#HollywoodMorons	--> Hollywood Morons
+#Stoked	--> Stoked
+#caring	--> caring
+#Honorthefallen	--> Honor the fallen
+#RedNationRising	--> Red Nation Rising
+#Selma	--> Selma
+#Oscars2015	--> Oscars 2015
+#FoxNews	--> Fox News
+#Veteran	--> Veteran
+#CHI	--> CHI
+#SAN	--> SAN
+#MCI	--> MCI
+#DFW	--> DFW
+#SAT	--> SAT
+#DEN	--> DEN
+#MIA	--> MIA
+#salutetothetroops	-->
+#SHOTShow2015	--> SHOT Show 2015
+#GodBlessOurTroops	--> God Bless Our Troops
+#SomeGaveAll	--> Some Gave All
+#NeverForgotten	--> Never Forgotten
+#Hollywood	--> Hollywood
+#TCOT	--> TCOT
+#SGP	--> SGP
+#PJNET	--> PJNET
+#Howard	--> Howard
+#hoorah	--> hoorah
+#TheNerdMachine	--> The Nerd Machine
+#NerdNews	--> Nerd News
+#oscars	--> oscars
+#DramaAlert	--> Drama Alert
+#BestPicture	--> Best Picture
+#BestActor	--> Best Actor
+#CollegeBaseballSeasonIsUponUs	-->
+#AmericanPsycho	--> American Psycho
+#GrandBudapestHotel	--> Grand Budapest Hotel
+#PalestinianSniper	--> Palestinian Sniper
+#AmericanHero	--> American Hero
+#Hero	--> Hero
+#ontheset	-->
+#WritersGuildAwards	--> Writers Guild Awards
+#whatwedobest	-->
+#movies	--> movies
+#Birdman	--> Birdman
+#DFD	--> DFD
+#neverforgotten	--> never forgotten
+#thelegend	--> the legend
+#NavySEALs	--> Navy SEALs
+#AFIAwards	--> AFI Awards
+#respectourtroops	--> respect our troops
+#DateNight	--> Date Night
+#TheGuest	--> The Guest
+#Peace	--> Peace
+#ImmitationGame	--> Immitation Game
+#kingfisherbeer	--> kingfisher beer
+#baby	--> baby
+#wehavelostit	-->
+#BeastMode	--> Beast Mode
+#navy	--> navy
+#Hooyah	--> Hooyah
+#honorchriskyle	--> honor chris kyle
+#americanhero	--> american hero
+#KellyFile	--> Kelly File
+#chriskyle	--> chris kyle
+#Wow	--> Wow
+#WarriorWednesday	--> Warrior Wednesday
+#UnitedStatesofAmerica	-->
+#GodBlessOurMilitary	--> God Bless Our Military
+#ccot	--> ccot
+#YCOT	--> YCOT
+#CCOT	--> CCOT
+#LiberalDead	--> Liberal Dead
+#MM	-->
+#Military	--> Military
+#Salutethetroops	--> Salute the troops
+#legend	--> legend
+#SisterPatriots	--> Sister Patriots
+#IAFreedomForum	-->
+#freedomaintfree	--> freedom aint free
+#grateful	--> grate ful
+#SethRogan	--> Seth Rogan
+#Propaganda	--> Propaganda
+#SnowStorm	--> now Storm
+#BeastModeForTheBrave	--> Beast Mode For The Brave
+#attproam	--> attproam
+#clinteastwood	--> clint eastwood
+#TheLead	--> The Lead
+#bestmovie	--> best movie
+#bradleycooper	--> bradley cooper
+#beyondhardcore	--> beyond hard core
+#saturdaynightmovie	--> saturday night movie
+#hero	--> hero
+#AMERICANSNIPER	--> AMERICAN SNIPER
+#truth	--> truth
+#ClintEastwood	--> ClintEastwood
+#Access	--> Access
+#SarahPalin	--> Sarah Palin
+#MichaelMoore	--> Michael Moore
+#SpongeBobMovie	--> SpongeBob Movie
+#propagandafilm	--> propaganda film
+#FreeTheNipple	--> Free The Nipple
+#TopTopFilm	--> Top Top Film
+#Palestinian	--> Palestinian
+#Gaza	--> Gaza
+#Silverado	--> Silverado
+#Tomball	--> Tomball
+#BBWMovieReviews	--> BBW Movie Reviews
+#chapelhillshooting	--> chapel hill shooting
+#CountdownToOscar	-->
+#Beetlejuice	--> Beetle juice
+#CommonCore	--> Common Core
+#Routh	--> Routh
+#WhiteLivesMatter	--> White Lives Matter
+#USA	--> USA
+#pimpinjoy	--> pimpin joy
+#datenight	--> date night
+#SMH	--> SMH
+#2015Oscars	--> 2015 Oscars
+#AcademyAwards	--> Academy Awards
+#Hobbit	--> Hobbit
+#AlmostHuman	--> Almost Human
+#TBT	--> TBT
+#movie	--> movie
+#sheepdog	--> sheepdog
+#PrayersForTaya	--> Prayers For Taya
+#SOT	--> SOT
+#SOV	--> SOV
+#RIPChrisKyle	--> RIP Chris Kyle
+#TheLEGOMovie	--> The LEGO Movie
+#InherentVice	--> Inherent Vice
+#American	--> American
+#BigBangTheory	--> Big Bang Theory
+#Interstellar	--> Interstellar
+#TheVoice	--> The Voice
+#Undateable	--> Undateable
+#ADGAward	--> ADG Award
+#AmericanSniperMovie	--> American Sniper Movie
+#eastwood	--> eastwood
+#warnerbrosstudio	--> warner bros studio
+#TheSniperAndTheWolf	--> The Sniper And The Wolf
+#TargetAmerica	--> Target America
+#SniperEliteSeries	--> Sniper Elite Series
+#KickFaZeKeemstar	--> KickFaZeKeemstar
+#Texas	--> Texas
+#America	--> America
+#SemperFi	-->
+#IsItLegal	-->
+#RedCarpet	--> Red Carpet
+#LadyGaga	--> Lady Gaga
+#tgdn	--> tgdn
+#UniteRight	--> Unite Right
+#LNYHBT	--> LNYHBT
+#ocra	--> ocra
+#p2	-->
+#LukeGrimes	--> Luke Grimes
+#ريتويت	--> ريتويت
+#مفضلة	--> مفضلة
+#TayaKyle	--> Taya Kyle
+#BringHomeTheOscars	--> Bring Home The Oscars
+#DoItForChris	-->
+#Patriot	--> Patriot
+#Oscar	--> Oscar
+#HERO	--> HERO
+#Americansniper	--> American sniper
+#Movie	--> Movie
+#ETOscars	--> ETOscars
+#Gilliam	--> Gilliam
+#2A	-->
+#HugaVet	--> HugaVet
+#NavySEAL	--> Navy SEAL
+#Taya	--> Taya
+#snipertrial	--> sniper trial
+#Hannity	--> Hannity
+#FTW	--> FTW
+#ParksFarewell	--> Parks Farewell
+#RoommatesIn5Words	-->
+#DerrickRose	--> Derrick Rose
+#VoicePremiere	--> Voice Premiere
+#TroopsTuesday	--> Troops Tuesday
+#TheBoyNextDoor	--> The Boy Next Door
+#sogood	-->
+#merica	--> merica
+#goseeit	-->
+#DevilOfRamadi	-->
+#rip	--> rip
+#WeThePeople	-->
+#NeverForget	--> Never Forget
+#tweko	--> tweko
+#watchwithUs	-->
+#DevilofRamadi	-->
+#salutetoservice	-->
+#idiots	--> idiots
+#ChrisKyleBeard	--> Chris Kyle Beard
+#USNavySEAL	-->
+#REDFriday	--> RED Friday
+#to	-->
+#wfaa	--> wfaa
+#chills	--> chills
+#proud	--> proud
+#RIP	--> RIP
+#ProudToBeAmerican	-->
+#Theory	--> Theory
+#ChrisKyleDay	--> Chris Kyle Day
+#rednationrising	--> red nation rising
+#SiennaMiller	--> Sienna Miller
+#NBC	--> NBC
+#Kellyfile	--> Kelly file
+#motivation	--> motivation
+#gnarly	--> gnarly
+#toomuchstress	--> too much stress
+#MBC2Oscar	-->
+#OReillyOscars	--> OReilly Oscars
+#TheOscars	--> The Oscars
+#michaelmoore	--> michael moore
+#RealTime	--> Real Time
+#War	--> War
+#Terrorism	--> Terrorism
+#US	-->
+#LaCosaOscar	--> LaCosa Oscar
+#MyOpinionOnly	-->
+#Oscar2015	--> Oscar 2015
+#OscarsSoWhite	-->
+#cinemark	--> cinemark
+#oscars2015	--> oscars 2015
+#PoliceLivesMatter	--> Police Lives Matter
+#LoveOurTroops	--> Love Our Troops
+#orpuw	--> orpuw
+#Merica	--> Merica
+#Hangover	--> Hangover
+#entertainment	--> entertainment
+#movietwit	--> movie twit
+#RIPLegend	--> RIP Legend
+#veterans	--> veterans
+#6Certified	--> Certified
+#ChrisKyleAmericanHero	--> Chris Kyle American Hero
+#MidoHamada	--> Mido Hamada
+#BoxOfficeUS	-->
+#TakeOnHate	-->
+#TheReaper	--> The Reaper
+#AaronHernandez	--> Aaron Hernandez
+#JodiArias	--> Jodi Arias
+#FullSailOscars	--> Full Sail Oscars
+#BestSellers	--> Best Sellers
+#InsideCreativity	--> Inside Creativity
+#OscarsSoBoring	-->
+#TheoryofEverything	-->
+#Boyhood	--> Boyhood
+#TheImitationGame	--> The Imitation Game
+#Film	--> Film
+#Fact	--> Fact
+#sotu	--> sotu
+#greatmovie	--> great movie
+#Englishfuckwit	--> English fuckwit
+#favoriteforfollow	--> favorite for follow
+#blackandgrey	--> black and grey
+#bmth	--> bmth
+#DartBoardDauber	--> Dart Board Dauber
+#LeonardoDiCaprio	-->
+#Snubs	--> Snubs
+#jodiarias	--> jodiarias
+#speechless	--> speechless
+#SOTU	--> SOTU
+#UkipFilmTitles	--> Ukip Film Titles
+#PerksOfHavingANanny	-->
+#SNL40	--> SNL40
+#Taken3	--> Taken3
+#جديد_التورنت	--> جديد_التورنت
+#سينما	--> سينما
+#screenwriting	--> screen writing
+#IMAXLegendSweeps	--> IMAX Legend Sweeps
+#MW2	--> MW2
+#SupportOurTroops	--> Support Our Troops
+#Movies	--> Movies
+#ReWriteAFilmIn5Words	-->
+#bowledastrike	-->
+#60Minutes	-->
+#CoberturaCinemark	--> Cobertura Cinemark
+#wethepeople	--> wethe people
+#justsaying	--> just saying
+#MostLethalSniper	--> Most Lethal Sniper
+#OscarsGMA	--> Oscars GMA
+#dialed	--> dialed
+#GodBlessAmerica	--> God Bless America
+#LEGEND	--> LEGEND
+#Ukraine	--> Ukraine
+#iraq	--> iraq
+#FACT	--> FACT
+#القناص_الأمريكي	--> القناص_الأمريكي
+#movieteeria	--> movie teeria
+#Tcot	--> Tcot
+#Ccot	--> Ccot
+#Dauber	--> Dauber
+#premiereEvent	--> premiere Event
+#NoNetNeutrality	-->
+#treason	--> treason
+#dec25	--> dec25
+#WarHero	--> WarHero
+#MLK	--> MLK
+#PussificationOfAmerica	-->
+#godblesscountrymusic	--> godbless country music
+#GodBlessChrisKyle	--> God Bless Chris Kyle
+#proudtobeanamerican	-->
+#BrandedContent	--> Branded Content
+#sealteam	--> seal team
+#LOVED	--> LOVED
+#Sniper	--> Sniper
+#2	-->
+#america	--> america
+#Heart	--> Heart
+#Nation	--> Nation
+#UPDATE	--> UPDATE
+#HOU	--> HOU
+#greatFlick	--> great Flick
+#InGodWeTrust	-->
+#MilitaryMonday	--> Military Monday
+#Respect	--> Respect
+#TortureReport	--> Torture Report
+#respect	--> respect
+#Idiot	--> Idiot
+#Idiots	--> Idiots
+#SuperBowl	--> Super Bowl
+#SB49	--> SB49
+#thursdaynightmovieclub	--> thursday night movie club
+#SEALTeamThree	--> SEAL Team Three
+#LoneSurvivor	--> Lone Survivor
+#MarcusLuttrell	--> Marcus Luttrell
+#OscarNaTNT	--> Oscar NaTNT
+#CluelessOscars	--> Clue less Oscars
+#AlanTuring	--> Alan Turing
+#ImitationGame	--> Imitation Game
+#AmericanSniperIT	--> American SniperIT
+#NastyTrucksNation	--> Nasty Trucks Nation
+#TrueHero	--> True Hero
+#GoneGirl	--> Gone Girl
+#BirdmanMovie	--> Birdman Movie
+#SelmaMovie	--> Selma Movie
+#Foxcatcher	--> Fox catcher
+#توصيات_سينمائية	--> توصيات_سينمائية
+#تابع_افلام	--> تابع_افلام
+#افلام	--> افلام
+#hdcinema	-->
+#supportourtroops	--> support our troops
+#OscarsEnTNT	--> Oscars EnTNT
+#FiftyShades	--> Fifty Shades
+#TheOscars2015	--> The Oscars 2015
+#oscartv2	-->
+#ChristopherScottKyle	--> Christopher Scott Kyle
+#EddieRayRouth	--> Eddie Ray Routh
+#MANCOW	--> MANCOW
+#hmmm	--> hmmm
+#SEAL	--> SEAL
+#Navy	--> Navy
+#murica	--> murica
+#honest	--> honest
+#IslamicExtemistFucks	--> Islamic Extemist Fucks
+#idfwu	--> idfwu
+#kickfazekeemstar	--> kick faze keemstar
+#KeepIt100	-->
+#WakeUpCall	-->
+#Ferguson	--> Ferguson
+#MLKDay2015	--> MLK Day 2015
+#icc4Israel	-->
+#BDS	--> BDS
+#JSIL	--> JSIL
+#Malibu	--> Malibu
+#BUD	--> BUD
+#crossfit	--> cross fit
+#shortshorts	--> short shorts
+#armedforces	--> armed forces
+#Veterans	--> Veterans
+#Salute	--> Salute
+#MejorPelícula	--> Mejor Película
+#AmericanFamily	--> American Family
+#military	--> military
+#winner	--> winner
+#sniper	--> sniper
+#politics	--> politics
+#Virginia	--> Virginia
+#court	--> court
+#Justice	--> Justice
+#BREAKING	--> BREAKING
+#7News	--> News
+#news	--> news
+#ftb	--> ftb
+#Conservatives	--> Conservatives
+#AMAZING	--> AMAZING
+#ShellieSays	--> ShellieSays
+#MVSOTU	--> MVSOTU
+#bigfan	--> bigfan
+#MakeAFilmUncomfortable	-->
+#PutSpiderManInEveryMovie	-->
+#ChapelHillShooting	--> Chapel Hill Shooting
+#ChapelHill	--> Chapel Hill
+#Trust	--> Trust
+#Believe	--> Believe
+#Liberalmedia	--> Liberal media
+#AmericanSoldiers	--> American Soldiers
+#bestMovieEver	--> best Movie Ever
+#OscarsRedCarpet	--> Oscars Red Carpet
+#law	--> law
+#Murica	--> Murica
+#MartinLutherKingDay	--> Martin Luther King Day
+#usa	--> usa
+#cine	--> cine
+#keepkillinthetowelheads	-->
+#SOTU2015	--> SOTU2015
+#AmericanSniperBaby	--> American Sniper Baby
+#AmericanSniperFakeBaby	--> American Sniper Fake Baby
+#nerdland	--> nerdland
+#Beards4Chris	-->
+#EagleUp	-->
+#ItsOurTurn	--> Its Our Turn
+#Iraq	--> Iraq
+#Muslims	--> Muslims
+#maybeahero	-->
+#Chomsky	--> Chomsky
+#Media	--> Media
+#mil	--> mil
+#ctl	--> ctl
+#Eastwood	--> Eastwood
+#hypocracism	--> hypocracism
+#mrff	--> mrff
+#CT	-->
+#Teens	--> Teens
+#LiberalHollywood	--> Liberal Hollywood
+#SkyCinemaOscar	--> Sky Cinema Oscar
+#OscarsSuck	--> Oscars Suck
+#DolbyAtmos	--> Dolby Atmos
+#ykw	--> ykw
+#WarnerOscar2015	--> Warner Oscar 2015
+#LiberalLogic	--> Liberal Logic
+#Bandila	--> Bandila
+#sorryboutit	-->
+#powerful	--> powerful
+#hatsoff	--> hats off
+#Yowza	--> Yowza
+#truthhurts	--> truth hurts
+#AllLivesMatter	--> All Lives Matter
+#MichelleObama	--> Michelle Obama
+#OfficerHollywood	--> Officer Hollywood
+#AskDems	--> Ask Dems
+#FreePalestine	--> Free Palestine
+#BeardsForChris	--> Beards For Chris
+#BrotherInArms	-->
+#PTS	--> PTS
+#THUGLIFE	--> THUG LIFE
+#HollywoodSniper	--> Hollywood Sniper
+#MyDayInLA	-->
+#army	--> army
+#airforces	--> air forces
+#Marines	--> Marines
+#Heroes	--> Heroes
+#thetruth	--> the truth
+#welovethem	-->
+#wesupportveterans	-->
+#amilitarymodel	--> amilitary model
+#ThankYouChief	--> ThankYou Chief
+#SabíasQue	--> SabíasQue
+#DatoCurioso	--> DatoCurioso
+#LosNominados	--> LosNominados
+#OscarenQuién	--> OscarenQuién
+#BestEverything	--> Best Everything
+#UniteBIue	--> Unite BIue
+#BreakingNews	--> Breaking News
+#UnitedWeStand	-->
+#GoldenGlobes	--> Golden Globes
+#RuinADateInFiveWords	-->
+#LA	-->
+#NY	-->
+#Dallas	--> Dallas
+#madeleinemcgraw	--> made leine mcgraw
+#NavySEALRadio	--> Navy SEAL Radio
+#ThankYouForYourService	--> ThankYou For Your Service
+#horny	--> horny
+#Emotional	--> Emotional
+#ProudToBeAnAmerican	-->
+#USMC	--> USMC
+#StarsEarnStripes	--> Stars Earn Stripes
+#FakeBaby	--> Fake Baby
+#Coward	--> Coward
+#YourABitch	-->
+#SheepDogs	--> Sheep Dogs
+#Thanksforarefreedom	--> Thanks for are freedom
+#recinzione	--> recinzione
+#MostSaved	--> Most Saved
+#SupportAllTroops	--> Support All Troops
+#VA	-->
+#veteran	--> veteran
+#PTSD	--> PTSD
+#MichaelMooreMovies	--> Michael Moore Movies
+#mermaidsighting	--> mermaid sighting
+#KatyPerrySuperBowlSetlist	--> Katy Perry Super Bowl Setlist
+#s	-->
+#nowar	--> nowar
+#Repost	--> Repost
+#Islamophobia	--> Islamophobia
+#EddieRedmayne	--> Eddie Redmayne
+#BlackHistoryMonth	--> Black History Month
+#Excited	--> Excited
+#FilmsandPopcorn	--> Films and Popcorn
+#MBC2Oscars	-->
+#Ocars2015	--> Ocars 2015
+#ChadLittlefield	--> Chad Little field
+#frogman	--> frogman
+#Guilty	--> Guilty
+#TweetLikeAConservative	-->
+#JusticeForChrisKyle	--> Justice For Chris Kyle
+#ithankyou	--> thank you
+#mlg	--> mlg
+#bradley	--> bradley
+#s2	-->
+#bottomgold	--> bottom gold
+#overshieldisupat8	-->
+#standingapplause	--> standing applause
+#GodBlessEm	-->
+#mustsee	--> must see
+#Boots2Asses	-->
+#frogrespect	--> frog respect
+#siaccettanomiracoli	--> siaccettanomiracoli
+#EmptyChair	--> Empty Chair
+#Clint	--> Clint
+#AndDontComeBack	--> And Dont Come Back
+#Thanksforyourservice	--> Thanks for your service
+#lol	--> lol
+#amazing	--> amazing
+#WWJS	--> WWJS
+#think	--> think
+#GoneButNeverForgotten	--> Gone But Never Forgotten
+#IS	-->
+#proudamerican	--> proud american
+#StateOfTheUnion	-->
+#KidRock	--> Kid Rock
+#MorningMovieNews	--> Morning Movie News
+#SecretWars	--> Secret Wars
+#BatmanvSuperman	-->
+#DerScharfschütze	--> Der Scharfschütze
+#filmfactcheck	--> film fact check
+#Seals	--> Seals
+#Merka	--> Merka
+#forgedclothing	--> forged clothing
+#abc13	-->
+#holyhotness	--> holy hotness
+#UniteBlue	--> Unite Blue
+#LibCrib	--> Lib Crib
+#ky	-->
+#WakeUpAmerica	-->
+#MCM	--> MCM
+#TweetLikeALocal	-->
+#MysticRiver	--> Mystic River
+#GlennBeck	--> Glenn Beck
+#AgainstTheSun	--> Against The Sun
+#murderer	--> murderer
+#fatpig	--> fatpig
+#ChapeHillShooting	--> Chape Hill Shooting
+#LoveLine	--> Love Line
+#americanterroist	--> american terroist
+#Baby	--> Baby
+#Kingsman	--> Kings man
+#JupiterAscending	--> Jupiter Ascending
+#EddieRouth	--> Eddie Routh
+#KevinLacz	--> Kevin Lacz
+#CantBuyClass	--> Cant Buy Class
+#AmericanSniperTrial	--> American Sniper Trial
+#GovernorsAwards	--> Governors Awards
+#Legend	--> Legend
+#thankyou	--> thank you
+#MustSee	--> Must See
+#thankfulforourtroops	--> thankful for our troops
+#MuchRespect	--> Much Respect
+#Nominated	--> Nominated
+#emotional	--> emotional
+#FeelingThankful	--> Feeling Thank ful
+#lifechanging	--> life changing
+#BurnItDown	-->
+#OuiShoshanna	--> Oui Shoshanna
+#SAGAwards	--> SAGA wards
+#IAVA	--> IAVA
+#EU	-->
+#Hooah	--> Hooah
+#godblessourtroops	--> godbless our troops
+#THETXEMBASSY	-->
+#PrettyBabyPrivilege	--> Pretty Baby Privilege
+#SethRogen	--> Seth Rogen
+#AMERICA	--> AMERICA
+#LIBERTY	--> LIBERTY
+#FREEDOM	--> FREEDOM
+#CONSTITUTION	--> CONSTITUTION
+#MakeDCListen	-->
+#terrorist	--> terrorist
+#RealHerosWearCamo	--> Real Heros Wear Camo
+#winwin	--> win win
+#cantwait	--> cant wait
+#MyTwitterFeed	-->
+#CharlieHebdo	--> Charlie Hebdo
+#thankyouveterans	--> thank you veterans
+#Insider	--> Insider
+#rubbish	--> rubbish
+#Conan	--> Conan
+#iceskating	--> ice skating
+#NightlyShow	--> Nightly Show
+#Baghdad	--> Baghdad
+#SimoHayha	--> Simo Hayha
+#KSATnews	--> KSAT news
+#MaxineX	--> MaxineX
+#topples	--> topples
+#video	--> video
+#Islam	--> Islam
+#MartesDeTrivia	-->
+#ACCESS	--> ACCESS
+#VFSC	--> VFSC
+#hollywood	--> hollywood
+#jimmykimmellive	--> jimmy kimmel live
+#best	--> best
+#picture	--> picture
+#2015	--> 2015
+#NeverForgetAtrueWarrior	-->
+#calltoprayer	--> call top rayer
+#OscarRedCarpet	--> Oscar Red Carpet
+#graceunderfire	--> grace under fire
+#MilSpouse	--> Mil Spouse
+#Oacars2015	--> Oacars 2015
+#disgraceful	--> disgraceful
+#EdwardSnowden	--> Edward Snowden
+#justice	--> justice
+#JeepMafia	--> Jeep Mafia
+#NW	-->
+#SonsOfLiberty	-->
+#GodblessAmerica	--> God bless America
+#GoSeeIt	-->
+#GreatestMovie	--> Greatest Movie
+#SEE	--> SEE
+#superb	--> superb
+#drama	--> drama
+#true	--> true
+#bravery	--> bravery
+#FreedomsCall	--> Freedoms Call
+#FilmOfTheYear	-->
+#AlQueada	-->
+#Boko	--> Boko
+#MLKDay	--> MLK Day
+#TheFive	--> The Five
+#ReclaimMLK	--> Reclaim MLK
+#bwahahahahah	--> bwahahahahah
+#badass	--> badass
+#Movietwit	--> Movie twit
+#BradleyemCooperem	--> Bradleyem Cooperem
+#Today9	-->
+#TheUltimateSacrafice	--> The Ultimate Sacrafice
+#racism	--> racism
+#RadicalizedByAmericanSniper	-->
+#ETnow	-->
+#فيديو	--> فيديو
+#النقاد	--> النقاد
+#الجمهور	--> الجمهور
+#MBC2	-->
+#TopProg	--> Top Prog
+#Politics	--> Politics
+#trueheroes	--> true heroes
+#donttellthewarmongers	--> dont tell the war mongers
+#OReillyfactor	--> OReilly factor
+#MasterPiece	--> Master Piece
+#wow	--> wow
+#DirtyWars	--> Dirty Wars
+#Netflix	--> Netflix
+#thesecolorsdontrun	--> these colors dont run
+#humbled	--> humbled
+#thisisislam	-->
+#Sundance	--> Sundance
+#scifi	--> scifi
+#9onyourside	-->
+#HowardDean	--> Howard Dean
+#IdiotForEver	--> Idiot For Ever
+#XMen	--> XMen
+#Transformers	--> Transformers
+#CaptainAmerica	--> Captain America
+#morningjoe	--> morning joe
+#Forged	--> Forged
+#CashinIn	-->
+#KevinCostner	--> Kevin Costner
+#RIPbada	--> RIP bada
+#ChrsKyle	--> Chrs Kyle
+#freedom	--> freedom
+#KidCanShoot	--> Kid Can Shoot
+#Israel	--> Israel
+#inspiring	--> inspiring
+#babyboomers	--> baby boomers
+#TheLegoMovie	--> The Lego Movie
+#TheHobbitTBOTFA	--> The Hobbit TBOTFA
+#NZ	-->
+#jacksilkstone	--> jack silkstone
+#50ShadesOfGrey	-->
+#insanity	--> insanity
+#AC360	--> AC360
+#IceCream	--> Ice Cream
+#Singapore	--> Singapore
+#AustinOscars	--> Austin Oscars
+#NoSniperOscar	-->
+#Director	--> Director
+#ISIS	--> ISIS
+#JobsForISIS	--> Jobs For ISIS
+#ChrisKyleAmericanMurderer	--> Chris Kyle American Murderer
+#ItShouldveWonEverything	-->
+#WJLA	--> WJLA
+#instantcinoche	--> instant cinoche
+#CanadianSniper	--> Canadian Sniper
+#Cultura	--> Cultura
+#patriot	--> patriot
+#ReadAmericanSniper	--> Read American Sniper
+#Jan16th	-->
+#SoldierOn	-->
+#PAstudent	-->
+#aapa	--> aapa
+#ferguson	--> ferguson
+#Oscarnoms	--> Oscar noms
+#ROOT	--> ROOT
+#inthefeels	-->
+#noshame	--> noshame
+#please	--> please
+#bonding	--> bonding
+#ThankYouChrisKyle	--> ThankYou Chris Kyle
+#GreatFilm	--> Great Film
+#headline	--> head line
+#StillKnockedYouOut	--> Still Knocked You Out
+#roomtemperaturetake	--> room temperature take
+#RedNation	--> Red Nation
+#mustread	--> must read
+#MilitaryMon	--> Military Mon
+#Duty	--> Duty
+#Greta	--> Greta
+#BDRS	--> BDRS
+#BestMovie	--> Best Movie
+#everyonewatchit	-->
+#israelisniper	--> israeli sniper
+#fuckamericansniper	--> fuck american sniper
+#arabiansniper	--> arabian sniper
+#sot	--> sot
+#sov	--> sov
+#hov	--> hov
+#Shia	--> Shia
+#Arabs	--> Arabs
+#Najaf	--> Najaf
+#MichaelMooreIsMoreWorthlessThan	-->
+#CraigMorgan	--> Craig Morgan
+#LiberalWarMovies	--> Liberal War Movies
+#gotohell	-->
+#trust	--> trust
+#amazingmovie	--> amazing movie
+#RIPKris	--> RIP Kris
+#Video	--> Video
+#laziesunite	--> laziesunite
+#TeaParty	--> Tea Party
+#TeamPalin	--> Team Palin
+#TeamKyle	--> Team Kyle
+#shitlibbysays	-->
+#TYTLIVE	--> TYTLIVE
+#usmc	--> usmc
+#gop	--> gop
+#Basta	--> Basta
+#WingMom	--> WingMom
+#Muslim	--> Muslim
+#Islamist	--> Islamist
+#HOOYAH	--> HOOYAH
+#nightlyshow	--> nightly show
+#3	-->
+#FTNTheories	--> FTN Theories
+#JenEspinoza	--> Jen Espinoza
+#503	--> 503
+#Goto	--> Goto
+#Syria	--> Syria
+#Libya	--> Libya
+#Afghanistan	--> Afghanistan
+#USArmy	--> USArmy
+#navyseals	--> navy seals
+#ChrisKyleFrogFoundation	--> Chris Kyle Frog Foundation
+#mrhandsome	-->
+#CanadianMercenary	--> Canadian Mercenary
+#deadpool	--> dead pool
+#shamehediesintheend	-->
+#charity	--> charity
+#SaluteTheTroops	--> Salute The Troops
+#BeFullyInformed	-->
+#FreedomIsntFree	--> Freedom Isnt Free
+#BlessedToMeAnAmerican	-->
+#Tsarnaev	--> Tsarnaev
+#tweetheart	--> tweet heart
+#FiftyShadesOfGrey	-->
+#nativeamericans	--> native americans
+#american	--> american
+#greenparty	--> green party
+#GOPKKK	--> GOPKKK
+#RWNJs	--> RWNJs
+#Farándula	--> Farándula
+#Trailer	--> Trailer
+#CarteleraInvencible	--> Cartelera Invencible
+#blessed	--> blessed
+#GoodLuck	--> Good Luck
+#amcgeorgetown14bps	-->
+#amcbps	--> amcbps
+#GuardiansOfTheGalaxy	-->
+#Osvcars2015	--> Osvcars 2015
+#antigun	--> antigun
+#hypocrite	--> hypocrite
+#watchNwinOnStarMovies	-->
+#FallujahIraq	--> Fallujah Iraq
+#RussianSniper	--> Russian Sniper
+#Kharkiv	--> Kharkiv
+#Putin	--> Putin
+#FoxNewsAndFans	--> Fox News And Fans
+#liberalssuck	--> liberals suck
+#breaking	--> breaking
+#LifeSentence	--> Life Sentence
+#ChrisKyletrial	--> Chris Kyle trial
+#AmericasFinest	--> Americas Finest
+#HollywoodAgendas	--> Hollywood Agendas
+#IBDeditorials	--> IBDeditorials
+#JihadiJohn	--> Jihadi John
+#shoutout	--> shout out
+#shoutouts	--> shout outs
+#shoutoutforshoutout	--> shout out for shout out
+#shoutout4shoutout	-->
+#shoutoutback	--> shout out back
+#seals	--> seals
+#SEALs	--> SEALs
+#GETITRIGHT	-->
+#BurdenOfFreedom	-->
+#Films	--> Films
+#cowards	--> cowards
+#nw	-->
+#charliehunnam	--> charlie hunnam
+#ASAP	--> ASAP
+#nobodyunderstands	-->
+#Phenomenal	--> Phenomenal
+#notreallytho	--> not really tho
+#butyoushouldreallygoseeit	-->
+#People	--> People
+#HandsDown	--> Hands Down
+#thankful	--> thankful
+#hopeful	--> hopeful
+#YeeYee	--> Yee Yee
+#160	--> 160
+#texan	--> texan
+#TeamBuck	--> Team Buck
+#suchagoodmovie	-->
+#Progressives	--> Progressives
+#Juba	--> Juba
+#more	--> more
+#soldiers	--> soldiers
+#including	--> including
+#stone	--> stone
+#age	--> age
+#Russian	--> Russian
+#Dragunov	--> Dragunov
+#amazingstory	--> amazing story
+#amazingbook	--> amazing book
+#Avatar	--> Avatar
+#MolonLabe	--> Molon Labe
+#twitterlessmorg	--> twitterlessmorg
+#FreedomDontComeFree	--> Freedom Dont Come Free
+#MovieTwit	--> Movie Twit
+#ClashDaily	--> Clash Daily
+#Productivo	--> Product ivo
+#BuenasNoches	--> Buenas Noches
+#PointsMe	-->
+#YoQuiero	-->
+#BoysWillBeBoys	-->
+#filmin140	-->
+#fuckyeah	--> fuck yeah
+#Classic	--> Classic
+#21salute	-->
+#OneProudAmerican	--> One Proud American
+#StateofTheUnion	-->
+#progressives	--> progressives
+#Godblessourtroops	--> God bless our troops
+#inspiration	--> inspiration
+#Sheepdogs	--> Sheep dogs
+#Unbroken	-->
+#scriptchat	--> script chat
+#theoriginals	--> the originals
+#ilovepalestine	--> love palestine
+#repair	--> repair
+#middleeast	--> middle east
+#savechildrenofpalestine	-->
+#فيلم_السهرة	--> فيلم_السهرة
+#Heres101	--> Heres 101
+#ProudtobeanAmerican	-->
+#JoniErnst	--> Joni Ernst
+#GOPresponse	-->
+#heroes	--> heroes
+#sorrynotsorry	--> sorry not sorry
+#ChanningTatum	--> Channing Tatum
+#DishNation	--> Dish Nation
+#deflategate	--> deflategate
+#الدولة_الإسلامية	--> الدولة_الإسلامية
+#بوح	--> بوح
+#jeepcreep	--> jeep creep
+#marketing	--> marketing
+#PiersStillSucks	--> Piers Still Sucks
+#BreakingtheSet	--> Breaking the Set
+#MajorRespect	--> Major Respect
+#Grateful	--> Grate ful
+#holyshit	--> holy shit
+#propaganda	--> propaganda
+#Badass	--> Badass
+#Speechless	--> Speech less
+#JESUSWASASNIPER	-->
+#ptsd	--> ptsd
+#Hesmyhero	-->
+#Texans	--> Texans
+#lonesurvivor	--> lone survivor
+#SoldierForLife	--> Soldier For Life
+#Kripes	--> Kripes
+#patriotic	--> patriotic
+#AMERICANS	--> AMERICANS
+#LNSM	--> LNSM
+#TheRundown	--> The Run down
+#vegan	--> vegan
+#The	--> The
+#Maher	--> Maher
+#BillMaher	--> Bill Maher
+#ripchriskyle	--> rip chris kyle
+#GodBlessOurSoldiers	--> God Bless Our Soldiers
+#دمية	--> دمية
+#المشاهدين	--> المشاهدين
+#Actionha	-->
+#seal	--> seal
+#EstrenosCU	-->
+#UnaNocheEnElMuseo	-->
+#HotPockets	--> Hot Pockets
+#GodCountryFamily	--> God Country Family
+#Family	--> Family
+#NaziLivesMatter	--> NaziLives Matter
+#justkidding	--> just kidding
+#fuckthat	--> fuck that
+#FuckKrauts	--> Fuck Krauts
+#FuckLiberals	--> Fuck Liberals
+#DEMOCRATS	--> DEMOCRATS
+#hypocrites	--> hypocrites
+#NRA	--> NRA
+#FF	-->
+#americansniperstory	--> american sniper story
+#Ted2	--> Ted2
+#MagicMikeXXL	--> Magic Mike XXL
+#SkipTheSpeech	--> Skip The Speech
+#gaza	--> gaza
+#apartheid	--> apartheid
+#WarVeteran	--> War Veteran
+#Outnumbered	--> Out numbered
+#Kusturica	--> Kusturica
+#Bergdahl	--> Bergdahl
+#TXGOP	--> TXGOP
+#wef15	--> wef15
+#kill	--> kill
+#GetMoviesYo	-->
+#PoliticalClass	--> Political Class
+#القناص_الامريكي	--> القناص_الامريكي
+#TP4A	--> TP4A
+#teambuck	--> teambuck
+#OneShotOneKill	--> One Shot One Kill
+#GodBlessTheKyleFamily	--> God Bless The Kyle Family
+#GreatAmericanHero	--> Great American Hero
+#GodBless	--> God Bless
+#HOOey	--> HOOey
+#EclecticPop	--> Eclectic Pop
+#wwwblogs	--> www blogs
+#TakingThePishChaps	--> Taking The PishChaps
+#gunsense	--> gun sense
+#pelledoca	--> pelledoca
+#BrianWilliams	--> Brian Williams
+#leiene	--> leiene
+#RedFriday	--> Red Friday
+#ebook	--> ebook
+#paperback	--> paper back
+#nonfiction	--> non fiction
+#BestSellersList	--> Best Sellers List
+#SpongeBob	--> SpongeBob
+#Concours	--> Concours
+#warner	--> warner
+#CHAPELHILLSHOOTING	--> CHAPEL HILL SHOOTING
+#JODIARIAS	--> JODIARIAS
+#WarrirosLiveByACode	-->
+#MadeInHollywood	-->
+#awards	--> awards
+#1600VINE	--> 1600 VINE
+#congrats	--> congrats
+#TheGoldPatrol	--> The Gold Patrol
+#MuslimLivesMatter	--> Muslim Lives Matter
+#RIPCK	--> RIPCK
+#Done	--> Done
+#MaxTV	-->
+#87thAcademyAwards	-->
+#ILoveUSA	--> Love USA
+#ThanksToOurServiceMembers	-->
+#foxcatcher	--> fox catcher
+#ChrisKyleBand	--> Chris Kyle Band
+#MejorPelicula	--> Mejor Pelicula
+#StayMad	--> Stay Mad
+#CitizenFour	--> Citizen Four
+#Forevermark	--> Forever mark
+#NewDay	--> New Day
+#islamophobia	--> islamophobia
+#obama	--> obama
+#NobelPeacePrize	--> Nobel Peace Prize
+#liberalbias	--> liberal bias
+#Breaking	--> Breaking
+#WCVB	--> WCVB
+#RETWEET	--> RETWEET
+#ForYourMates	--> For Your Mates
+#JusticeServed	--> Justice Served
+#cinema	--> cinema
+#engagezvousrengagezvous	--> engagezvousrengagezvous
+#patriotisme	--> patriotisme
+#ICYMI	--> ICYMI
+#AmericanSniperVerdict	--> American Sniper Verdict
+#PepeEscobar	--> Pepe Escobar
+#supportourveterans	--> support our veterans
+#AñoNuevoCinéfilo	--> AñoNuevoCinéfilo
+#Fury	--> Fury
+#trueamericanhero	--> true american hero
+#theman	--> the man
+#unbelievable	--> unbelievable
+#pelicula	--> pelicula
+#airsoftespana	--> air softe spana
+#22tozero	-->
+#MilitaryLivesMatter	--> Military Lives Matter
+#Francotirador	--> Francotirador
+#blessedineveryway	-->
+#thankyousoldiersofamerica	-->
+#SkyOscars	--> Sky Oscars
+#AmericanMurderFranchise	--> American Murder Franchise
+#mykindofmovie	-->
+#ManStuff	--> Man Stuff
+#YouHadOneJob	--> You Had One Job
+#ITShowbiz	-->
+#now	--> now
+#ThankYou	--> ThankYou
+#IndieLounge	--> Indie Lounge
+#sundance	--> sundance
+#classic	--> classic
+#notsorry	--> not sorry
+#GoodAssFriday	--> Good Ass Friday
+#joehenson	-->
+#fearisntreal	-->
+#Bang	--> Bang
+#RestInPeace	-->
+#Hunter	-->
+#oscar	--> oscar
+#legit	-->
+#NoTurningBack	-->
+#mustwatch	--> must watch
+#inspired	-->
+#muchrespect	--> much respect
+#someonetakeme	-->
+#oorah	-->
+#Entertainment	-->
+#realheros	-->
+#CHRISKYLE	-->
+#vets	-->
+#usaf	-->
+#HOOAH	-->
+#whosdown	-->
+#Pjnet	-->
+#Assad	-->
+#SYRIA	-->
+#humanrights	-->
+#savesyriachildren	-->
+#JeSuisCharlie	-->
+#UN	-->
+#SealTeamSix	-->
+#NoEasyDay	-->
+#GoNavy	-->
+#NeedFriends	-->
+#MovieDay	--> Movie Day
+#AmericanHERO	--> American HERO
+#patriotismwins	-->
+#jealous	-->
+#oggicosì	-->
+#Upside	-->
+#HookEm	-->
+#TheBaghdadSniper	--> The Baghdad Sniper
+#TMZ	-->
+#gtfo	-->
+#republicans	-->
+#ElFrancotirador	-->
+#wvufootball	-->
+#MadeinLA	-->
+#Fye	-->
+#usausausa	--> usa usa usa
+#war	--> war
+#NoRespect	-->
+#Army	-->
+#Airforce	-->
+#Coops	-->
+#harrypotterforrepublicans	-->
+#fyilive	-->
+#msnbc	-->
+#rush	-->
+#hannity	-->
+#right	-->
+#stoprush	-->
+#RESPECT	-->
+#Constantine	-->
+#semperfi	-->
+#GH	-->
+#YR	-->
+#AnneHathaway	-->
+#iltempoelastoria	-->
+#fatties	-->
+#Volunteer	-->
+#TheBachelor	-->
+#khou	-->
+#nojoke	-->
+#pt	-->
+#ObamaLies	-->
+#GREATMOVIE	-->
+#Gripping	-->
+#nofriends	-->
+#SayNoToExtremism	-->
+#BBN	-->
+#movieaddictrules	-->
+#Mdogdizzle27	-->
+#DontCallMeBaby	-->
+#TurnYourBackOnObama	-->
+#HEROS	-->
+#MadRespect	--> Mad Respect
+#thatsmykindofshit	-->
+#frontpage	-->
+#Palin	--> Palin
+#oscarnoms	--> oscar noms
+#NotaPotentialSerialKiller	-->
+#TheXFiles	-->
+#24	-->
+#bestdayoff	-->
+#Shrinkage	-->
+#Sniff	-->
+#DieSandNigger	-->
+#TheBorgias	-->
+#Youtube	-->
+#LtColGrossman	-->
+#MustRead	--> Must Read
+#Warrior	--> Warrior
+#JesseVentura	-->
+#litigation	-->
+#sofTH	-->
+#Mustsee	--> Must see
+#DoIt	-->
+#SNIPER	--> SNIPER
+#film	--> film
+#RealCowards	-->
+#UltimateSurvivalAlaska	-->
+#DLRS	-->
+#TroopsThursday	-->
+#USRC	-->
+#USNavy	-->
+#NavySEALS	-->
+#thankyoujesus	-->
+#GunsUp	-->
+#RWNJ	-->
+#FOXCATCHER	-->
+#Nazi	-->
+#Murderer	--> Murderer
+#Telling	-->
+#Awesome	-->
+#PoliticalHeat	-->
+#unreal	-->
+#200MillionAndCounting	-->
+#militaryfamilies	-->
+#besidestheending	-->
+#thankyoulegend	--> thank you legend
+#ASSAD	-->
+#SaveTheRest	-->
+#AssadCrimes	-->
+#ObamaCare	-->
+#EditorialCartoon	-->
+#sethrogen	-->
+#FUMichaelMoore	-->
+#homeandawaycolors	-->
+#SheepDog	-->
+#uniteblue	-->
+#LiberalLunacy	-->
+#TektonStrong	-->
+#Herdfam	-->
+#MovieTime	--> Movie Time
+#JustChrisKyleThings	-->
+#buffalowildwings	-->
+#IslamicState	--> Islamic State
+#NoamChomsky	-->
+#TheLeftHatesTheMilitary	-->
+#solider	-->
+#father	-->
+#husband	-->
+#friend	-->
+#EyeOpening	-->
+#Obama	--> Obama
+#BoweBergdahl	-->
+#Daesh	-->
+#bravo	-->
+#아메리칸스나이퍼	-->
+#VETS	-->
+#podcast	-->
+#oreillyfactor	-->
+#intense	-->
+#PopCulture	-->
+#disgusting	-->
+#Racist	-->
+#Left	-->
+#TGDN	-->
+#ncpol	-->
+#Arizona	-->
+#scpol	-->
+#txpolitics	-->
+#MartinLutherKing	--> Martin Luther King
+#gunrights	-->
+#gunowners	-->
+#FoxNewsCHAT	-->
+#haram	-->
+#Jihadi	--> Jihadi
+#Fail	-->
+#thetheoryofeverything	-->
+#theimitationgame	-->
+#PuppyBowl2015	-->
+#AmericanBadass	--> American Badass
+#NationalFreedomDay	-->
+#Father	-->
+#Husband	-->
+#Remember	-->
+#NEVERForget	-->
+#NSW	-->
+#PadThai	-->
+#Shades	--> Shades
+#Nightcrawler	-->
+#cinéma	-->
+#Kobani	-->
+#TwitterKurds	-->
+#totesjealous	-->
+#Review	-->
+#TECNation	-->
+#popcornbucket	-->
+#PopCornTime	-->
+#actorslife	-->
+#ClassAct	-->
+#Brilliant	-->
+#Marine	-->
+#Reaper	--> Reaper
+#TrippleDogDare	-->
+#ReadyWhenYouAre	-->
+#sound	-->
+#adaptedscreenplay	-->
+#BAFTAs	-->
+#EduardoAbril	-->
+#SniperEnCALA	-->
+#TurnActionMovieIntoRomCom	-->
+#GodBlessTheUSA	--> God Bless The USA
+#DGAAwards	-->
+#bible	-->
+#jesus	-->
+#Christianity	-->
+#christian	-->
+#atheist	-->
+#atheism	-->
+#Freethinker	-->
+#secular	-->
+#skeptic	-->
+#muslimlivesmatter	-->
+#HLN	-->
+#WarriorWedneday	-->
+#chapelhillkilling	-->
+#eddierayRouth	-->
+#libtards	-->
+#weareeversofucked	-->
+#Impeachobama	-->
+#50Shades	-->
+#Letter4U	-->
+#فلم	-->
+#wetandwild	-->
+#FatherForgiveThem	-->
+#Nicaragua	-->
+#ChryslerVF	-->
+#CINEMA	-->
+#Palestine	--> Palestine
+#israël	-->
+#FOIA	-->
+#BaseballVines	-->
+#MLB	-->
+#RyanBraun	-->
+#BruceJenner	-->
+#EdfieRayRouth	-->
+#ChrisKyleIsaFuckBoy	-->
+#OSCARBAIT	-->
+#unsoirunfilm	-->
+#SniperTrial	--> Sniper Trial
+#NavySeal	-->
+#Citizenfour	-->
+#BradlyCooper	-->
+#AmericasSweetheart	-->
+#OscarWatch	-->
+#TheNewITcolorDress	-->
+#BradPitt	-->
+#AlfombraRojaE	-->
+#hailhydra	-->
+#killme	-->
+#MejorEdiciónDeSonido	-->
+#Oscar40	-->
+#johnjay	-->
+#ChrisKyleHero	--> Chris Kyle Hero
+#TeamChichobelo	-->
+#400Million	-->
+#RealHeroesDontRockSwagBags	-->
+#Academy	--> Academy
+#hollyweirdos	-->
+#LaFiertéDeLaNation	-->
+#InglouriousBasterds	-->
+#OscarSoPredictable	-->
+#OscarSoBoring	-->
+#RNC	-->
+#HollywoodHatesAmerica	-->
+#DownWithTheOscars	-->
+#UpWithBradleyCooper	-->
+#BestSoundEditing	-->
+#TheTheoryOfEverything	-->
+#hollywoodpolitics	--> hollywood politics
+#AmericanLiar	-->
+#Seinfeld	-->
+#CAIR	-->
+#WJZ	-->
+#LastWord	-->
+#Verdict	--> Verdict
+#ORPUW	-->
+#CZNnoticias	-->
+#BillOReillyMisremembers	-->
+#HashtagHijack	-->
+#BRITs2015	-->
+#PrayForDRose	-->
+#SpeakBeautiful	-->
+#aspekte	-->
+#TexasForever	--> Texas Forever
+#NATIVE	-->
+#UNITEDRIGHT	-->
+#T13	-->
+#WOWSOME	-->
+#TheGambler	-->
+#BigEyes	-->
+#IntoTheWoods	-->
+#HartfordCT	-->
+#thestruggle	-->
+#MyMPN	-->
+#Soldier	--> Soldier
+#Texan	-->
+#awesomemovie	-->
+#truehero	--> true hero
+#feelingpatriotic	-->
+#oomf	-->
+#AmericanLegend	--> American Legend
+#c4news	-->
+#AMERICANHERO	--> AMERICAN HERO
+#freedomisntfree	-->
+#NoWords	-->
+#RipChrisKyle	-->
+#greatfilm	--> great film
+#tearjerker	-->
+#ترشيحات_الأوسكار	-->
+#OscarNominations	-->
+#OscarsNoms	--> Oscars Noms
+#OscarSnubs	--> Oscar Snubs
+#BangBang	--> Bang Bang
+#GodBlessOurWarriors	-->
+#aye	-->
+#PhiPsi	-->
+#LiveEverDieNever	-->
+#Curtis	-->
+#RobotBaby	-->
+#SoReal	-->
+#GreatMovie	--> Great Movie
+#10outof10	-->
+#moncrieff	-->
+#airlinebaseball	-->
+#thirdwheeling	-->
+#same	-->
+#sarcasm	-->
+#RespectForOurMilitary	--> Respect For Our Military
+#TrueBadass	--> True Badass
+#brilliant	-->
+#Enlisting	-->
+#ThankYouMilitary	--> ThankYou Military
+#grubtour	-->
+#someonegowithme	-->
+#Incredible	-->
+#Murrica	-->
+#landofthefree	-->
+#Whora	-->
+#twitterlessbae	-->
+#ManhattanLoveStory	-->
+#MURICA	-->
+#OnePerfectShot	-->
+#SienaSaints	-->
+#2a	-->
+#NYPD	-->
+#boycottstateoftheuniontuesday	-->
+#warprofiteer	-->
+#5stars	-->
+#USARMY	-->
+#Republicans	-->
+#Clickbait	-->
+#incredible	-->
+#TruthRevolt	-->
+#ScottMcEwen	-->
+#Teaparty	--> Tea party
+#NaziPropaganda	-->
+#SupportOurVeterans	--> Support Our Veterans
+#Seahawks	-->
+#12thMan	-->
+#AusOpen	-->
+#suicide	-->
+#Nashville	-->
+#BookTv	-->
+#livesmatter	-->
+#SethRogans	-->
+#Superman	--> Superman
+#QARLive	-->
+#tpot	-->
+#TheInterview	-->
+#selma	-->
+#PTSDAwareness	-->
+#WarriorHeroChrisKyle	--> Warrior Hero Chris Kyle
+#Hamas	-->
+#northkorea	-->
+#China	-->
+#EpitamyOfPatriotism	-->
+#EpitamyOfUSWarrior	-->
+#USAPride	-->
+#GodBlessUSA	--> God Bless USA
+#meow	-->
+#quiet	-->
+#SalcedoStorm	-->
+#honorthevets	-->
+#kellyfile	-->
+#JasonHall	-->
+#MajorProps	-->
+#BacksToObama	-->
+#MilitaryLife	--> Military Life
+#MBEntertainment	-->
+#roundtwoanyone	-->
+#needtosee	-->
+#TopBigot	-->
+#Rip	-->
+#INOX	-->
+#Anyone	-->
+#Mercia	-->
+#sheepdogs	-->
+#ClintEastWoodDirected	-->
+#respectfortheFallen	-->
+#MyMovieNightWasOnFleek	-->
+#nra	-->
+#coleg	-->
+#Redeployed	-->
+#TrueAmericanHero	--> True American Hero
+#Bumbe	-->
+#BoycottAmericanSniper	-->
+#DawnOfApes	-->
+#standbehindourtroops	-->
+#AVCHonors	-->
+#Gamecocks	-->
+#GoCocks	-->
+#BlakeShelton	-->
+#screenwriter	-->
+#CarlosHathcock	-->
+#BestFilmEver	--> Best Film Ever
+#Oscarnominations	-->
+#Edm	-->
+#EdmFamily	-->
+#Electro	-->
+#oip	-->
+#ThanWatchSOTU	-->
+#HYPOCRITES	-->
+#CoughCough	-->
+#CallofDuty	-->
+#CantMakeThisShitUp	-->
+#ObamaFailYetAgain	-->
+#MundoShow	-->
+#POTUS	-->
+#WhiteGenocide	-->
+#YesWeTan	-->
+#MISOTS15	-->
+#snubbed	-->
+#TruthBombs	-->
+#PrayForIraq	-->
+#thanksfriends	-->
+#mileaway	-->
+#conspiracy	-->
+#heroesweardogtags	-->
+#leavethecountry	-->
+#cheersNHS	-->
+#Detroit	-->
+#عابر_سبيل	-->
+#thefeels	--> the feels
+#it	-->
+#GoogleAlerts	-->
+#JustSaying	-->
+#drone	-->
+#TFM	-->
+#TheGoodLie	-->
+#MichealMoore	-->
+#MichaelMooreIsACoward	-->
+#FullMetalJacket	-->
+#fakebaby	-->
+#Slacking	-->
+#evil	-->
+#ToughGuyRomComs	-->
+#selfie	-->
+#cash	-->
+#Everylifematters	-->
+#العراق	-->
+#qarlive	-->
+#ProLife	-->
+#WombLifeMatters	-->
+#EndAbortion	-->
+#EndLiberalism	-->
+#FreedomOfSpeech	-->
+#IFE	-->
+#PaxEx	-->
+#UKIP	-->
+#Psychopathy	-->
+#AmericanIdol	-->
+#Religion	-->
+#UK	-->
+#fries	-->
+#imlovinit	-->
+#McDonalds	-->
+#mcdonaldstour2015	-->
+#withdad	-->
+#BTXtrack	-->
+#UnitedXXVI	-->
+#Frayze	-->
+#FrayzeXPlayBack	-->
+#ChrisKyleFrog	--> Chris Kyle Frog
+#Geeeeez	-->
+#Thankful	--> Thank ful
+#prolife	-->
+#Oorah	-->
+#ImpeachObama	-->
+#TheRealHero	--> The Real Hero
+#POSobama	-->
+#eyeopener	-->
+#song	-->
+#SoundTrack	-->
+#RedNeck	-->
+#Blackhat	-->
+#Wild	-->
+#taylornegron	-->
+#ArmedForces	-->
+#F3counts	-->
+#npr	-->
+#bebeenplastique	-->
+#propaganda2damax	-->
+#despise	-->
+#GranEstreno	-->
+#ufo	-->
+#ABC	-->
+#loyalty	-->
+#iceblast	-->
+#ZeroMotivation	-->
+#COD	-->
+#TRUTH	-->
+#Sundance2015	--> Sundance 2015
+#5	-->
+#GetAclue	-->
+#NYTBestSellerList	-->
+#facepalm	-->
+#SonsOfLIberty	-->
+#powerfulmovie	--> powerful movie
+#TheMovieOfAWarrior	-->
+#HoneyHideTheKids	-->
+#Joking	-->
+#Congrats	-->
+#CommonSense	-->
+#BlackTwitter	--> Black Twitter
+#Islamists	-->
+#stupidfucks	-->
+#SHAMEonU	-->
+#HumanRights	-->
+#WarOnWomen	-->
+#mothersday	-->
+#unitebleu	-->
+#DeflateGate	-->
+#CDCwhistleblower	-->
+#aftonbladet	-->
+#MSM	-->
+#BigCorps	-->
+#brainwash	-->
+#bigotry	-->
+#hatred	-->
+#fuckwar	--> fuck war
+#tribalism	-->
+#Snowden	--> Snowden
+#Ironic	-->
+#Liberal	--> Liberal
+#Progressive	-->
+#EndWarCulture	-->
+#EndWarGlorification	-->
+#EndJingoism	-->
+#LOLNRA	-->
+#WWJD	-->
+#ProudAmerican	--> Proud American
+#Spielberg	-->
+#California	-->
+#GODandCOUNTRY	-->
+#StriveForGreatness	-->
+#Jesus	-->
+#SonsofLiberty	-->
+#Toronto	-->
+#SketchComedy	-->
+#chillin	-->
+#blizzard2015	-->
+#Middletown	-->
+#OH	-->
+#HipHop	-->
+#2Months	-->
+#SanDiego	-->
+#Homeland	-->
+#SHEEPDOG	-->
+#PBROKC	-->
+#GarySinise	-->
+#5DollarTuesday	-->
+#SniperAmerican	--> Sniper American
+#TYT	-->
+#realnews	-->
+#AngelinaJolie	-->
+#housing	-->
+#donation	-->
+#help	-->
+#Drone	-->
+#HereWeGo	-->
+#shareAMC	-->
+#howarddean	-->
+#USMilitary	-->
+#Silkworm	-->
+#girlonthetrain	-->
+#Miniaturist	-->
+#rsrh	-->
+#TakeThat	-->
+#uppers	-->
+#SilverLiningsPlaybook	-->
+#GodBlessYou	--> God Bless You
+#history	-->
+#Kidrock	-->
+#audiokorner	-->
+#ChrisKyleShitHimselfWhenHeDied	-->
+#lastword	-->
+#inners	-->
+#Share	-->
+#warpropaganda	--> war propaganda
+#goodreadschallenge	-->
+#TurnYourBack	--> Turn Your Back
+#DidYouKnow	-->
+#lebasi	-->
+#TedCruz	-->
+#neocon	-->
+#islamisevil	-->
+#IslamicTerrorism	--> Islamic Terrorism
+#islam	--> islam
+#SDCC	-->
+#GunSense	-->
+#GunViolence	-->
+#perspective	-->
+#Patriots	--> Patriots
+#SuperBowlXLIX	-->
+#NFL	-->
+#StarsAndStripes	--> Stars And Stripes
+#Follow	-->
+#OscarsLunch	-->
+#ChrisKyleObservanceDay	-->
+#MILITARY	-->
+#ChrisKyleday	-->
+#AMCMovieNews	-->
+#TheAnnouncement	-->
+#4	-->
+#HonorChrisKyleDay	--> Honor Chris Kyle Day
+#PaddingtonMovie	-->
+#ProjectAlmanac	-->
+#BlackOrWhite	-->
+#Wedowhatwehaveto	-->
+#Tangerines	-->
+#Exceptional	-->
+#NowWatching	-->
+#life	--> life
+#Angels	-->
+#DontScrewUpDeadpoolHollywood	-->
+#Deadpool	--> Dead pool
+#reiders	-->
+#heavystuff	-->
+#ManufacturingConsent	-->
+#MilitaryIndustrialComplex	-->
+#BrianWilliamsMisremembers	-->
+#Coors	-->
+#Teams	-->
+#World	-->
+#Zapping	-->
+#EEUU	-->
+#BobEsponja	-->
+#iSBU	-->
+#CensureSocialiste	-->
+#adventurecrew	-->
+#lincoln	-->
+#rocky	-->
+#Springsteen	-->
+#8	-->
+#marines	-->
+#MoviesMadeMeDoIT	-->
+#WhiteSupremacy	-->
+#WhitePrivilege	--> White Privilege
+#TXvsEddieRouth	-->
+#BigHero6	-->
+#ChisKyle	-->
+#aaronhernandez	-->
+#UNCShooting	-->
+#Vets	-->
+#GOPFILMS	-->
+#TN7	-->
+#tayakyle	-->
+#proudTexan	-->
+#THANKYOU	-->
+#NZZaS	-->
+#Paletta	-->
+#MilanEmpoli	-->
+#spoiled	-->
+#CleverBranding	-->
+#Gazebo	-->
+#JosseMatin	-->
+#Irak	-->
+#SopaDeQueso	-->
+#JamesHomes	-->
+#MovieMassacre	-->
+#ObsequioÚN	-->
+#Caracas	-->
+#spoof	-->
+#ObamaLovesAmericaLike	-->
+#Lithuania	-->
+#Oneofthebestdirectorsever	-->
+#Art	-->
+#AMirrorForOurSociety	-->
+#Ansiosos	-->
+#CNNOscars	-->
+#Oscarson2	-->
+#OscarGattopardo	-->
+#HomeRocks	-->
+#OscarsGVL	-->
+#woundedwarriors	-->
+#sorry	--> sorry
+#bestmovieever	-->
+#ElGranHotelDeBudapest	-->
+#Wishplash	-->
+#imperialism	-->
+#murder	-->
+#crimesagainsthumanity	-->
+#drones	-->
+#torture	-->
+#BudapestHotel	--> Budapest Hotel
+#Ida	-->
+#ticket	-->
+#morons	-->
+#MichaelKeaton	-->
+#Oscartv2	-->
+#oscarssowhite	-->
+#Twitter	--> Twitter
+#Musulmans	-->
+#AmericanWhimpers	-->
+#WIunion	-->
+#birdman	-->
+#immigration	-->
+#KrisKyle	--> Kris Kyle
+#Prayersarewithyou	--> Prayers are with you
+#Iran	-->
+#boyhood	-->
+#Osars2015	-->
+#MILITARYMONDAY	-->
+#rtlln	-->
+#soiree	-->
+#relax	-->
+#Fifty	--> Fifty
+#osacrs	-->
+#TX	-->
+#khou11	-->
+#OscarBuzz	-->
+#UKInsultsOmaniGirls	-->
+#Mediavictim	-->
+#KenzaMorsli	-->
+#TaylorSwift	-->
+#HashtagHijak	-->
+#PLLTheory	-->
+#REVOIR	-->
+#28min	-->
+#PAs	-->
+#physicianassistant	-->
+#SpencerHasResources	-->
+#hyped	-->
+#americanSniper	--> american Sniper
+#perfect	-->
+#neverfooledme	-->
+#alwaystroophaters	-->
+#chefilm	-->
+#IMDb	-->
+#impatient	-->
+#needtowatch	-->
+#abcfairR	-->
+#MakeAMovieSmarter	-->
+#winning	-->
+#Sweepstakes	-->
+#Bits	-->
+#NBCNightlyNews	--> NBC Nightly News
+#bieber	-->
+#What	-->
+#libro	-->
+#BenghaziVideo	-->
+#DeFundAmnesty	-->
+#2ndAmendment	-->
+#leadership	-->
+#ArmyStrong	-->
+#business	-->
+#bestactor	-->
+#Holiday	-->
+#NominadosOscar	-->
+#افضل_مونتاج_صوتي	-->
+#TheHobbit	--> The Hobbit
+#تي_في	-->
+#افضل_مونتاج	-->
+#GrandBudapest	--> Grand Budapest
+#audio	-->
+#mixing	-->
+#Medicore	-->
+#great	--> great
+#Finally	-->
+#ReclineatRegal	-->
+#InfoActual	-->
+#excited	-->
+#SmartNews	-->
+#thankfulthursday	--> thankful thursday
+#troops	--> troops
+#BenedictCumberbatch	-->
+#alltheway	-->
+#TangoDown	-->
+#queensNYC	-->
+#GodBlesstheUS	-->
+#roundofapplause	-->
+#everyonegoseeit	-->
+#ProjectHappy	-->
+#MovieTip	-->
+#KingAbdullah	-->
+#variety	-->
+#R	-->
+#greatamerican	--> great american
+#LovedIt	-->
+#Mespronos	-->
+#BOOM	-->
+#Profound	-->
+#Isles	-->
+#gymlife	-->
+#muscleoverbeer	-->
+#11	-->
+#Amazing	-->
+#startups	-->
+#ANTIWAR	-->
+#SupportGoodMovies2015	--> Support Good Movies 2015
+#EnoughSaid	-->
+#BasedOnATrueStory	-->
+#completesilence	-->
+#wholetheater	-->
+#FreedomBoner	-->
+#warisnasty	-->
+#peace	-->
+#touched	-->
+#utterlyspeechless	-->
+#NameYourJunkAfterAGame	-->
+#NHLJets	-->
+#goJetsGo	-->
+#Raw	-->
+#rome	-->
+#CzTorrent	-->
+#REDLIGHT	-->
+#somebodyhelp	-->
+#DeffAMustSee	-->
+#nobrownleft	-->
+#wilhelm	-->
+#daily	-->
+#hourly	-->
+#AWESOME	-->
+#dangflabbitmiley	-->
+#Blessed	--> Blessed
+#GoDawgs	-->
+#Butler	-->
+#AmazingMovie	-->
+#yaboywasbig	-->
+#NoRagrets	-->
+#FordRanger	-->
+#depressed	-->
+#MilsoProbs	-->
+#nuffsaid	-->
+#alwaysremember	-->
+#bae	-->
+#gf	-->
+#trulove	-->
+#FiveWordsToRuinAJobInterview	-->
+#TwoThingsILoveAboutCam	-->
+#WhitneyMovie	-->
+#AMERICAN	--> AMERICAN
+#BoycottSOTU	-->
+#effetticollaterali	-->
+#killer	-->
+#donthate	-->
+#MovieReview	-->
+#AmericaSniper	--> America Sniper
+#football	-->
+#MovieNight	--> Movie Night
+#liberal	--> liberal
+#lookingforwarriors	-->
+#GoneButNotForgotten	-->
+#Deblasio	-->
+#nypd	-->
+#yams	-->
+#UnbelievablyMoving	-->
+#RealAmericanHero	--> Real American Hero
+#SEALS	-->
+#KillTheMessenger	-->
+#feminist	-->
+#WesternValues	-->
+#psychiatry	-->
+#oprah	-->
+#pawnstars	-->
+#coke	-->
+#cocacola	-->
+#pawn	-->
+#vegas	-->
+#highlyrecommended	-->
+#MinaAttaKingdom	-->
+#Christian	-->
+#BravoZulu	-->
+#sethrogan	-->
+#USMarine	-->
+#offended	-->
+#WE	-->
+#SavageEmpire	-->
+#Poem	-->
+#WarIsPeace	-->
+#Poetry	-->
+#HonestMovieTitle	-->
+#Cowards	-->
+#AntiAmerican	-->
+#celebs	-->
+#NICE	-->
+#Sethrogen	-->
+#Change	-->
+#Homeofthefreebecauseofthebrave	-->
+#BreakingBad	-->
+#fantastic	-->
+#SETHROGEN	-->
+#NAZI	-->
+#PROPAGANDA	-->
+#ContentOfCharacter	-->
+#unfollow	-->
+#competition	-->
+#win	--> win
+#usarmy	-->
+#hurr	-->
+#indiegamedev	-->
+#JaneFondaForeverATraitor	-->
+#BlackPanthers	-->
+#TeamAmerica	--> Team America
+#Morlock	-->
+#edShow	-->
+#edshow	-->
+#LibButthurt	-->
+#poster	-->
+#design	-->
+#verygoodmovie	-->
+#fascism	-->
+#theshortlist	-->
+#handsdown	-->
+#GodBlessTayaKyle	--> God Bless Taya Kyle
+#MericaMonday	--> Merica Monday
+#TEAParty	-->
+#vetstrong	-->
+#Truth	-->
+#Perfect	-->
+#maddow	-->
+#media	--> media
+#ohtheirony	-->
+#LISTEN	-->
+#RIPFrogmanCK	-->
+#GodBlessOurHeroes	--> God Bless Our Heroes
+#ThankYouTroops	--> ThankYou Troops
+#uspoli	-->
+#Kenzie	-->
+#Parents	-->
+#nodoubt	-->
+#LOL	-->
+#preach	-->
+#SEMPERFI	-->
+#RWS	-->
+#NAP	-->
+#OutOfTouch	-->
+#michaelMoore	--> michael Moore
+#HeroesAll	--> Heroes All
+#WWZ	-->
+#newfriends	-->
+#RespectOurMilitary	--> Respect Our Military
+#mericafuckya	-->
+#LoveMyCountry	-->
+#redeye	-->
+#racewars	-->
+#ListenNow	-->
+#wars	-->
+#5months	-->
+#premiere	--> premiere
+#BestMovieoftheYear	-->
+#PT	-->
+#Snipers	-->
+#Tweets	-->
+#Twitchy	-->
+#Tactical	-->
+#ThankfulTuesday	--> Thank ful Tuesday
+#538	-->
+#LiberalsTheseDays	-->
+#I	-->
+#ATrueHero	--> True Hero
+#TPOT	-->
+#C4L	-->
+#h4eadrule	-->
+#Kilmeadebig3	-->
+#walkamileincombatbootsbeforeyoujudge	-->
+#solidersareHEROES	-->
+#speachless	-->
+#CNN	-->
+#werenotthatugly	-->
+#cdnpoli	-->
+#robbed	-->
+#WestLA	-->
+#KentuckyEffect	-->
+#training	-->
+#lightning	-->
+#oneofmyfavorites	-->
+#WashFreeBeacon	-->
+#ft71	-->
+#RubberBaby	-->
+#fixed	-->
+#TheBriefing	-->
+#Malpaso	-->
+#Godblessthetroops	--> God bless the troops
+#BoycottMichaelMoore	-->
+#BoycottSethRogen	-->
+#STOU	-->
+#GOP	-->
+#REPUBLICANS	-->
+#NoDebate	-->
+#IraqWar	--> Iraq War
+#IraqiSniper	-->
+#eatattheg	-->
+#galwayhour	-->
+#norespect	-->
+#chokeondick	-->
+#BYE	-->
+#NotAllAmericans	-->
+#endlesswar	--> end less war
+#ImSorry	-->
+#ignorantpeople	-->
+#indiedev	-->
+#AndroidDev	-->
+#android	-->
+#NationsPride	-->
+#graffiti	-->
+#LosAngeles	-->
+#GregGutfeld	-->
+#ArthurSilber	-->
+#babybackribs	-->
+#MM4A	-->
+#StopRush	-->
+#TragicStory	-->
+#MittRomney	-->
+#MERICA	-->
+#MyJihad	-->
+#Yep	-->
+#GetOut	--> Get Out
+#WAAR	-->
+#totallyrossome	-->
+#Bottlebreacher	-->
+#learnto360noscope	-->
+#noob	-->
+#snipers	-->
+#batb	-->
+#QualityMovieNight	-->
+#WhatsMoreAmerican	--> hats More American
+#Grizzly	-->
+#GranTorino	-->
+#WhoopiGoldberg	-->
+#TheView	-->
+#longreads	-->
+#blizzardof2015	-->
+#Vietnam	-->
+#forChrisKyle	--> for Chris Kyle
+#ThatsADoll	-->
+#freejay	-->
+#fucktheopps	-->
+#fge	-->
+#boycottAmericanSniper	-->
+#ntfm	-->
+#Rangers	-->
+#HOORAH	-->
+#trndnl2015	-->
+#حمرا	-->
+#911	-->
+#CBB	-->
+#OscarNom	-->
+#YappingTour	-->
+#Alaska	-->
+#ChrisKyles	-->
+#friends	-->
+#ycot	-->
+#handsomebob	-->
+#bain	-->
+#thoseeyes	-->
+#prayforpeaceonearth	-->
+#EmbassyScreens	-->
+#goodnightkrush	-->
+#KillingIraqiChildrenCanBeSexy	-->
+#jingoism	-->
+#ActiveHeroes	-->
+#kcco	-->
+#ZeeJLF	-->
+#mumbai	-->
+#AIBKnockout	-->
+#casting	-->
+#NotSports	-->
+#Avid	-->
+#hinthint	-->
+#someonebecute	-->
+#veteransaffairs	-->
+#NGL	-->
+#face	-->
+#picofthenight	-->
+#FakeBabyGate	-->
+#Kurdish	-->
+#WVU	-->
+#AskTheWH	-->
+#FilmUpdate	-->
+#AsktheWH	-->
+#Fahrenheit911	-->
+#freemovie	--> free movie
+#babydoll	-->
+#hystericalLaughing	-->
+#alllivesmatter	-->
+#diet	-->
+#LOVETHIS	-->
+#CountryMusic	-->
+#BAM	-->
+#GamerGate	-->
+#NavyPride	-->
+#HeroesReborn	-->
+#Liberty	--> Liberty
+#ProLifeVoices	-->
+#OscarNominee	-->
+#LuxLevel	-->
+#HawksHeadline	-->
+#Chris	--> Chris
+#ahsfreakshow	-->
+#GodBlesstheUSA	--> God Bless the USA
+#AmericanSnooper	-->
+#goals	-->
+#Shrek	-->
+#raysipe	-->
+#comedy	-->
+#KKK	-->
+#AlecBaldwin	-->
+#oldschool	-->
+#pizzahut	-->
+#daydate	-->
+#itsthelittlethings	-->
+#left	-->
+#AmericanCluelessness	-->
+#ForrestGump	-->
+#LBJ	-->
+#breadandcircuses	-->
+#mentalhealth	-->
+#GOAT	-->
+#C2GTHR	-->
+#MBCAction	--> MBC Action
+#studentlife	--> student life
+#plusarmymenarehot	-->
+#LIVE	-->
+#SEAvsGB	-->
+#Top3moviegadgets	-->
+#Middleclass	-->
+#039	-->
+#CinemartCinemas	-->
+#ForestHills	-->
+#IstartedtheApocalypseBy	-->
+#dancecontestchampion	-->
+#wheresdabeef	-->
+#Goal	-->
+#ShowBox	--> Show Box
+#RedneckFilm	-->
+#Canada	-->
+#AmericanGriper	-->
+#Burn	--> Burn
+#RollingStone	-->
+#RollingStonesMagazine	-->
+#HANNITY	-->
+#lovedit	-->
+#TARGET	-->
+#fakebelly	-->
+#Truthdig	-->
+#BillyMiller	-->
+#jocksniffers	-->
+#CriedForATrueHero	-->
+#WeWillRememberYou	-->
+#recommended	-->
+#WEIRD	-->
+#JumpStartJanuary	-->
+#UVAHoax	-->
+#ShutUp	-->
+#522	-->
+#GreatRead	--> Great Read
+#Veteranstöd	-->
+#HailWV	-->
+#americansnipermoviechallenge	-->
+#dipbros	-->
+#VeteransLivesMatter	--> Veterans Lives Matter
+#Neocon	-->
+#Iraqi	-->
+#Dead	--> Dead
+#g8m	-->
+#etalk	-->
+#WWII	-->
+#ErniePyle	-->
+#preppertalk	-->
+#NatBerhe	-->
+#NYGiants	-->
+#NYG	-->
+#JeSuisBelgo	-->
+#nicklenneksnapstory	-->
+#TWIS	-->
+#5WordsToRuinADate	-->
+#DefineHero	-->
+#BarclayBurntAlicia	-->
+#theSouth	-->
+#Midwest	-->
+#Dixie	-->
+#WIN	-->
+#countrygirl	-->
+#sacrifice	-->
+#Thankyou	--> Thank you
+#honorvets	-->
+#liberty	-->
+#ChristianCleavage	-->
+#hooah	-->
+#WOW	-->
+#Thanks	--> Thanks
+#culture	-->
+#GodblessChrisKyle	--> God bless Chris Kyle
+#AnericanSniper	-->
+#وجهة_نظر	-->
+#JohnnyDepp	-->
+#highroad	-->
+#improveamoviebyaddingthetothetitle	-->
+#MoviePlusMovie	-->
+#celebrities	-->
+#criticalfeeling	-->
+#warandembodiment	-->
+#AustraliaDay	-->
+#book	--> book
+#awesomeness	-->
+#Success	-->
+#OBlock	-->
+#Gbe	-->
+#Swag	-->
+#Word	-->
+#BushDid911	-->
+#ImCrazy	-->
+#lit	-->
+#Farenheit911	-->
+#Russia	-->
+#JenniferLopez	-->
+#UnVoisinPresqueParfait	-->
+#Paddington	-->
+#TV	-->
+#tiot	-->
+#creepy	-->
+#TheRealStory	-->
+#Americans	-->
+#offensive	-->
+#InterésEnElMundo	-->
+#RT	-->
+#milspouse	-->
+#freedomofspeech	-->
+#outnumbered	--> out numbered
+#ToddStarnes	-->
+#garbage	-->
+#Mo	-->
+#sioa	-->
+#muslim	-->
+#USAismorethanNYCandLA	-->
+#whatafilm	-->
+#whatalegend	-->
+#PalestinianLivesMatter	--> Palestinian Lives Matter
+#IBlameIsrael	-->
+#FacesOfTheMovement	-->
+#Reign	-->
+#NoSettlementAdsOnFacebook	-->
+#Chicago	-->
+#WarnerBros	-->
+#dkpol	-->
+#ctot	-->
+#tytlive	-->
+#thefive	-->
+#NJ2AS	-->
+#AmericanDiplomat	-->
+#needtoseeit	-->
+#isis	-->
+#IDIOTS	-->
+#ChemicalWeaponsConvention	-->
+#Farandula	-->
+#pissedaf	-->
+#justwow	--> just wow
+#SupportTheTroops	--> Support The Troops
+#TJAMS	-->
+#mcm	-->
+#CitizensUnited	-->
+#RuinAWeddingIn5Words	-->
+#WarCrimes	-->
+#ReformIslamNOW	-->
+#madrespect	-->
+#MMFlint	-->
+#regram	-->
+#siennamiller	-->
+#americansnipermovie	--> american sniper movie
+#Alqaeda	-->
+#mw2	-->
+#TrueAmerican	--> True American
+#RealHero	--> Real Hero
+#Snowmageddon	-->
+#eddieRayRouth	-->
+#Democrats	-->
+#NYC	-->
+#women	-->
+#movienight	--> movie night
+#leftist	-->
+#pussy	-->
+#vagina	-->
+#penis	-->
+#anime	-->
+#anal	-->
+#analthrust	-->
+#Holocaust	-->
+#HolocaustRemembranceDay	-->
+#HolocaustMemorialDay	-->
+#Auschwitz70	-->
+#Impressive	-->
+#FlushRush	-->
+#daesh	-->
+#BellLetsTalk	-->
+#NC02	-->
+#foxnews	--> fox news
+#BlackWhite	--> Black White
+#LEGO	--> LEGO
+#Narrative	-->
+#moviedate	--> movie date
+#BellLetsTaIk	-->
+#filmmaking	-->
+#OSNoscars	-->
+#BornInTheWrongCountry	-->
+#TNTweeters	-->
+#Daeshbags	-->
+#ISIL	-->
+#Stoprush	-->
+#TxLege	-->
+#MesdeNominadas	-->
+#LQRVSLL	-->
+#JonJones	-->
+#Patriotic_War_Movie	-->
+#Pro_American_Movie	-->
+#family	-->
+#serving	-->
+#well	-->
+#over	-->
+#Hundred	-->
+#years	-->
+#never	--> never
+#Watch	-->
+#syria	-->
+#polio	-->
+#MorningJoe	-->
+#MSNBC	-->
+#mmfa	-->
+#html5fun	-->
+#AirForce	-->
+#Android	-->
+#asylumseekers	-->
+#css3	-->
+#FreedomOfPress	-->
+#BohemiaRising	-->
+#babe	-->
+#thatbod	-->
+#israelcriminal	-->
+#EvilSitcoms	-->
+#RussellBrand	-->
+#islamistheproblem	-->
+#BENGHAZI	-->
+#MSMFail	-->
+#LiberalIdiot	--> Liberal Idiot
+#staytuned	-->
+#greatbook	--> great book
+#Trustbetrayed	-->
+#nationalsecurity	-->
+#ForeignPolicy	-->
+#Liberals	--> Liberals
+#Cine	-->
+#AFFF76	-->
+#films	-->
+#businessintelligence	-->
+#youdecide	-->
+#dead	--> dead
+#drunk	-->
+#committed	-->
+#syriancivilwar	-->
+#childrenofsyria	-->
+#americanheroes	--> american heroes
+#HoneringCHrisKyle	-->
+#Wiplash	-->
+#Phenomenon	-->
+#Joe	-->
+#ISLAMISEVIL	-->
+#ISISクソコラグランプリ	-->
+#13hours	-->
+#Benghazi	-->
+#SuperBowlSunday	-->
+#AmericanHasbara	-->
+#whistleblowers	-->
+#WarCriminals	-->
+#WarOnTerror	-->
+#2nd	-->
+#rkba	-->
+#SomberEnding	-->
+#FLOTUS	-->
+#filmoversniperinIrak	-->
+#amerikaheeftgeengeweten	-->
+#tpfa	-->
+#superbowl	-->
+#MuslimScum	-->
+#muslimimagines	-->
+#MuseumSelfie	-->
+#amessagefromustoisis	-->
+#Podcast	-->
+#abughairib	-->
+#ICC4Israel	-->
+#shittyday	-->
+#love	--> love
+#bitches	-->
+#thankavet	-->
+#salute	--> salute
+#DedicatedToYouBrother	-->
+#Cruz2016	-->
+#Cruz45	-->
+#DougGiles	-->
+#Honor	--> Honor
+#txlege	-->
+#forged	--> forged
+#WarriorHero	--> Warrior Hero
+#GodBlessTexas	--> God Bless Texas
+#DBH	-->
+#palin	-->
+#director	-->
+#republican	-->
+#LAProtest	-->
+#ChrisKyleDay2015	--> Chris Kyle Day 2015
+#THELEGACY	-->
+#fail	-->
+#Gyllenhaal	-->
+#WildCard	-->
+#trolia	-->
+#values	-->
+#Punisher	-->
+#Kurds	-->
+#Kobane	-->
+#Jordan	-->
+#Sheepdog	-->
+#Wolves	-->
+#HeroChiefChrisKyle	--> Hero Chief Chris Kyle
+#indiefilm	-->
+#EricGarner	-->
+#V4P	-->
+#AMvets	-->
+#IVAW	-->
+#stopterrorism	-->
+#WW	-->
+#StolenValor	-->
+#CRLive	-->
+#NCgop	-->
+#abc15	-->
+#warcriminals	-->
+#GenerationKill	-->
+#ChrisKyleFamily	--> Chris Kyle Family
+#GOPs	-->
+#DEMs	-->
+#guns	-->
+#JohnLegend	--> John Legend
+#Revoltada	-->
+#IPraytoEndAbortion	-->
+#WhyWeMarch	-->
+#dgaawards	-->
+#dota2016	-->
+#InMemories	-->
+#PozzoDiBorgo	-->
+#Hollande	-->
+#screenplay	-->
+#BestOriginal	-->
+#BestAdapted	-->
+#NowServicing	-->
+#SeventhSon	-->
+#hangover	-->
+#MentalHealth	-->
+#50nuancesdeGrey	-->
+#BoblÉPONGE	-->
+#AmericanRapist	-->
+#TenNews	-->
+#USVM	-->
+#review	-->
+#mk2Cinema	-->
+#VetTogether	-->
+#BrianWilliamsSuspensionActivities	-->
+#OurProphetOurHonour	-->
+#WhoIsMuhammad	-->
+#PrayerBreakfast	-->
+#obamacrusades	-->
+#Grammys2015	-->
+#Censorship	-->
+#NoIslam	-->
+#Brainwash	-->
+#academyawards	-->
+#WhiteTerrorism	--> White Terrorism
+#State	--> State
+#StatiUniti	-->
+#ChapellHillShooting	-->
+#LT	-->
+#ShowUsYourBeastMode	-->
+#GOP2016FILMS	-->
+#مجزرة_شابيل_هل	-->
+#London	-->
+#sinema	-->
+#diyoruzki	-->
+#kültür	-->
+#sanat	-->
+#NisantasiOscarHub	-->
+#UmutluyumÇünkü	-->
+#AxelsonTactical	-->
+#FlashNews	-->
+#MataSapi	-->
+#PureAmericanBadass	-->
+#DeahBarakat	-->
+#بوح_دولاوي	-->
+#اكشن	-->
+#AssaHolocaust	-->
+#HoustonFire	-->
+#Parkingdispute	-->
+#Feminists	-->
+#50shadesofGrey	-->
+#STOPIslam	-->
+#spokenword	-->
+#TEAPARTY	-->
+#notAJoke	-->
+#ForRealThough	-->
+#MPSE	-->
+#fanart	-->
+#popart	-->
+#art	-->
+#BergmanOscars	-->
+#GiftSuite	-->
+#ChapelHillShootings	-->
+#Khamenei	-->
+#Spongebob	-->
+#PS	-->
+#Aix	-->
+#Biopic	-->
+#patriote	-->
+#Cake	-->
+#50shadesofgrey	-->
+#Women	-->
+#ISISJobs	--> ISIS Jobs
+#COSMONews	-->
+#Óscar	-->
+#IGNBenelux	-->
+#shameonhollywood	-->
+#WOD	-->
+#AdamJones	-->
+#FaceOfMLB	-->
+#elfrancotirador	-->
+#SocialMedia	-->
+#baftas2015	-->
+#BoblEpongeLeFilm	-->
+#BIS	-->
+#BoxOfficeFrance	-->
+#Pakistan	-->
+#JulianneMoore	-->
+#Cooper	--> Cooper
+#ILoveObama	--> Love Obama
+#Paintshop	-->
+#WhiteHouse	-->
+#GordonRamsay	-->
+#TheJudge	-->
+#PiedePágina	-->
+#mentalillness	-->
+#cause	-->
+#IAM	-->
+#DirectEnergyWeapons	-->
+#GameOfThrones	-->
+#GoT	-->
+#HTTYD2	-->
+#skycinemaoscar	-->
+#FunFact	-->
+#Z1035Oscars	-->
+#TapisRouge	-->
+#JakOscars2015	-->
+#SarapanSeru	-->
+#giveaway	-->
+#MKCoOscarWatchParty	-->
+#BESTPICTURE	-->
+#readhismemoirs	-->
+#NPH	-->
+#NeilPatrickHarris	-->
+#NationTV	-->
+#oscarssorobble	-->
+#Otheemptychair	-->
+#DeserveIT	-->
+#notbuyingit	-->
+#ShameOnTheAcademy	-->
+#Robbed	-->
+#WhiplashMovie	--> Whiplash Movie
+#NoToWarMongering	-->
+#TheAcademyAwards	--> The Academy Awards
+#OSCARS2015	-->
+#bestpicture	--> best picture
+#Diapers	-->
+#NOBAMA	-->
+#tCoT	-->
+#tGdN	-->
+#tEaPaRtY	-->
+#JaumeColletSerra	-->
+#SniperElite	--> Sniper Elite
+#SheldonTurner	-->
+#swagbag	-->
+#outrageous	-->
+#buongiorno	-->
+#CreepingSharia	-->
+#typicalhollywood	-->
+#Ripkyle	-->
+#ASHAMED	-->
+#overrated	-->
+#bullshit	-->
+#foxandfriends	-->
+#SNUB	-->
+#RTLLN	-->
+#defensie	-->
+#TYTLive	-->
+#Top5	-->
+#FortMcMurrayShooting	-->
+#wearethepeople	-->
+#OutrageWatch	-->
+#Littlefield	--> Little field
+#TheRedCarpet	--> The Red Carpet
+#irony	-->
+#whoneedstheoscars	-->
+#jobwelldone	-->
+#Kyle	--> Kyle
+#EndTheFed	-->
+#KeystoneXL	-->
+#GMC	-->
+#keeptalking	-->
+#videorecinzione	--> video recinzione
+#moviemag	-->
+#opNWO	-->
+#futureofwar	-->
+#SoukainaBoukries	-->
+#Stephenville	-->
+#ChrisKyleTrial	--> Chris Kyle Trial
+#MásqueNoticias	-->
+#nuances	-->
+#sallesfrançaises	-->
+#irak	-->
+#Rihanna	-->
+#youtube	-->
+#Saudi	-->
+#IslamicStateMedia	--> Islamic State Media
+#GoPro	-->
+#BilalMovie	-->
+#goodnight	--> good night
+#pictures	-->
+#chrisKyle	--> chris Kyle
+#DefiantEagleBand	-->
+#ChiefTecumseh	-->
+#godfather	-->
+#Generationkill	-->
+#reviews	-->
+#slowrecovery	-->
+#amazon	-->
+#kindle	-->
+#libros	-->
+#autobiografia	-->
+#accion	-->
+#estrenos	-->
+#dvd	-->
+#peliculas	-->
+#2014	-->
+#plazalasamericas	-->
+#JoelLambert	-->
+#DeltaSniper	-->
+#shamal	-->
+#LoneTarget	--> Lone Target
+#getFRUSH	-->
+#SOHH	-->
+#ICanRead	--> Can Read
+#KilltheMessenger	-->
+#Screenwriting	-->
+#7	-->
+#SportsMobile	-->
+#1210amEspnDeportes	-->
+#Parigi	-->
+#Whedonverse	-->
+#DingoesAteMyBaby	-->
+#bestoftheday	-->
+#LosDelSonido	-->
+#IvanBerroa	-->
+#topstories	-->
+#dynamictunez	-->
+#ChanceKelly	-->
+#Godfather	-->
+#Nerdface	-->
+#thanks	-->
+#real	-->
+#hate	-->
+#patriots	-->
+#365Days	-->
+#365Movies	-->
+#DLMChallenge	-->
+#Afdah	-->
+#Foxchaser	-->
+#AlwaysRemember	-->
+#larosapurpurea	-->
+#NUOVA	-->
+#Recensione	-->
+#truestory	--> true story
+#History	--> History
+#goodshow	--> good show
+#LoMejordel2014	-->
+#gonegirl	-->
+#WritersGuildAwards2015	--> Writers Guild Awards 2015
+#Americ	-->
+#unrealfilm	-->
+#pomeriggiocinema	-->
+#JonathanGroff	-->
+#غولدن_غلوب	-->
+#Exodus	-->
+#muststaystrong	-->
+#BAFTA	-->
+#soexcited	-->
+#bcoop	-->
+#chems	-->
+#darrylfzanuck	-->
+#Listenlive	--> Listen live
+#WeAreUK	-->
+#memories	-->
+#frogmenarebetterateverything	-->
+#hooyah	-->
+#Gestapo	-->
+#YOUmightjustbeanasshole	-->
+#nyc	-->
+#blackhawks	-->
+#Nw	-->
+#navyseal	--> navy seal
+#onbaseperks	-->
+#TWTrevista	-->
+#RapidoYFurioso7	-->
+#FantasticFour	-->
+#workplace	-->
+#NavySEALChrisKyle	--> Navy SEAL Chris Kyle
+#streaming	-->
+#Patriotism	-->
+#amazingfilm	--> amazing film
+#PitchPerfect2	-->
+#shoot	-->
+#saturdaynight	--> saturday night
+#thebestisyettocome	-->
+#ps4share	-->
+#hungover	-->
+#epic	--> epic
+#triptothecinema	-->
+#Superb	-->
+#ididwhatidid	-->
+#TheImitaionGame	-->
+#intervallo	-->
+#nicestory	--> ice story
+#JFW	-->
+#bringonthepopcorn	-->
+#goneBUTnotforgotten	-->
+#film2015	--> film 2015
+#BoycottSororitySisters	-->
+#coldasballs	-->
+#sickasballs	-->
+#ClintEastWood	-->
+#feedly	-->
+#Currently	-->
+#IGotTheHookup	-->
+#SagAftraMember	-->
+#resdenou	-->
+#GoGoUSA	-->
+#movieday	-->
+#Charlie	--> Charlie
+#YUT	-->
+#finally	-->
+#SniperMovies	--> Sniper Movies
+#fa	-->
+#MustWatch	-->
+#Giggles	-->
+#Sexy	-->
+#ElephantManBroadway	-->
+#awesomeMovie	-->
+#CrankCalls	-->
+#cosynightin	-->
+#Bootleg	-->
+#Class	--> Class
+#Freccero	-->
+#capra	-->
+#美國狙擊手	-->
+#thewait	--> the wait
+#DumbAss	-->
+#phhhoto	-->
+#baller	-->
+#masterpiece	-->
+#ComingSoon	-->
+#Theater	-->
+#getinvolved	-->
+#xbmc	-->
+#goldenglobes	-->
+#BringOnTheFeels	-->
+#goes	-->
+#somuchsuffering	-->
+#Chills	-->
+#theoryofeverything	-->
+#Hookup	-->
+#OscarSeason	--> Oscar Season
+#thebookoflife	-->
+#notsafeforwork	-->
+#Variety	-->
+#UCWRadio	-->
+#filmfestival	-->
+#music	--> music
+#Showbiz	--> Show biz
+#HugoMatz	-->
+#TheWaterDiviner	-->
+#awfulfilm	-->
+#LAnow	-->
+#chimelhafattofare	-->
+#soldout	-->
+#mezzanotte	-->
+#10	-->
+#in2015ihavebeenmostlywatching	-->
+#Ravens	-->
+#Flacco	-->
+#AwesomeMovie	-->
+#Pirlo	-->
+#Fashion	-->
+#RavensvsPatriots	-->
+#foxnflitalia	-->
+#NFLPlayoffs	-->
+#nflitaly	-->
+#ThatBabyHasntMovedInAWhile	-->
+#WeCanDoBetter	-->
+#WhenIsAfflecksNextMovie	-->
+#pumped	-->
+#Watchies	-->
+#annoyed	-->
+#longnight	-->
+#EsMisión	-->
+#bigboss	-->
+#metalgear	-->
+#mgs	-->
+#JonGroff	-->
+#IVoteYes	-->
+#toeachhisown	-->
+#seeit	-->
+#movieguy	-->
+#unisorted	-->
+#ucicinema	-->
+#saturdaymood	-->
+#msjanetif	-->
+#TagsForLikes	-->
+#like4like	-->
+#likeforlike	-->
+#follow	--> follow
+#RespectToSeals	-->
+#ShamelessSelfPlug	-->
+#AmericanSnipe	-->
+#pass	-->
+#asap	-->
+#boss	-->
+#5days	-->
+#LooksTooGood	-->
+#ToWatchList	-->
+#holyballsiloveyou	-->
+#Sas	-->
+#filmfest	-->
+#oddities	-->
+#tech	-->
+#technology	-->
+#wtf	-->
+#fun	-->
+#funny	-->
+#ThumbsUp	-->
+#tragicend	-->
+#Disney	-->
+#ThumbsWayUp	-->
+#Chriskyle	--> Chris kyle
+#USarmy	-->
+#SWFL	-->
+#BALvsNE	-->
+#joesjokes	-->
+#TheMazeRunner	-->
+#racist	-->
+#mytopfavorite	-->
+#SororitySisters	-->
+#Hooked	-->
+#keepingitreal	-->
+#realnavyseals	-->
+#ProudtobeAnAmerican	-->
+#solo	-->
+#oneticket	-->
+#ThePunisher	-->
+#perksofthemilitary	-->
+#istreameverthing	-->
+#topfilm	--> top film
+#MexicanFood	-->
+#Flautas	-->
+#TacosDorados	-->
+#SalsaVerde	-->
+#MoviesAndMexicanFood	-->
+#calm	-->
+#weekend	-->
+#AFC	-->
+#COYG	-->
+#Jan16	-->
+#GAA	-->
+#TrueAmericanHeroes	--> True American Heroes
+#AmericanPride	-->
+#USN	-->
+#BrilliantFilm	-->
+#finaleassurdo	-->
+#storiavera	-->
+#davedere	-->
+#brandlycoopee	-->
+#That	-->
+#dopemovie	-->
+#proudAmerican	--> proud American
+#EyeCandy	-->
+#capolavoro	-->
+#DontDeserveThis	-->
+#moviesof2015	-->
+#raiyoyo	-->
+#soproud	-->
+#drool	-->
+#OpieAndAnthony	-->
+#AMostViolentYear	-->
+#tests	-->
+#assignments	-->
+#Режиссер	-->
+#Клинт	-->
+#Иствуд	-->
+#record	-->
+#SiAccettanoMiracoli	-->
+#Gabbarism	-->
+#moto	-->
+#catfish	-->
+#reddit	-->
+#explore	-->
+#currentlywatching	-->
+#clint	--> clint
+#6Days	--> Days
+#pandadown	-->
+#HandsUpDontShoot	-->
+#savage	-->
+#suchalad	-->
+#NavySeals	--> Navy Seals
+#blondemoment	-->
+#MovieOfTheYear	-->
+#Hate	--> Hate
+#Killer	-->
+#Annonymous	-->
+#CharlesHebdo	-->
+#Gerolado	-->
+#AllTimeTop10	-->
+#NoHero	-->
+#XXL	--> XXL
+#i	-->
+#NotBestPictureWorthy	-->
+#awardwinning	-->
+#honor	--> honor
+#TheWoundsWithin	-->
+#veteranslivesmatter	-->
+#HeWasBornInTheSamePlaceIWasBorn	-->
+#UsedToRednecksLikeHim	-->
+#YouRockFam	-->
+#CallMe	-->
+#salvavoti	-->
+#patriottismo	-->
+#valdiluce	-->
+#principi	-->
+#goodmovie	--> good movie
+#EBooks	-->
+#TopBooks	-->
+#6	-->
+#phenomenal	-->
+#birthrole	-->
+#SameOverTheTopCrap	-->
+#Cuba	-->
+#ClintLorance	-->
+#sickro	-->
+#TheBabadook	-->
+#JohnWick	-->
+#Locke	-->
+#crhiskyle	-->
+#gonnabegood	-->
+#jan16	-->
+#BradleysBadass	-->
+#Soon	-->
+#overusedinthetrailer	-->
+#waterworks	-->
+#CLINT	-->
+#3rdPick	-->
+#somuchrespect	-->
+#readywhendrinking	-->
+#GlobesSuck	--> Globes Suck
+#Berita	-->
+#INDONESIA	-->
+#Ouija	-->
+#UCICinemas	-->
+#lovedeverysecond	-->
+#BokoHaram	-->
+#SeeIt	-->
+#SkipIt	-->
+#exodus	-->
+#MightBeAMovieNight	-->
+#Lowkey	-->
+#idowhatiwant	-->
+#IamCharlie	-->
+#tyt	-->
+#TooGood	-->
+#LaithAbuJoda	-->
+#amici14	-->
+#fb	-->
+#wannaseesobad	-->
+#Moneyball	-->
+#Athletics	-->
+#ThisWillDestroyYou	-->
+#hardpass	-->
+#SEAvsCAR	-->
+#audible	-->
+#WolfPack	-->
+#SoTired	-->
+#StupidWhore	-->
+#DontJudgeMe	-->
+#Baltimore	-->
+#SaturdayNightTurnUp	-->
+#FrankIsAStud	-->
+#critic	-->
+#staywoke	-->
+#islamization	-->
+#deepinthought	-->
+#abortjesus	-->
+#Conserv_Report	-->
+#NYCmayor	-->
+#Paris	-->
+#bigmac	-->
+#BlackSiskelandEbert	-->
+#Royalty	-->
+#lovemesomebradleycooper	-->
+#sexy	-->
+#bestmovieoftheyear	-->
+#fammovienight	-->
+#10OutOf10	-->
+#BradleyCooperAtHisBest	-->
+#SnipeLife	-->
+#incrediblymoving	-->
+#confused	-->
+#heartbreaking	--> heart breaking
+#motoaf	-->
+#Semperfi	-->
+#UnrealStories	-->
+#Inspirational	-->
+#NeverQuit	-->
+#GirlsNightOut	-->
+#SASatMIN	-->
+#Harrisons	-->
+#Magicinthemoonlight	-->
+#mostlethalsniper	-->
+#nowwatching	-->
+#rah	-->
+#hecangetit	-->
+#ripCK	-->
+#thankyouseals	--> thank you seals
+#cantputitdown	-->
+#courage	--> our age
+#TheManNextToYou	-->
+#brothers	-->
+#boycottLHHNY	-->
+#Joel	-->
+#hefoundanewjob	-->
+#byebyeparenthood	-->
+#twins	-->
+#FILM	-->
+#badMovieReviews	-->
+#popcornondeck	-->
+#GoCyclones	-->
+#CantWatchReality	-->
+#InTheathersJan16	-->
+#saturday	--> saturday
+#BookWormProblems	-->
+#sickofit	-->
+#iwillloveyou	-->
+#คหสต	-->
+#GaveMeChills	-->
+#SoGood	-->
+#top10	-->
+#onemoreweek	-->
+#suspense	-->
+#PopcornTime	--> Popcorn Time
+#Cozy	-->
+#warhero	--> war hero
+#bittorrent	-->
+#buildthelifeyouwant2015	-->
+#victimtopropaganda	-->
+#freeis4me	-->
+#godblessthetroops	--> godbless the troops
+#boomheadshot	-->
+#alcinema	-->
+#movienightin	-->
+#LukeGrims	-->
+#sheesh	-->
+#srsly	-->
+#moviesByJon	-->
+#ChoiceIsYours	-->
+#HCHookup	-->
+#period	-->
+#hopetheygetitright	-->
+#satphoneonconvoyreally	-->
+#Daughter	-->
+#ServeAndProtect	-->
+#foreverGrateful	-->
+#Heros	--> Heros
+#BootlegForLife	-->
+#wanttosee	-->
+#beyond	--> beyond
+#official	-->
+#trailer	-->
+#cooper	--> cooper
+#FirstWorldProblems	-->
+#WRITING	-->
+#Sacrifice	-->
+#movieoftheyear	-->
+#missingyourightnow	-->
+#nobueno	-->
+#MovieTimeWithProv	-->
+#Imustseeit	-->
+#SpanishparentsGift	-->
+#shocked	-->
+#FozzieWatching	-->
+#Boyhoodmovie	--> Boyhood movie
+#goodday	-->
+#HAWT	-->
+#SieannaMiller	-->
+#AmericanDirector	--> American Director
+#controversial	-->
+#stoked	-->
+#respectandhonor	--> respect and honor
+#Il	-->
+#TheDevilOfRamadi	-->
+#clinteastwoodrules	-->
+#Imitation	--> Imitation
+#free	--> free
+#pics	-->
+#CantWait	-->
+#movienightwithdad	-->
+#iTop	--> Top
+#January16	-->
+#goodpoint	-->
+#teachmeyourways	-->
+#BadAss	-->
+#inspirational	-->
+#smartfriends	-->
+#AMERICATHEBEAUTIFUL	-->
+#movieticket	-->
+#goldenvillage	-->
+#Courage	--> our age
+#Soldiers	--> Soldiers
+#RedWhiteandBlue	--> Red White and Blue
+#nastyshit	-->
+#hlp	-->
+#jelly	-->
+#RurouniKenshinTheLegendEnds	-->
+#DoraemonStandByMe	-->
+#FURY	-->
+#SonOfAGun	-->
+#30inchtv	-->
+#trill	-->
+#GoodMovie	--> Good Movie
+#IAlmostCried	-->
+#TakingDaHint	-->
+#oscarworthyshit	-->
+#winelover	-->
+#MovieMarathon	-->
+#militarystrong	-->
+#allheros	-->
+#Bravery	-->
+#NeverForgoten	-->
+#Bops2	-->
+#DickMove	-->
+#ThePrincessBride	-->
+#HuckleberryFinn	-->
+#AClockworkOrange	-->
+#looksgood	-->
+#BestSniperAward	--> Best Sniper Award
+#Rednecks	-->
+#RwOT	-->
+#Rwanda	-->
+#AmericanSn	-->
+#Win	-->
+#ExodusGodsAndKings	-->
+#horrible	-->
+#badtrailer	-->
+#death	-->
+#ChrisKelly	--> Chris Kelly
+#noturnupforme	-->
+#drinkingwine	-->
+#relaxed	-->
+#guncontrol	-->
+#AcademyAward	--> Academy Award
+#NotInterested	-->
+#ฟิลลิ่งอยากมาก	-->
+#GSM	-->
+#bestof2015	-->
+#Mumbai	-->
+#GotDemBootlegsOnDeck	-->
+#most	-->
+#B	-->
+#TheLifeILive	-->
+#RoughLife	-->
+#LovinLife	-->
+#AtHomeMovies	-->
+#Killed	-->
+#Gun	-->
+#hurtlocker	-->
+#argo	-->
+#ItaintRalph	-->
+#BoycottLHHNY	-->
+#boycottVH1	-->
+#BlackImagesMatter	-->
+#MyNight	-->
+#Healing	-->
+#LayedUp	-->
+#POW	-->
+#openfollow	-->
+#dueoredifilm	-->
+#passanocomeniente	-->
+#filmmakers	-->
+#IloveCinefilos	-->
+#boxofficeitalia	-->
+#unbroken	-->
+#GetSome	--> Get Some
+#fuzooltareenfilm	-->
+#topflim	-->
+#nostreaming	-->
+#download	-->
+#bittersweet	-->
+#iPad	-->
+#Screenwriter	-->
+#anti	-->
+#FinnishSniper	-->
+#Lonesurvivor	--> Lone survivor
+#Bae	-->
+#Opinion	--> Opinion
+#ArabBae	-->
+#postivip	-->
+#granfilm	-->
+#yesyesyes	-->
+#igsg	-->
+#vfp1	-->
+#Laggies	-->
+#silenzio	-->
+#indimenticabile	-->
+#rispetto	-->
+#Patria	-->
+#lookatthetitle	-->
+#AmIBeingPunkd	-->
+#neonair	-->
+#SniperZ	-->
+#USNAVYSEALS	-->
+#oedwy	-->
+#quality	-->
+#FriedrichNietzsche	-->
+#WarAction	--> War Action
+#Drama	--> Drama
+#insala	-->
+#must	--> must
+#BoxofficeItalia	-->
+#belle	-->
+#lethal	-->
+#OiP	-->
+#FoxcatcherMovie	--> Fox catcher Movie
+#pantip	-->
+#democrats	-->
+#mcgnews	-->
+#CNRapp	-->
+#novel	-->
+#JeSuisKouachi	-->
+#JeSuisCoulibaly	-->
+#JeSuisAhmed	-->
+#JeSuisJuis	-->
+#AmericanHorrorStory	-->
+#URGENT	-->
+#عاجل	-->
+#bestfilmever	-->
+#loveit	-->
+#5MoreDays	--> More Days
+#アメリカンスナイパー	-->
+#映画	-->
+#TENSE	-->
+#usn	-->
+#colpitoeaffondato	-->
+#Mancini	-->
+#InterGenoa	-->
+#blockbuster	-->
+#tour	--> our
+#Seal	-->
+#terrorism	-->
+#800577TIPS	-->
+#impressive	-->
+#morbegno	-->
+#valtellina	-->
+#valchiavenna	-->
+#lagodicomo	-->
+#gotg	-->
+#doctorwho	-->
+#grandeClint	-->
+#fauxpatriotism	-->
+#whatistruth	-->
+#MMthehollywoodhack	-->
+#movieweekend	-->
+#WePostBadGuys	-->
+#goodfilm	--> good film
+#LayerCake	-->
+#silentwalkout	-->
+#thankyouforyourservice	--> thank you for your service
+#Alone	--> lone
+#CrazyCukkadFamily	-->
+#SGTL	-->
+#MSG	-->
+#TheoryOfEverything	-->
+#BlockBuster	-->
+#buonismo	-->
+#TIG	-->
+#lasers	-->
+#satisfied	-->
+#Jacksonville	-->
+#FURYMovie	-->
+#Reccomend	-->
+#time	-->
+#sunday	-->
+#relaxing	-->
+#фильмы2015	-->
+#Recommended	-->
+#SoundCloud	-->
+#fitness	-->
+#halfmarathontraining	-->
+#belfilm	-->
+#fariflettere	-->
+#buonadomenica	-->
+#MarcheRepublicaine	-->
+#TgLa7	-->
+#Fallujah	--> Fallujah
+#warez	-->
+#UnbelievableJeff	-->
+#watch	--> watch
+#Poster	-->
+#citazioni	-->
+#ognisingolosparo	-->
+#americanmilitaryhistory	-->
+#jarhead	-->
+#2ofmyfaves	-->
+#kevrob	-->
+#zman	--> man
+#nowdownloading	-->
+#etnapolis	-->
+#iBooks	-->
+#health	-->
+#OldMemories	-->
+#IraquiFreedom	-->
+#DesertStorm	-->
+#RysFavoriteReptile	-->
+#WoehrCanIFindOne	-->
+#WoehrFacts	-->
+#amazingfilms	-->
+#JacksMovieDay	-->
+#moviereviews	-->
+#BooksNotBombs	-->
+#stillagoodfilmtho	-->
+#peopleschoice	-->
+#filmtime	-->
+#militarystuff	-->
+#cinemaincanavese	-->
+#ifilminprogramma	-->
+#quotidianocanavese	-->
+#AskRayaBradleySienna	-->
+#soemotional	-->
+#books	-->
+#pazzesco	-->
+#Powerful	-->
+#movierecomendada	-->
+#amazed	-->
+#JuveNapoli	-->
+#CryBabies	-->
+#Hoorah	-->
+#Addicted	-->
+#needtopaymoreattention	-->
+#Mockingjay	-->
+#BootlegMe	-->
+#UnbrokenMovie	-->
+#latam	-->
+#argentina	-->
+#bsas	-->
+#cfk	-->
+#latinos	-->
+#lima	-->
+#brasil	-->
+#Erie	-->
+#afdah	-->
+#amiciccia	-->
+#OhYes	-->
+#Sensational	-->
+#GoPackGo	-->
+#FNL	-->
+#LindyWest	-->
+#Clinteastwood	--> Clint eastwood
+#RMJtweet	-->
+#foxnfl	-->
+#DALvsGB	-->
+#ElephantMan	-->
+#trailers	-->
+#cecchino	-->
+#libri	-->
+#TrueLife	--> True Life
+#NFLonFOX	-->
+#alreadyoverit	-->
+#cuddles	-->
+#favoritemoments	-->
+#kcshow	-->
+#wereback	-->
+#weareback	-->
+#thespacecinema	-->
+#twitmaniaco	-->
+#FilmNight	--> Film Night
+#icanread	-->
+#SoonSee	-->
+#HonorTheFallen	-->
+#theunmissables	-->
+#roadtotheOscars	-->
+#notagoodyear	-->
+#ProudCitizen	--> Proud Citizen
+#sottotitoli	-->
+#TakeNote	-->
+#Filmmakers	-->
+#secularjamaat	-->
+#downloading	-->
+#DrinkoBingo	-->
+#DogsofWar	-->
+#TBI	-->
+#Rescue	-->
+#dogs	--> dogs
+#trakt	-->
+#DANA	-->
+#TheBlaze	-->
+#hurryupandgotoDVD	-->
+#BestMovieOfTheYear	-->
+#PowerfulFilm	-->
+#notreally	--> not really
+#abouttime	-->
+#StarWars	--> Star Wars
+#Avengers2	-->
+#JurrassicWorld	-->
+#filmnight	--> film night
+#tbh	-->
+#GBvsDAL	-->
+#BadTurnWorse	-->
+#LoveIsStrange	-->
+#FortBliss	-->
+#iwannaseeitsobadly	-->
+#charleswhitman	-->
+#joke	-->
+#nvm	-->
+#stillhateut	-->
+#Biz	-->
+#Bixby	-->
+#NEO	-->
+#AmericasTeam	--> Americas Team
+#Fox	--> Fox
+#PackersVsCowboys	-->
+#DolbyATMOS	-->
+#StayWoke	-->
+#anxiety	-->
+#Sucks	--> Sucks
+#Perfection	-->
+#SundayFunday	-->
+#Goodnight	--> Good night
+#RomaLazio	-->
+#stasera	-->
+#uci	-->
+#top	--> top
+#stud	-->
+#riflessioni	-->
+#fury	-->
+#iloveit	-->
+#bradpitt	-->
+#whynot	-->
+#beautifulness	-->
+#me	-->
+#SEALTeam3	-->
+#Punishers	-->
+#pessima	-->
+#Epic	-->
+#WellDone	-->
+#USAUSAUSA	--> USA USA USA
+#ShlongIn2015	-->
+#SHLONG	-->
+#BroncosCountry	-->
+#TEAMFOLLOWBACK	-->
+#News	--> News
+#ArcLightStories	-->
+#storia	-->
+#cuore	-->
+#boom	-->
+#ventura	--> ventura
+#GreatFilms	--> Great Films
+#WorthTheMoney	-->
+#Tailgateparty	-->
+#bootlegginglives	-->
+#blackhawkdown	-->
+#ilnemicoalleporte	-->
+#AwardSeason	--> Award Season
+#Knicks	-->
+#phone	-->
+#apple	-->
+#HDmovies	-->
+#Bestfilmof2014	-->
+#losangeles	-->
+#SNAFU	-->
+#milliondollarbaby	-->
+#changeling	-->
+#grantorino	-->
+#Brecht	-->
+#screenerseason	-->
+#SCtop10	-->
+#BAMF	-->
+#warmsoup	-->
+#lazysunday	-->
+#TrueStory	-->
+#tv	-->
+#virginia	-->
+#familytime	-->
+#mydad	-->
+#lovethisguy	-->
+#reelreviews	-->
+#eyecandy	-->
+#amazingperformance	-->
+#39	-->
+#BenReed	-->
+#halffullmag	-->
+#popcornstofollow	-->
+#CrisKyle	-->
+#facts	-->
+#cannotwait	-->
+#HooyahNavy	--> Hooyah Navy
+#holycow	-->
+#trueamericanHero	--> true american Hero
+#NoFlexZone	-->
+#justdofootbawdammit	-->
+#stoppromotingmovies	-->
+#fox	--> fox
+#nfl	-->
+#spoileralert	-->
+#toughtobeat	-->
+#dontwanttoruinthemovie	-->
+#realmencry	-->
+#similarlives	-->
+#doppelganger	-->
+#fightme	-->
+#cbs	-->
+#HollywoodSucks	--> Hollywood Sucks
+#cantwaittoseeit	-->
+#aintnobodygottimeforthat	-->
+#bias	--> bias
+#NowHeresSports	-->
+#MansMan	-->
+#TheFeels	-->
+#properfilm	-->
+#degustibus	-->
+#4moredays	-->
+#NapoliJuve	-->
+#jvtblive	-->
+#hollywooddates	-->
+#ArcLightHollywood	-->
+#CowboyNation	-->
+#SPOILER	-->
+#toastnpeanutbutter	-->
+#latte	-->
+#مترجم	-->
+#هيييلب	-->
+#YouAreMyStrength	-->
+#Talkinsports	-->
+#DoYouBelieve	-->
+#clashers	-->
+#Arn	-->
+#Thismustbetheplace	-->
+#laLeggenda	-->
+#bellissimo	-->
+#holla	-->
+#highly_recommended	-->
+#holidayproblems	-->
+#recensione	-->
+#swoon	-->
+#dontyellathenuse	-->
+#FridayNightLights	-->
+#unrealmovie	-->
+#greatshow	--> great show
+#worktomorrow	-->
+#odeon	-->
+#milano	-->
+#LetDown	-->
+#SUNDAYCINEMA	-->
+#BRADLEYCOOPER	-->
+#ReallyGood	-->
+#GreatGuy	-->
+#GreatStory	-->
+#ItsFuckingGreat	-->
+#sheeple	-->
+#111	-->
+#ChrisKlye	-->
+#2ARights	-->
+#PatrickWhite	-->
+#Motoboner	-->
+#mobilevids	-->
+#ChiaraBiasi	-->
+#UFCFightNight59	-->
+#awesome	-->
+#powell	-->
+#motoboner	-->
+#YoureWelcome	-->
+#WildMovie	-->
+#TheRinger	--> The Ringer
+#1loveto	-->
+#90popcornrating	-->
+#secondfamily	-->
+#Criticschoice	-->
+#AimSmallMissSmall	-->
+#sundayfunday	-->
+#Appetizers	-->
+#goodies	-->
+#WorthAWatch	-->
+#TheTourist	-->
+#AskDove	-->
+#GirlsNightIn	-->
+#armees	-->
+#Francophonie	-->
+#AugustinTine	-->
+#prt	-->
+#cli	-->
+#anytakers	-->
+#ChrisKyleIsAHero	-->
+#OuijaMovie	-->
+#disappointed	-->
+#mostlethalsniperever	-->
+#straightboss	-->
+#Serena	-->
+#hahaha	-->
+#filmnerd	-->
+#filmnerdproblems	-->
+#asshole	-->
+#leinstertained	-->
+#BadDaddies	-->
+#IThinkYes	-->
+#AMustWatch	-->
+#Pace	-->
+#noallaguerra	-->
+#BadDaddys	-->
+#decent	-->
+#nbd	-->
+#MovieWeekend	-->
+#pizza	-->
+#foodporn	-->
+#food	-->
+#WeekendOfNoBeer	-->
+#pantheon	-->
+#roma	-->
+#seibono	-->
+#cinemajolly	-->
+#Watchfullmovie	-->
+#GoldenGlobe	-->
+#ArclightCinemas	-->
+#SaluteToOurTroops	-->
+#replytweet	-->
+#DumbandDumberTo	-->
+#GottaStartSomewhere	-->
+#NeedToWatchThese	-->
+#stuntplayers	-->
+#stunts	-->
+#PoopyPeyton	-->
+#Tarantino	-->
+#GunControl	-->
+#Love	--> Love
+#blackhatmovie	-->
+#DanBilzerian	-->
+#Muimui	-->
+#sapevatelo	-->
+#WolfOfWallStreet	-->
+#Etc	-->
+#counterterrorism	-->
+#suckit	-->
+#USNAVY	-->
+#Unreal	-->
+#TheHobbit3	-->
+#FRIDAY	-->
+#swatteam	-->
+#probowl	-->
+#glendale	-->
+#arizona	-->
+#mikeshardlemonade	-->
+#PatriotsNation	--> Patriots Nation
+#Lame	-->
+#SaveItForTheMovie	-->
+#AmericanRetard	-->
+#PerfectDay	-->
+#360NoScope	-->
+#MLG	-->
+#UTEPBasketball	-->
+#dontjudgeme	-->
+#ChangingMyWays	-->
+#ForeverAlone	-->
+#NBA	-->
+#bringingtissues	-->
+#Please	-->
+#LooksSoGood	-->
+#beenwaiting	-->
+#AmericanBullshit	-->
+#Fuck	--> Fuck
+#AwardsBait	-->
+#warmovies	--> war movies
+#GoldenGlobesPreShow	-->
+#ChrisKyleRIP	--> Chris Kyle RIP
+#TeamPunisher	-->
+#GoldenGlobe2015	-->
+#rockbottom	-->
+#CLT	-->
+#GoldenGlobes2015	--> Golden Globes 2015
+#badasses	-->
+#realamerican	-->
+#bothlookgreat	-->
+#killermovies	-->
+#SoontobeBestMovieEver	-->
+#EvenIfIHaveToGoAlone	-->
+#MyTreatToMe	-->
+#ItsADate	-->
+#wordy30	-->
+#iFunny	-->
+#NeoBlack	-->
+#chillsundays	-->
+#MovieList	--> Movie List
+#DMV	-->
+#AskTwitter	--> Ask Twitter
+#Playoffs	-->
+#Steelers	-->
+#totallynotsayingyoushoulddothisITSILLEAGAL	-->
+#greatMovie	--> great Movie
+#thankfulForAreTroops	-->
+#January16th	-->
+#ThisWeekend	-->
+#sobored	-->
+#imissmyfriends	-->
+#dang	-->
+#perfectCopy	-->
+#Brotherhood	-->
+#NeedToSee	-->
+#BestMovies2014	-->
+#Frogman	--> Frog man
+#GOML	-->
+#nolife	-->
+#soc	-->
+#bye	-->
+#codaw	-->
+#codfag	-->
+#pronto	-->
+#mustseemovie	--> must see movie
+#militarymen	-->
+#BlackHatMovie	-->
+#bradlycooper	-->
+#popcorn	-->
+#Notte	-->
+#jessabelle	-->
+#Themazerunner	-->
+#ThirdWheeling	-->
+#godblessthosewhoserve	-->
+#BDubs	-->
+#EdgeOfTmrw	-->
+#Guardians	--> Guardians
+#TheWalkingDead	-->
+#SonsOfAnarchy	-->
+#ModernFamily	-->
+#outstanding	--> out standing
+#bluethegreat	--> blue the great
+#FrogMan	--> Frog Man
+#gamecocks	-->
+#PATIENTLYWAITING	-->
+#ihaveaplug	-->
+#FullStomach	-->
+#GirlsScoutCookies	-->
+#Rawpapers	-->
+#GoodVibes	-->
+#GoldenGIobes	-->
+#Sienna	--> Sienna
+#ReplyTweet	-->
+#GoldenGlobesAwards	--> Golden Globes Awards
+#GoldenGlobeAwards2015	-->
+#YorkdaleGG	-->
+#TREND	-->
+#justbeautiful	-->
+#GoldenGIobes2015	-->
+#GoldenGlobesEnTNT	--> Golden Globes EnTNT
+#perksofdatinganerd	-->
+#anyone	-->
+#JustSayin	-->
+#IGuessIWasTooHigh	-->
+#terrible	-->
+#daddy	-->
+#daughter	-->
+#reading	-->
+#nerd	-->
+#SetAFilmToMusic	-->
+#TheEqualizer	-->
+#peacenow	-->
+#PutBoobieIn	-->
+#excitedisnttheword	-->
+#lt	-->
+#ThankMeLater	-->
+#biographiesmemoirs	-->
+#cantwaittowatchit	-->
+#NoSticksNoSeedsNoTax	-->
+#Cheap	-->
+#Broke	-->
+#NoMoneyHavingAss	-->
+#ToAllTheGrunts	-->
+#HowToGetAwayWithMurder	-->
+#secretsandLies	-->
+#Howiedoit	-->
+#AmericanHorrorStoryFreakShow	-->
+#JusticeforKJ	-->
+#DopeFlick	-->
+#pubfilm	-->
+#bookadaptation	-->
+#thatgood	--> that good
+#GOLDENGLOBES	-->
+#MOVIES	-->
+#NAVYSEALS	-->
+#NEWBLACK	-->
+#GlobosdeOro	-->
+#Thelegend	--> The legend
+#Frogmen	-->
+#militarylife	--> military life
+#thinkaboutit	-->
+#PerfectDateNight	-->
+#Transparent	-->
+#goldengglobes	-->
+#redcarpet	-->
+#fashion	-->
+#movielooksgood	-->
+#EstrenosBlancica2015	-->
+#PGA	-->
+#InstantClassic	-->
+#streamingmovies	-->
+#ThingsAreGonnaGetWild	-->
+#iMUSTseeit	-->
+#GodBlessTheTroops	--> God Bless The Troops
+#fuckthisshit	--> fuck this shit
+#MakeItHappen	-->
+#WorstMoviesof2014	-->
+#DONTMESSWITHUSA	-->
+#Illini	-->
+#AllTheTears	-->
+#nowplaying	-->
+#TheBookOfLife	-->
+#TheGiver	-->
+#MakeAMovieGRated	-->
+#SMTA	-->
+#BeJealous	-->
+#computer	-->
+#software	-->
+#unitedstates	-->
+#csg	-->
+#someonecomewithme	-->
+#ineedtoseethismovie	-->
+#Top10	-->
+#prayforthesoldiers	-->
+#SAGaward	-->
+#Callofduty	-->
+#callofdutyadvancedwarfare	-->
+#cod	-->
+#sniping	-->
+#ninjaturtle	-->
+#swavor	-->
+#hhhaaayyy	-->
+#GoodNight	--> Good Night
+#hiBradley	-->
+#SneakPeek	-->
+#warStories	-->
+#shitsucks	-->
+#familymovienight	-->
+#yourewelcome	-->
+#cantbeatit	-->
+#movietime	-->
+#NAIAS	-->
+#werethosegirls	-->
+#FakeRTMTweets	-->
+#bradleycoopertho	--> bradley cooper tho
+#LeAmo	-->
+#DecisionsDecisions	-->
+#WhoGotTheFreeStreamTho	-->
+#MustWatchMovie	-->
+#frogmen	-->
+#BraverThanBrave	-->
+#SemperFidelis	-->
+#bigmistake	-->
+#LetsGo	-->
+#ParisMarch	-->
+#hungergames	-->
+#JduvMovie	-->
+#DGA	-->
+#HFPA	-->
+#pununintended	-->
+#SpoilerAlert	-->
+#GOPACKGO	-->
+#Oscarperformance	-->
+#BradleyCooperWasScrewedByTheGoldenGlobes	-->
+#trash	-->
+#feelthetrigger	-->
+#figures	-->
+#pathetic	-->
+#LaCosaGGlobes	-->
+#TheGoldenGlobes	--> The Golden Globes
+#Yes	-->
+#yeahya	-->
+#defendthesecond	-->
+#igmilitia	-->
+#vegasmilitia	-->
+#unemployment	-->
+#CowboysNation	-->
+#sosad	-->
+#BruckenKillYourself	-->
+#ilovefreedom	--> love freedom
+#RIPCrisKyle	-->
+#FrogMen	-->
+#1A	-->
+#cspan	-->
+#thereal	-->
+#BootLegMovieLit	-->
+#ImAlone	-->
+#Invencible	--> Invencible
+#AMC	-->
+#NorthPark	-->
+#ladies	-->
+#HQ	-->
+#CowboysShouldveWon	-->
+#basedonatruestory	-->
+#MindStillBlown	-->
+#BestMovieEver	--> Best Movie Ever
+#whatamovie	-->
+#SealTeam3	-->
+#sorryamerica	--> sorry america
+#Honorable	-->
+#SPOILERALERT	-->
+#RNP	-->
+#sealteams	-->
+#WeRememberYou	-->
+#fundaysunday	-->
+#serve	-->
+#pride	-->
+#MERRRRICA	-->
+#Fandango	-->
+#tangodown	-->
+#TwoThumbsUp	-->
+#MyNameIsKhan	-->
+#HORSE	-->
+#TIGER	-->
+#torrenting	-->
+#yesssss	-->
+#EXCITED	-->
+#GNO	-->
+#RespectForKyle	--> Respect For Kyle
+#ignorance	--> ignorance
+#thebest	--> the best
+#MayHeRestInPeace	-->
+#HighlyRecommended	-->
+#Amercia	-->
+#smile	-->
+#likeforfolow	-->
+#OOC	-->
+#goosebumps	-->
+#Hypocrisy	-->
+#youknowme	-->
+#BestMovieOf2015	-->
+#modestmouse	-->
+#italy	-->
+#Motivation	-->
+#moviefacts	-->
+#bullets	-->
+#on1leg	-->
+#mvp	-->
+#It	-->
+#was	-->
+#enoughsaid	-->
+#takeabowsir	-->
+#pirata	-->
+#SealTeam	-->
+#hotbooks	-->
+#Hadmecrying	-->
+#Iwishicouldgofightformycountry	-->
+#GotItLikeThat	-->
+#HOLYFUCK	-->
+#FreezingRain	-->
+#QuoteOfTheDay	-->
+#ThanksMegashare	-->
+#Talented	-->
+#Cast	-->
+#chillsgalore	-->
+#ShouldWinEveryOscarEver	-->
+#2001	-->
+#teresagarza	-->
+#SickMovie	-->
+#unbelievablesnub	-->
+#krazy	-->
+#Incassi	-->
+#Cinetel	-->
+#whiplash	-->
+#QuickReviews	-->
+#SeggsMovieReviews	-->
+#TheHobbitTheBattleofFiveArmies	-->
+#reallife	-->
+#supportthetroops	--> support the troops
+#DILEMMA	-->
+#Pongal2015	-->
+#Aambala	-->
+#Darling	-->
+#amustwatch	--> must watch
+#lifelessons	-->
+#navySEALs	--> navy SEALs
+#goodinsights	-->
+#detailed	-->
+#story	--> story
+#americansniperwarnerbros	--> american sniper warner bros
+#Amazon	-->
+#Books	-->
+#BradleyCoooper	-->
+#boston	-->
+#GEJWillWin_	-->
+#Movies2015	--> Movies 2015
+#WarMovies	--> War Movies
+#HappySunday	-->
+#incassi	-->
+#breathtaking	-->
+#AZWS	-->
+#ComeAmmazzareIlCapo2	-->
+#Nominations	-->
+#LoveIt	-->
+#MoviesWithK	-->
+#Cinema	--> Cinema
+#SardiniaOutletVillage	-->
+#Nah	-->
+#rocketraccoon	-->
+#Gotaim	-->
+#Newsroom	--> News room
+#MissUSA	-->
+#MissUniverse	-->
+#missfranceforever	-->
+#kids	-->
+#BoycottSororitySister	-->
+#TheNewsroom	--> The News room
+#embargo	-->
+#callmeoldfashioned	-->
+#WhatsWithThat	-->
+#siani	-->
+#BOXOFFICE	-->
+#Italia	-->
+#Boxoffice	--> Box office
+#xmasbattle	-->
+#natale2014	-->
+#indrukwekkend	-->
+#BoxOfficeItalia	-->
+#AlessandroSiani	-->
+#VisciousChristians	-->
+#staged	-->
+#online	-->
+#Interview	-->
+#moviestowatch	-->
+#theelephantman	-->
+#proudtroop	-->
+#musei	-->
+#gross	-->
+#Siani	-->
+#ManHood	-->
+#sacrifices	-->
+#modernissimo	-->
+#BitExcited	-->
+#Andreolli	-->
+#sisters	-->
+#thewalk	-->
+#ouijaIlFilm	-->
+#whatprotectsfreedom	-->
+#classifica	-->
+#Iraqis	-->
+#Americanism	-->
+#Extremism	-->
+#FreedomFighter	-->
+#BestFilm	--> Best Film
+#cinefilm	--> cine film
+#SyrianSniper	-->
+#TestamentOfYouth	-->
+#bada	--> bada
+#SELMA	-->
+#interview	-->
+#filmreview	-->
+#FastandFurious	-->
+#Tevar	-->
+#GameChanger	-->
+#sagawards	-->
+#toointense	-->
+#FLAGS	-->
+#SONS	-->
+#TheHurtLockerusa	-->
+#Best	--> Best
+#icon	-->
+#Free	--> Free
+#Gofobo	-->
+#Openfollow	-->
+#Teamfollowback	--> Team follow back
+#LezioniDiAnalisiProduttive	-->
+#fact	--> fact
+#watcHING	-->
+#ASSOLUTAMENTE	-->
+#levelsofdouche	-->
+#USNR	-->
+#Palladium	-->
+#shootstraight	-->
+#foxnewsfacts	-->
+#hooters	-->
+#timessquare	-->
+#NuitAuMusee3	-->
+#TheInitiationGame	-->
+#Maandag	-->
+#AiaceTorino	-->
+#gunfail	-->
+#OneLastTime	-->
+#LiveLocal	--> Live Local
+#IWanttoComeHome	-->
+#etsy	-->
+#etsystore	-->
+#watercolor	-->
+#homedecor	-->
+#gunsencedontwork	-->
+#Spectral	-->
+#Celtics	-->
+#TheLunchBox	-->
+#gallotapado	-->
+#Assistindo	-->
+#SniperAmericano	-->
+#SoPumped	-->
+#TheMostLethalSniperInUSHistory	-->
+#RainyDayReading	-->
+#Robin	-->
+#SternShow	-->
+#bennettsfilmreview	-->
+#Pumped	-->
+#เก็งออสก้าร์	-->
+#กูเดาเอง	-->
+#filmreviews	-->
+#goingtocrylikeababy	-->
+#LongLiveTheChief	-->
+#WantToSee	-->
+#RECENSIONE	-->
+#twotypesofgirls	-->
+#USAF	-->
+#Coastguard	-->
+#FYI	-->
+#FreeSpeech	--> Free Speech
+#JeSuisHypocrite	-->
+#MovieMonday	--> Movie Monday
+#CollateralMurder	-->
+#soldier	-->
+#finalweek	-->
+#Damn	-->
+#y103	-->
+#TheStrand	-->
+#GoodQualityBootleg	-->
+#apaaan	-->
+#Kindle	-->
+#DCSniper	-->
+#REGmmc	-->
+#VotoFilm	-->
+#Amstar14	-->
+#newmovies	-->
+#UnFilmAlGiorno	-->
+#Brothers	-->
+#TheHurtLocker	-->
+#WatchingNow	-->
+#1974	-->
+#loveagoodwarfilm	-->
+#N	-->
+#cryface	-->
+#criticschoice	-->
+#S	-->
+#tooogood	-->
+#napoli	-->
+#AmericanPatriot	--> American Patriot
+#DadBloggers	-->
+#happymonday	-->
+#whoswithme	-->
+#ChickFlick	-->
+#HudsonCounty	-->
+#NJ	-->
+#WeRememberYouKyle	-->
+#openingweekend	-->
+#nohero	-->
+#BawlingMyEyesOut	-->
+#AllIDoIsWatchMoviesAllDay	-->
+#CantComplain	-->
+#LoveThisJob	-->
+#CineMasai	-->
+#SolidDay	-->
+#Tminus5days	-->
+#santikos	-->
+#KingsmanTheSecretService	--> Kings man The Secret Service
+#sidomi	-->
+#Ford	-->
+#TheLoftMovie	-->
+#teamfollowBack	--> team follow Back
+#tiamowry	-->
+#coryhardrict	-->
+#sistersister	-->
+#class	-->
+#ThankYouVets	-->
+#amwriting	-->
+#isntitironic	-->
+#thatisall	-->
+#RedWhite	--> Red White
+#myfriendsdontlikeaction	-->
+#patriotism	-->
+#citizenradio	-->
+#billcosbyrapist	-->
+#FB	-->
+#OpenFollow	-->
+#thankmelater	-->
+#workflow	-->
+#lunchtime	-->
+#TopTen	-->
+#arts	-->
+#bestfilminawhile	-->
+#trueamericanpatriot	--> true american patriot
+#indefianc	-->
+#Acefilm	-->
+#privateviewing	-->
+#Cringe	-->
+#independent	-->
+#JeSuisAmericanSniper	-->
+#TeamFollowBack	-->
+#illpay	-->
+#godblessamerica	--> godbless america
+#weareinWWIII	-->
+#noindependentmind	-->
+#BeABro	-->
+#proud2beanamerican	-->
+#ZeroDarkThirty	-->
+#CurrentlyWatching	-->
+#Denver	-->
+#navySEAL	--> navy SEAL
+#AskDana	-->
+#ManCrushMonday	-->
+#BCoops	-->
+#Gorge	-->
+#LoveMeAlready	-->
+#anotherexcusetowatchamoviewithBradleyCooper	-->
+#JenniferAniston	-->
+#dirty	-->
+#theshooter	-->
+#italiauno	-->
+#needtoseethis	-->
+#AnAmericanNotInParis	-->
+#pace	-->
+#HeTookTheShot	-->
+#Andhedies	--> And hedies
+#Goinggangster	-->
+#BoyzNThehood	-->
+#chandelier	-->
+#BigInTheFilmGame	-->
+#FuckTheCinema	--> Fuck The Cinema
+#RobbyCShowings	-->
+#CyberCaliphate	-->
+#BuonaSerata	-->
+#Streaming	-->
+#MondayMovieNight	--> Monday Movie Night
+#Brother	--> Brother
+#8OutOf10	-->
+#goodsofar	-->
+#movies2015	--> movies 2015
+#GetOnUp	-->
+#howtheydothat	-->
+#BeepBeep	-->
+#OinkOink	-->
+#Congress	-->
+#Congress2015	-->
+#shooter	-->
+#WarStories	-->
+#Theatrends	-->
+#FrancescoRosi	-->
+#ChrisHaring	-->
+#KevinSpacey	-->
+#DiarioDiMariaPia	-->
+#robstownprobz	-->
+#BlackHat	-->
+#Woohah	-->
+#Amerikuh	-->
+#NOLA	-->
+#doc	-->
+#NNPA	-->
+#BPUSA	-->
+#Omaha	-->
+#AksarbenVillage	-->
+#warstories	-->
+#NotWorthWatching	-->
+#Tiger	-->
+#SawItOnline	-->
+#KyleGallner	-->
+#intothewoods	-->
+#SOMANY	-->
+#CR7	-->
+#patandstu	-->
+#DryJanuary	-->
+#action	-->
+#englishmovies	-->
+#americansniper2014	-->
+#privè	-->
+#bestfilm	--> best film
+#HowYouDoin	-->
+#ilbigno83	-->
+#HOOYA	-->
+#NAVY	-->
+#bigfilm	-->
+#AllArmForces	-->
+#MovieMondays	-->
+#PressScreening	-->
+#HatsOff	-->
+#CityWalkLA	-->
+#VerySad	-->
+#GreatActing	-->
+#Book	-->
+#mademyday	-->
+#libraries	-->
+#secret	-->
+#Marvel	-->
+#TheNerdTruth	-->
+#bawtrys	-->
+#hellyeah	--> hell yeah
+#160kills	-->
+#PS4share	-->
+#graziesteve	-->
+#Ilovemovies	--> love movies
+#TroppoBello	-->
+#PokeTheBear	-->
+#yeeeeeeea	-->
+#realcod	-->
+#BoldCall	-->
+#bestbookever	-->
+#Portage	-->
+#OWS	-->
+#whatthefuck	--> what the fuck
+#crazy	-->
+#bambino	-->
+#bambolotto	-->
+#actofvalor	-->
+#apparel	-->
+#shirts	-->
+#CharacterStudy	-->
+#CharileHebdo	-->
+#daddysgirls	-->
+#youdontneedtowatchitnow	-->
+#JustWatched	-->
+#independentmind	-->
+#ValentinesDay	-->
+#putlocker	-->
+#georgelopez	-->
+#filmoftheyear	-->
+#TrueLegendSalute	--> True Legend Salute
+#puck	-->
+#NashvilleFAMILY	-->
+#ThePlug	-->
+#SonyMovies	-->
+#MazzaGallerie	-->
+#Decisions	-->
+#aoooga	-->
+#yesplease	-->
+#sad	-->
+#Friday	--> Friday
+#TGIF	-->
+#kosher	-->
+#sobe	-->
+#andateavederlo	-->
+#YoloSwag	-->
+#tokeitup	-->
+#Smokejoint	-->
+#filmone	--> film one
+#leggenda	-->
+#AmericanTorturers	-->
+#americansnche	-->
+#azizchallenge	-->
+#Dope	-->
+#O	-->
+#WannaWatchItAlready	-->
+#illPay	-->
+#ThankAVeteran	-->
+#IntotheWoods	-->
+#granbelfilm	-->
+#read	--> read
+#TheDucks	-->
+#SamKille	-->
+#moviequotes	-->
+#absurdebeslissingen	-->
+#icried	-->
+#SALUTE	-->
+#HAASHTAGOFWARHAHAHA	-->
+#plznthx	-->
+#letsgo	-->
+#FeelingPatriotic	-->
+#ripChrisKyle	--> rip Chris Kyle
+#PINK	-->
+#OscarPredictions	-->
+#weddingcrashers	-->
+#BrownSweatStainedBaseballCaps	-->
+#warrior	-->
+#sidenigga	-->
+#keepemclose	-->
+#honestyisthebestpolicy	-->
+#MilKid	--> Mil Kid
+#whosmydate	-->
+#HowTheFuck	-->
+#outofthewill	-->
+#werememberyou	-->
+#snipe	-->
+#spotter	-->
+#HowardLeight	-->
+#leupold	-->
+#NatGeo	-->
+#whatsplaying	-->
+#BradCooper	-->
+#wecare	-->
+#17	-->
+#NowYouCanWatchRratedMovies	-->
+#mondaynightmovie	-->
+#GunCulture	-->
+#RTPodcast	-->
+#soready	-->
+#ohyeah	-->
+#imexcited	-->
+#inherentvice	-->
+#ANewKingIsCrowned	-->
+#HangOver	-->
+#lightspeedvt	-->
+#successfulperks	-->
+#callofduty	-->
+#MilitaryWidows	-->
+#gutinstinct	-->
+#cantwaittosee	-->
+#NoJusticeNoPeace	-->
+#militarywife	-->
+#thestruggleisreal	-->
+#dime	-->
+#Dreamy	-->
+#what	--> what
+#noballgame	-->
+#sumsitup	-->
+#Wecorrupt	-->
+#trueheroesnavyseals	--> true heroes navy seals
+#DontBlockFOXNews	-->
+#oscars2014	-->
+#r	-->
+#FoxCatcher	-->
+#torrentjunkie	-->
+#pirate	-->
+#blackhat	-->
+#paddintonbear	-->
+#veremosquetal	-->
+#sneakpreview	-->
+#U18WWC	-->
+#CaptainClutch	-->
+#moviesanyone	-->
+#losing	-->
+#OneEyeDVD	-->
+#WhatAMovie	-->
+#TheLoft	-->
+#วีรบุรุษมัจจุราช	-->
+#fayettenam	-->
+#Winning	-->
+#SuchAGoodMovie	-->
+#Celebrity	-->
+#Ramadi	--> Ramadi
+#SparePartsMovie	-->
+#TheDrop	-->
+#thanksbobby	-->
+#probably	-->
+#lifesnotfair	-->
+#RingingEndorsement	-->
+#awardsseason	-->
+#onlywatchingonce	-->
+#familyselfietime	-->
+#ittakestwo	-->
+#daddydaughterdate	-->
+#Julio	-->
+#TeamHobbs	-->
+#NotAChickFlick	-->
+#PRAB	-->
+#PeaceRiver	--> Peace River
+#PeaceRegion	-->
+#SeanHannity	-->
+#HeroFollowsForever	-->
+#support	--> support
+#moviereviewtweet	-->
+#Republican	-->
+#Democrat	-->
+#paganworship	-->
+#governmentconspiracy	-->
+#Bush	-->
+#2016election	-->
+#boh	-->
+#fuckinfumble	-->
+#GodBlessOurUnitedStatesMilitary	--> God Bless Our United States Military
+#jesuischarlie	-->
+#JewsAndArabsRefuseToBeEnemies	-->
+#marinewife	-->
+#halal	-->
+#sgp	-->
+#SnipingTheMovie	-->
+#DontAskMeHowIDoIt	-->
+#thedevilofRamadi	-->
+#thelastthingtheydidntsee	-->
+#TFackkk	-->
+#je	-->
+#imsoexcited	-->
+#ebonyandivory	-->
+#mindfuckmonday	-->
+#theLegend	--> the Legend
+#SEALChrisKyle	--> SEAL Chris Kyle
+#Conservative	--> Conservative
+#MomentOfSilence	-->
+#greatMovies	--> great Movies
+#popcornplease	-->
+#cosmetics	-->
+#beauty	-->
+#12Gauge	-->
+#GoBuckeyes	-->
+#ByeWeek	-->
+#canhardlystandit	-->
+#singlelifeproblems	-->
+#StillWantToSeeIt	-->
+#bummer	-->
+#craftshout	-->
+#Goldstar	-->
+#widow	-->
+#remember	-->
+#kia	-->
+#ZayZayCom	-->
+#getsome	-->
+#realheroes	-->
+#FoxNewsFacts	-->
+#AdvanceScreening	-->
+#Heartbreaking	--> Heart breaking
+#beststory	--> best story
+#badeyes	-->
+#BirdGang	-->
+#cantcomefastenough	-->
+#whatever	-->
+#TEXFrog	-->
+#Catch	-->
+#JewsAndArabsRefuseToBeEnemie	-->
+#IngloriousBasterds	-->
+#Holdupimcrying	-->
+#4MoreDays	--> More Days
+#Reverend	-->
+#adayinthelifeofchristy	-->
+#needatagalong	-->
+#DougLovesMessedUpMovies	-->
+#imsosoft	-->
+#tooemotional	--> too emotional
+#bestiality	-->
+#WhosWithMe	-->
+#Nietzsche	-->
+#rape	-->
+#animalrape	-->
+#pta	-->
+#bombiran	-->
+#killallnypd	-->
+#HeroesInLife	-->
+#FranceUnityMarch	-->
+#OIFVet	-->
+#11Settembre	-->
+#AlQaeda	-->
+#OMG	-->
+#USNavySeal	-->
+#feminism	-->
+#feelingdumb	-->
+#Jews	-->
+#MeSacoMasDeUnaLagrima	-->
+#hmm	-->
+#mustwatchmovie	--> must watch movie
+#usnavy	-->
+#earlyscrening	-->
+#earlyscreening	-->
+#fuckedupworld	-->
+#God	--> God
+#Country	--> Country
+#RealLife	--> Real Life
+#Menudo	-->
+#JasonBourne	-->
+#nationalism	-->
+#USVets	-->
+#VirtualHugForTayaKyle	-->
+#3days	-->
+#NRANews	--> NRA News
+#Gunowners	-->
+#TakeItEazyByKuyel	-->
+#Chuk_E	-->
+#militaryhero	--> military hero
+#DirectorsGuild	-->
+#Buddha	-->
+#yoga	-->
+#freeTibet	-->
+#KenLoach	-->
+#JustinBieber	-->
+#borrowyourcousins	-->
+#imitationgame	-->
+#Kisses	-->
+#bedflow	-->
+#JerseyBoys	-->
+#glory	-->
+#365in365	-->
+#iloveheriloveher	-->
+#foreveralone	-->
+#HAHAHAHA	-->
+#LoveMyBradley	-->
+#datenightsuccess	-->
+#WeWillAlwaysRemember	-->
+#CRAFTinternational	-->
+#lookdeeper	-->
+#readmore	--> read more
+#blewit	-->
+#watchit	-->
+#24Blog	-->
+#corsidimoda	-->
+#theneeds	-->
+#chris	--> chris
+#kyle	--> kyle
+#MostLethalSniperInUSHistory	-->
+#toopumped	-->
+#myopinion	-->
+#Belpietro	-->
+#terroristi	-->
+#peep	-->
+#porkypig	-->
+#americansnipers	-->
+#ReallyGoodMovie	-->
+#CharlesMichaelDavis	-->
+#BlackLivesMatter	--> Black Lives Matter
+#Hypocrites	-->
+#trending	-->
+#twitter	-->
+#AmericanSniperJam	-->
+#BrewOnThis	-->
+#FilmMonth	--> Film Month
+#startingpointtimmy	-->
+#plentyofreadingaheadoldson	-->
+#filmseason	-->
+#pallonedoro	-->
+#PinoyExchange	-->
+#PerksoftheJob	-->
+#terrorismo	-->
+#Clintmania	-->
+#6ThisMorning	-->
+#reeladvicenet	-->
+#NFCChampionship	-->
+#gohawks	-->
+#Newyear	-->
+#LeicesterSquare	-->
+#BradeyCooper	-->
+#financial	-->
+#services	-->
+#Mrs_Kyle	-->
+#MOTY	-->
+#DrPepperGiveaway	-->
+#TT	-->
+#TopicsUS	-->
+#rRIPCHRIS	-->
+#americanidol	-->
+#orangeroom	-->
+#iraqilivesmatter	-->
+#boycottamericansniper	-->
+#irritated	-->
+#776	-->
+#choices	-->
+#collegeville	-->
+#mostlethalsniperinUShistory	-->
+#AmericanSniperfilm	--> American Sniper film
+#Снайпер	-->
+#Скачать	-->
+#торрент	-->
+#badassery	-->
+#fitfam	-->
+#fitnessmotivation	-->
+#Muscle	-->
+#fitspo	-->
+#5StarFlick	--> Star Flick
+#UnAmerican	-->
+#CURNBlOG	-->
+#ungerenDK	-->
+#Nowwatching	-->
+#HonorOurVets	-->
+#notevenoutyet	-->
+#biography	-->
+#cast	-->
+#lovecinema	--> love cinema
+#filmdavedere	-->
+#cinemamente	-->
+#asktwitter	-->
+#Tusk	-->
+#TodayShow	--> Today Show
+#UkNews	-->
+#May	-->
+#Omg	-->
+#Must	--> Must
+#Odessa	-->
+#Today	--> Today
+#dontforgetkleenex	-->
+#bcooper	--> cooper
+#februaryismoviemonth	-->
+#FightClub	-->
+#NEWS	-->
+#broadway	-->
+#Choices	-->
+#GreatWee	-->
+#mysticriver	-->
+#MustSeeMovie	--> Must See Movie
+#bedday	-->
+#truelife	--> true life
+#reality	-->
+#WembleyPark	-->
+#FRANCOTIRADOR	-->
+#brats4brats	-->
+#boisestate	-->
+#PAYTHEMAN	-->
+#MKE	-->
+#PROUDMARINEWIFE	-->
+#filmsuponfilms	-->
+#oscarseason	-->
+#inritardo	-->
+#EatingAndReading	-->
+#QuakerOats	-->
+#ThomasEnglishMuffins	-->
+#BieberBestFans2015	-->
+#FreeMovie	--> Free Movie
+#ReTweetContest	-->
+#Nugget	-->
+#GOPe	-->
+#tbrs	-->
+#spwbt	-->
+#GirlsRuleBoysDrool	-->
+#lovestory	--> love story
+#AmercianSniper	-->
+#nr	-->
+#nowreading	-->
+#Supportourtroops	--> Support our troops
+#WarnerBrothers	-->
+#TakeCommand	-->
+#TheDemocrats	-->
+#notabookperson	-->
+#ActorsStudio	-->
+#NYTimes	-->
+#Screeners	-->
+#enterpriseIT	-->
+#CloudNAS	-->
+#btv	-->
+#MilitarySupport	--> Military Support
+#Plattsburgh	-->
+#whitneyhouston	-->
+#high	-->
+#commentaries	-->
+#fuckinawesome	-->
+#cspanchat	-->
+#VOTE2016	-->
+#ifightforthembecausetheyfoughtforme	-->
+#letsFootball	-->
+#atk	-->
+#Mustwatch	--> Must watch
+#EP	-->
+#peliculon	-->
+#Similar	-->
+#GuardiansoftheGalaxy	-->
+#StudentAthlete	-->
+#Recomendable	-->
+#countindownthedays	-->
+#hurryupfriday	-->
+#CAS	-->
+#FromTheSoul	-->
+#makingplans	-->
+#aloneinvirginia	-->
+#DoYourJob	-->
+#BransonMeadowsCinema	-->
+#Manchester	-->
+#AMericanSniper	-->
+#topprog	-->
+#FireBobBeckel	-->
+#vuegateshead	-->
+#TopStories	-->
+#missingchildren	-->
+#missing	-->
+#amberalert	-->
+#nature	-->
+#my	-->
+#Starbucks	-->
+#GameofThrones	-->
+#trollando	-->
+#bambini	-->
+#youtubeitalia	-->
+#troll	-->
+#omg	-->
+#DebbieLee	-->
+#EmotionalEvent	--> Emotional Event
+#zing	-->
+#bootlegs	-->
+#youngcritic	-->
+#fotboltinet	-->
+#trivia	-->
+#gobigorgohome	-->
+#499	-->
+#LuisPokel	-->
+#Arsal	-->
+#حتى_لاننسى	-->
+#رتويت	-->
+#عقلانيون	-->
+#tvratings	-->
+#FamousEffects	-->
+#MadChance	-->
+#luuuvvvmyboyaustina	-->
+#DenverBroncos	-->
+#stilllaughing	-->
+#pelculasseriesydocumentales	-->
+#NOW	-->
+#flixxbrewhouse	-->
+#moviewithmyhunny	-->
+#bootlegconnect	-->
+#BOCapsule	-->
+#Feels	-->
+#ipic	-->
+#McGillPride	-->
+#PressPublic	-->
+#GoodReads	-->
+#miv	-->
+#SoapCrush	-->
+#SEALTeam	--> SEAL Team
+#TomKovach	-->
+#ExtraRISING	-->
+#MarinaDelRey	-->
+#Screengrab	-->
+#GreenBay	-->
+#JustFacts	-->
+#francotirador	-->
+#alaire	-->
+#TrueStories	-->
+#CryBaby	-->
+#ClientEastwood	-->
+#desperate	-->
+#FilmFiends	-->
+#Fan220	-->
+#laugh	-->
+#cry	-->
+#feel	-->
+#wintermoviedraft	-->
+#Ripchris	-->
+#Maddness	-->
+#HeroChrisKyle	--> Hero Chris Kyle
+#Anderson	-->
+#Linklater	-->
+#Inarritu	-->
+#Tyldum	-->
+#pls	-->
+#yawelcome	-->
+#Iraqwar	--> Iraq war
+#Blowback	-->
+#longrangetekkers	-->
+#TheRealMVP	-->
+#robotbaby	-->
+#SnipersOnly	-->
+#GirlsWhoSnipe	-->
+#SriLanka	-->
+#charliehebdo	-->
+#wasiwatchingthesamemovie	-->
+#HotelBudapest	--> Hotel Budapest
+#CodigoEnigma	-->
+#LiamNeeson	-->
+#gunCONTROL	-->
+#Bradleycooper	--> Bradley cooper
+#vancouver	-->
+#RUSH	-->
+#UltraScreenDLX	-->
+#exclusive	-->
+#nightsorted	-->
+#GreatActors	-->
+#GoodFilm	--> Good Film
+#iHeartPhilly	-->
+#Iggles	-->
+#Penn	-->
+#Temple	-->
+#premioOscar	-->
+#BoxOfficeNews	--> Box Office News
+#abashwe	-->
+#8216	-->
+#8217	-->
+#5280now	-->
+#YoAvise	-->
+#MoviesWithMeaning	-->
+#superstoked	-->
+#openingnight	-->
+#moviepremiere	--> movie premiere
+#Imovie	--> movie
+#blackmarketmoviemaster	-->
+#illegalwar	-->
+#massmurder	-->
+#mrturner	-->
+#LostStars	-->
+#AdamLevine	-->
+#JLaw	-->
+#AlejandroGonzalezInarritu	-->
+#thirdwheel	-->
+#honesthistory	-->
+#221	-->
+#benaffleck	-->
+#Merca	-->
+#TheIrfanism	-->
+#country	--> country
+#priorities	-->
+#uplifting	-->
+#stars	-->
+#DirectorsGuildOfAmerica	-->
+#WashingtonDC	-->
+#bieberupdates	-->
+#brilliantfilm	-->
+#navywife	-->
+#roadshow	-->
+#StoricoBiografico	-->
+#bentornatoroberto	-->
+#filmtalk	-->
+#movienews	--> movie news
+#delusione	-->
+#whydidithavetoendlikethat	-->
+#sun7	-->
+#dog	-->
+#bed	-->
+#sleepy	-->
+#undefined	-->
+#TCLChineseTheatres	-->
+#BooktoMovie	-->
+#timesplus	-->
+#Hellyeaaaaaaa	-->
+#celebritynews	-->
+#140C	-->
+#Technology	-->
+#Game	--> Game
+#readthebook3times	-->
+#KimberlyandBeck	-->
+#ROC	-->
+#ChrisKyleTheLegend	--> Chris Kyle The Legend
+#öööjöjöj	-->
+#GoWatchIt	-->
+#gamefeed	-->
+#VideoGame	--> Video Game
+#HamOnt	-->
+#wonderful	-->
+#moving	-->
+#ilovemovies	--> love movies
+#LaJolla	-->
+#Truestory	--> True story
+#bangbang	-->
+#PoorTiming	-->
+#Celebritynews	-->
+#BBCNews	-->
+#oohrah	-->
+#melbourne	-->
+#victoria	-->
+#ICried	-->
+#mytimesplus	-->
+#SJ	-->
+#chrisklye	-->
+#2013	-->
+#late	-->
+#JakeTapper	-->
+#yxe	-->
+#epictweetfail	-->
+#nofear	-->
+#bebrave	-->
+#marins	-->
+#esercitoitaliano	-->
+#esercito	-->
+#militare	-->
+#fight	-->
+#fyc	-->
+#GreatInterview	-->
+#secondshiftprobz	-->
+#DoctorWho	-->
+#sold	-->
+#RhodesScholar	-->
+#13	-->
+#KLAQ	-->
+#ItsallgoodEP	-->
+#DGA15	-->
+#WMagazine	-->
+#mindblown	-->
+#TheManApp	-->
+#nervios	-->
+#Sydney	-->
+#Aus	-->
+#Manila	-->
+#Asia	-->
+#Vancouver	-->
+#BC	-->
+#Philadelphia	-->
+#Amsterdam	-->
+#SF	-->
+#49ers	-->
+#Tokyo	-->
+#Japan	-->
+#HongKong	-->
+#Seattle	-->
+#WA	-->
+#NewYork	-->
+#Cairo	-->
+#Egypt	-->
+#Beijing	-->
+#AntiGun	-->
+#Facebook	-->
+#Murdered	-->
+#ScreenerSeason	-->
+#FreeMediaForAll	--> Free Media For All
+#AmericanSniperReview	-->
+#AmericanSniper2014	-->
+#TheGrade	-->
+#CinemaScore	-->
+#HurtLocker	-->
+#deerhunter	-->
+#NothingtodowithIslam	-->
+#SniperAnythingFan	-->
+#compromise	-->
+#makingdeals	-->
+#HomeMovieTheater	-->
+#stop	--> top
+#ClassFilm	--> Class Film
+#HumbleBrag	-->
+#thanksFREEFACEBOOK	-->
+#rwanda	-->
+#hurryup	-->
+#HistoryMatters	-->
+#dpchat	-->
+#lonewolf	-->
+#Goals	-->
+#AskAustin	--> Ask Austin
+#Hot	--> Hot
+#Celebrities	-->
+#MixtapeFinnaBeOnFleekRealSoon	-->
+#progress	-->
+#change	-->
+#BradleyCooperIsABoss	-->
+#WorldNews	-->
+#KeepRockin	-->
+#nomination	-->
+#advancedscreening	-->
+#GoneGirlFTW	--> Gone Girl FTW
+#GottaDoWatchyaGottaDo	-->
+#UsefulUpdates	-->
+#coppednews	-->
+#cwfandango	-->
+#WelcomeToHappiness	-->
+#extra	-->
+#WRH	-->
+#PreScreening	-->
+#SunsetPlace	-->
+#MyOtherFamily	-->
+#happy	-->
+#VetsRising	-->
+#EndlessWar	-->
+#WeddingRiner	-->
+#ingloriousbastards	-->
+#SCV	-->
+#indy	-->
+#Serata	-->
+#nowords	-->
+#keepdabbling	-->
+#ChI	-->
+#Inspiration	-->
+#TopLine	--> Top Line
+#MormonProbs	-->
+#SahelNews	-->
+#goodevening	-->
+#goodfilms	-->
+#mylove	-->
+#mylife	-->
+#myworld	-->
+#CPVTS	-->
+#XBMC	-->
+#juliadivision	-->
+#JohnLennon	-->
+#SkyArteHD	-->
+#stonerdawg	-->
+#nbc	-->
+#Priceless	-->
+#upsetting	-->
+#lookssogood	-->
+#ETNow	-->
+#SigSauer	-->
+#research	-->
+#SnipingRunsInTheFamily	-->
+#ausdef	-->
+#Hou	-->
+#gameonindc	-->
+#Latinoscoop	-->
+#whatsnottolove	-->
+#DeservesAllTheAwards	-->
+#RIPSgtAdamLCann	-->
+#TyoNews	-->
+#KC	-->
+#DC	-->
+#itsalright	-->
+#Shotta	-->
+#tfti	-->
+#terriblePR	-->
+#lookscrazy	-->
+#SantikosPalladium	-->
+#KyleLied	-->
+#punintended	-->
+#420blazeit	-->
+#SnipeSnipe	-->
+#crap	-->
+#notstudying	-->
+#emozionilab	-->
+#ConAir	-->
+#sloshed2k15	-->
+#NotSoCommonWhiteGirl	-->
+#filmonedaduri	-->
+#tigro	-->
+#Yelp	-->
+#thankyoutroops	--> thank you troops
+#YourFrosh	-->
+#PLLChat	-->
+#instagram	-->
+#LonelyLife	-->
+#BradleyCooperOrMichaelCamacho	-->
+#PremiereCinemasElPaso	-->
+#nohomo	-->
+#paddington	-->
+#sanfrancisco	-->
+#buyingit	-->
+#VSCOcam	-->
+#vsco	-->
+#chi	-->
+#Chi	-->
+#onekillmoretogo	-->
+#bitterirony	-->
+#TheGunShowLA	-->
+#BAFTA2015	-->
+#TU	-->
+#heartlove	--> heart love
+#PERKS	-->
+#NationalChampionship	-->
+#Sniped	-->
+#LetsGoPens	-->
+#unfriended	-->
+#YasminMitri	-->
+#IBTTS	-->
+#directed	-->
+#Hide	-->
+#SayDat	-->
+#Fuego	-->
+#Littt	-->
+#ItsBadAss	-->
+#Movies4Days	-->
+#nodiscernment	-->
+#soldierdown	-->
+#PatriotsTalk	-->
+#airforcewife	-->
+#missthem	-->
+#ohwell	-->
+#sororitysisters	-->
+#D9ForChange	-->
+#murdering	-->
+#lying	-->
+#us	-->
+#LuvYou	-->
+#LuvTodayShow	-->
+#proudtobeaveteran	-->
+#contrast	-->
+#can	-->
+#Nobodyaskedmeto	-->
+#KXLY	-->
+#united	-->
+#U	-->
+#Spokane	-->
+#SpokanePD	-->
+#GoodMusic	-->
+#USmilitary	-->
+#RLTW	-->
+#FiveWordsToRuinADate	-->
+#thankf4you	-->
+#plz	-->
+#Ghandi	-->
+#Dome	-->
+#midpointtv	-->
+#yeeeee	-->
+#Obsessed	-->
+#HoyToca	-->
+#France	-->
+#thiskid	-->
+#loserstatus	-->
+#marriedlife	-->
+#NationalChamps	-->
+#CantWaitMuchLonger	-->
+#H8A	-->
+#G360	-->
+#SiTeVenConmigo	-->
+#BrazenByRaqc	-->
+#CinemaFan	-->
+#witit	-->
+#FilmOfTheWeek	-->
+#202andU	-->
+#dickclark	-->
+#obsessed	-->
+#Gunplay	-->
+#beenthatnigga	-->
+#BestJobEver	--> Best Job Ever
+#10days	-->
+#leggo	-->
+#TheStruggleContinues	-->
+#mustseeit	-->
+#makemyday	-->
+#appreciation	-->
+#ChillMode	--> hill Mode
+#EarlyScreening	-->
+#Axeliito_x3	-->
+#WizKhalifa	-->
+#Legendary	-->
+#lessgo	-->
+#NoSchool	-->
+#RatedR	-->
+#AMC16	-->
+#Burbank	-->
+#Unbelievable	-->
+#dying	-->
+#photos	-->
+#GoodFlick	--> Good Flick
+#EstoyMuyExcited	-->
+#Edmonton	-->
+#YourWelcome	-->
+#BurkeTheater	-->
+#la	-->
+#tarakyle	-->
+#tank	-->
+#AmericanSniperSens	-->
+#agreed	-->
+#botleg	-->
+#MyLifeInTicketStubs	-->
+#ArclightMember	-->
+#3Days	--> Days
+#newmovie	-->
+#icantwait	--> cant wait
+#movieblogger	-->
+#Ít	-->
+#SuperExcited	--> Super Excited
+#JUNIOR_RD15	-->
+#mexicanperks	-->
+#ThisIsHowMoviesAreSupposedToBe	-->
+#ChristKyle	-->
+#NoPunIntended	-->
+#Bradleyisasavage	-->
+#lookathishair	-->
+#theflowisreal	-->
+#dcpremiere	-->
+#USO	-->
+#lifeinDC	-->
+#GoItaly	-->
+#LifeWithNoBae	-->
+#Bummer	-->
+#icouldntdoit	-->
+#PVR	-->
+#Burnt	-->
+#BajaCalifornia	-->
+#OhBradley	-->
+#dateday	-->
+#adultmatinee	-->
+#iloveyou	--> love you
+#hellowhit	-->
+#WTFUCKITUP	-->
+#bestmovieof2015	-->
+#Sonora	-->
+#iloveamerica	--> love america
+#bootlegged	-->
+#trainthebrain	-->
+#darkplaces	-->
+#thenightcurcus	-->
+#Blacktwitter	-->
+#imspeechless	-->
+#thatending	-->
+#SadEnding	-->
+#Action	--> Action
+#SaluteaTutti	-->
+#Datenight	--> Date night
+#FallonTonight	-->
+#PocketAssassin	-->
+#ThePatroit	-->
+#SavingPrivateRyan	-->
+#ElGalloN	-->
+#PrimeWire	-->
+#silverliningsplaybook	-->
+#someCEObizzo	-->
+#LenaDunham	-->
+#thecallofdutygameineverwanttoplay	-->
+#yourwelcome	-->
+#home	-->
+#DuckCommander	-->
+#camo	-->
+#TalkinDergy	-->
+#spoiler	-->
+#JoeForAmerica	-->
+#PropsTo	-->
+#hype	-->
+#SaveOurVets	-->
+#mustwatchlist	-->
+#realdeal	-->
+#spele	-->
+#spellen	-->
+#gamespellen	-->
+#1stdate	-->
+#shhhhhh	-->
+#AgeofUltron	-->
+#JurassicWorld	-->
+#AntMan	-->
+#Priorityfilms	-->
+#Moviejunkie	-->
+#notears	-->
+#ND	-->
+#TeamTorrents	-->
+#CouldYouLiveWithThatDecision	-->
+#TrueAmericanLegend	--> True American Legend
+#going	-->
+#1moreday	-->
+#Houston	-->
+#thebestfilmoftheyear	-->
+#the	--> the
+#piu	-->
+#letale	-->
+#della	-->
+#SaidNoOneEver	-->
+#NFLDraft	-->
+#ShesAKeeper	-->
+#NewsUpdates	-->
+#OnlineNews	-->
+#sooooosad	-->
+#facebook	-->
+#AvaDuVernay	-->
+#greatfuckinmovie	-->
+#RoyalRumble	-->
+#ANXIOUS	-->
+#focus	-->
+#AvengersAgeOfUltron	-->
+#Furious7	-->
+#MadMax	--> Mad Max
+#SloppyTop	-->
+#USSLiberty	-->
+#ceremony	-->
+#finance	-->
+#uk	-->
+#f	-->
+#darifare	-->
+#siamopazzi	-->
+#bigeyes	-->
+#Awards	--> Awards
+#Ceremony	-->
+#latenightthoughts	-->
+#RaspberryPi	-->
+#OpenELEC	-->
+#WTOP	-->
+#world	-->
+#newsworld	-->
+#BraggingBastard	-->
+#SuchAshowoff	-->
+#blownaway	-->
+#CASAwards2015	-->
+#Nonfiction	-->
+#BooksB4Movies	-->
+#mondayfunday	-->
+#goodstuff	-->
+#woah	-->
+#HollyWeird	-->
+#rekt	-->
+#Thanks4urService	-->
+#NigerianDailyNews	-->
+#whatpeoplereadonthetube	-->
+#goodlort	-->
+#moviereview	-->
+#truehistory	-->
+#MakesYeahThink	-->
+#Sad	-->
+#DoaaElSebaii	-->
+#eur	-->
+#tuu	-->
+#yoo	-->
+#lmswageer	-->
+#SIGUEME	-->
+#OscarForThePatriot	--> Oscar For The Patriot
+#celebrity	-->
+#OscarForTheMotherland	-->
+#TRexTheater	-->
+#DallasNews	--> Dallas News
+#jesuiskyle	-->
+#TommyShow	-->
+#thank	--> thank
+#Tistory	-->
+#NONFICTION	-->
+#Bestseller	-->
+#talkaboutmovies	-->
+#ebooks	-->
+#uknews	-->
+#memoirs	-->
+#DopoNapolitano	-->
+#FrancoTiratore	-->
+#Hypocrite	-->
+#thankYouChrisKyle	--> thank You Chris Kyle
+#Micah6	-->
+#RippleEffect	-->
+#shaitanalramadi	-->
+#whataread	-->
+#NOTCOOL	-->
+#tsu	-->
+#tsunami	-->
+#cgv	-->
+#동백	-->
+#basildon	-->
+#basilor	-->
+#southend	-->
+#BuffaloWildWings	-->
+#datenightwmylove	-->
+#TeamEM_	-->
+#Luiis_3x	-->
+#CAZZO	-->
+#spoilersdimerda	-->
+#BoyNextDoor	--> Boy Next Door
+#DCPremiere	-->
+#TheGodfather	-->
+#dream	-->
+#Wichitaks	-->
+#average	-->
+#thehobbit	-->
+#johnwick	-->
+#autismawareness	-->
+#TASK	-->
+#EASTWOOD	-->
+#LattooRepublic	-->
+#xboxone	--> box one
+#followers	-->
+#Euro	-->
+#Europe	-->
+#entertainmentnews	--> entertainment news
+#Q1043	-->
+#Funrepublic	-->
+#Cinemax	-->
+#Inox	-->
+#americanpolitics	--> american politics
+#AmericanPolitics	--> American Politics
+#KeskinNişancı	-->
+#SaverioCostanzo	-->
+#HungryHearts	-->
+#AdamDriver	-->
+#shesincredible	-->
+#marinevetwife	-->
+#newfan	-->
+#боевик	-->
+#Leggo	-->
+#TeamKutThroat	-->
+#ParisAttacks	-->
+#Premiere	--> Premiere
+#Celeb	-->
+#paststudentupdate	-->
+#Oscars2015bestactor	-->
+#Boycott	-->
+#PresidentBarackObama	-->
+#TrueSoldier	--> True Soldier
+#MOAA	-->
+#newsnight	--> news night
+#GetReliable	-->
+#showbiz	--> show biz
+#sg	-->
+#Reuters	-->
+#ICCradio	-->
+#2moredays	-->
+#BombayTimes	-->
+#hugefan	-->
+#says	--> says
+#Bradley	--> Bradley
+#got	-->
+#down	--> down
+#facial	-->
+#tic	-->
+#KimJongUn	-->
+#whamp	-->
+#PostNationalist	-->
+#sniperpride	-->
+#SDOTGFX	-->
+#follow4follow	-->
+#22KILL	-->
+#Boom	-->
+#luvvvit	-->
+#Baselight	-->
+#MeetTheColourist	-->
+#Magnotapp	-->
+#Jacktivities	-->
+#LOVES	-->
+#YWHTeamNoSleep	-->
+#Cabaret	-->
+#StarCinemaHit	-->
+#grassroots	-->
+#GOTV	-->
+#nashville	-->
+#collegebooks	-->
+#ได้ค่ะเมน	-->
+#ตังล่ะคะ	-->
+#okemomnt	-->
+#okemo	-->
+#magicmnt	-->
+#hiexpress	-->
+#inlove	-->
+#ThingsICantEmailFromWork	-->
+#toronto	-->
+#chilled	-->
+#weddingringer	-->
+#seibelloanchecon48573kginpiú	-->
+#dedillc	-->
+#looking	-->
+#Morbegno	-->
+#Valtellina	-->
+#juryduty	-->
+#booktime	-->
+#DBW15	-->
+#wcw	-->
+#CoalitionToStopGunViolence	-->
+#Beirut	-->
+#Lebanon	-->
+#events	-->
+#MiddleEast	-->
+#MENA	-->
+#LEVANT	-->
+#NewestReleases	-->
+#boxofficehit	-->
+#RealTaraKyle	-->
+#Pellicolante	-->
+#criticasen140chars	-->
+#RochMN	-->
+#succé	-->
+#landofthefreehomeofthebrave	-->
+#tripledate	-->
+#fmovief	-->
+#cinephile	-->
+#FilmTwitter	--> Film Twitter
+#chicago	-->
+#naperville	-->
+#AmericAnSniper	-->
+#LoHobbitITA	-->
+#firedup	-->
+#pleaserunintome	-->
+#fate	-->
+#bestdirector	-->
+#rest	-->
+#downtime	-->
+#needpopcorn	-->
+#AmericanHeroes	--> American Heroes
+#nohangover	-->
+#Snipaaah	-->
+#ischia	-->
+#forio	-->
+#dellevittorie	-->
+#syllabusweek	-->
+#CooperXlnt	-->
+#armysniperwife	-->
+#WetHotAmericanSummer	-->
+#WarnerBrosIta	-->
+#Warner	--> Warner
+#exquisite	-->
+#workoutting	-->
+#pensacola	-->
+#se7en	-->
+#smh	-->
+#2ndbookiveeverread	-->
+#imagenius	-->
+#mensjournal	-->
+#latestnews	-->
+#Big	--> Big
+#TheImmitationGame	--> The Immitation Game
+#sex	-->
+#teen	-->
+#NASCAR	-->
+#kurtbusch	-->
+#BestPic	-->
+#goamerica	-->
+#filipino	-->
+#VietnamVeteran	-->
+#DeathPenalty	-->
+#21stCentury	-->
+#SanDiegoNews	-->
+#ChrisKyel	-->
+#Flashback	-->
+#CSPAN	-->
+#Ycot	-->
+#ShowbizNews	--> Show biz News
+#Valor	-->
+#BUILDseries	-->
+#valor	-->
+#ImWithYa	-->
+#PEOPLE	-->
+#LATEST	-->
+#AmyPoehlerPaulRudd	-->
+#teamfollowback	--> team follow back
+#CoryHardrict	-->
+#JustIn	-->
+#gameinsight	-->
+#androidgames	-->
+#ipad	-->
+#ipadgames	-->
+#teamfollow	--> team follow
+#MidnightPremier	-->
+#theImitationGame	--> the Imitation Game
+#money	-->
+#dogecoin	-->
+#bitcoin	-->
+#photography	-->
+#job	-->
+#nail	-->
+#gossip	-->
+#BlackVoice	--> Black Voice
+#blackvoices	-->
+#thedeviloframadi	-->
+#nijasmoke	-->
+#pub	-->
+#beer	--> beer
+#letdown	-->
+#butstillfunny	-->
+#dinnerdate	-->
+#hellyes	-->
+#shootingBlanks	-->
+#plano	-->
+#made	--> made
+#ExMachina	-->
+#Jingoist	-->
+#RmgCrew	-->
+#damnfew	-->
+#westerncostume	-->
+#heroswhodiejustdoingwhattheydo	-->
+#Spinis	-->
+#PewPewPew	-->
+#HomeandFamily	--> Home and Family
+#lonerproblems	-->
+#TimesPlus	-->
+#2MoreDays	--> More Days
+#кино	-->
+#np	-->
+#CIA	-->
+#WarCulture	-->
+#Evolve	-->
+#kodi	-->
+#VediamoUnPo	-->
+#volaalcinema	-->
+#Stillthebeststory	--> Still the best story
+#BF4	-->
+#denverurban	-->
+#MyChoiceMyTheater	-->
+#StopCensorshipNow	-->
+#TheoryOfEvery	-->
+#Budapest	--> Budapest
+#EPIC	-->
+#ArclightDome	-->
+#ILoveWarMovies	--> Love War Movies
+#WestWind	-->
+#welldone	-->
+#OfficialOscarPhotos	-->
+#Google	-->
+#gethard	-->
+#TwoMoreDays	-->
+#MacungieVFW	-->
+#RTB	-->
+#LVPhantoms	-->
+#bestwifeintheworld	-->
+#loveourlife	--> love our life
+#WCW	-->
+#Gorgeous	-->
+#triplethefocus	-->
+#Coffee	-->
+#night	--> night
+#laptop	-->
+#wintery	-->
+#n	-->
+#iPadMovieDay	-->
+#LovingMyNewApp	-->
+#Salem	-->
+#Elovesmovies	-->
+#lukegrimes	-->
+#bradleycooperislove	-->
+#radio	-->
+#Tomatometer	-->
+#yeahh	-->
+#TFLers	-->
+#tweegram	-->
+#photooftheday	-->
+#20likes	-->
+#TonZanta	-->
+#superpumped	-->
+#dudeisaBAMF	-->
+#stayinthemix	-->
+#shit	--> shit
+#looksawesome	-->
+#india	-->
+#happyman	-->
+#oneofthegreatest	-->
+#TheMiracle	-->
+#AmoreBugiardo	-->
+#Popcorn	--> Popcorn
+#Fanuendo	-->
+#DirtFreeFilmsRule	-->
+#popcorntime	-->
+#JessicaChastain	-->
+#newbooksexciteme	-->
+#destinymallusa	-->
+#baftas	-->
+#constantcontact	-->
+#dem	-->
+#chilling	-->
+#EastwoodRocks	-->
+#XboxOne	--> box One
+#PlayStation	-->
+#TwitchStream	-->
+#Microsoft	-->
+#Battlefield4	-->
+#Xbox360	-->
+#YouTube	-->
+#ign	-->
+#OscarWatch2k15	-->
+#AFIFest	-->
+#ilovebradleycooper	--> love bradley cooper
+#BloombergTVIDInfo	-->
+#bradleycooperfan	-->
+#jaymohrsports	-->
+#TestamentofYouth	-->
+#DuckSoup	-->
+#wild	-->
+#Looper	-->
+#spettacolare	-->
+#EduardoAbrildeFontcuberta	-->
+#yaasss	-->
+#MovieAddict	-->
+#MyLifeONFIRE	-->
+#wbombarda	-->
+#PLANOtx	-->
+#PopcornChats	-->
+#Napolitano	-->
+#Tantodicappello	-->
+#godhelpme	-->
+#opinion	-->
+#bdcnews	-->
+#Lubbock	-->
+#dreamsmotorsports	-->
+#igersjax	-->
+#Appreciate	-->
+#mobile	-->
+#cool	-->
+#waargebeurd	-->
+#Outlaw	--> Out law
+#KurtBusch	-->
+#justsayin	-->
+#eonlinechat	-->
+#Top5Wednesdays	-->
+#TopFiveWednesdays	-->
+#NickIacobucci	-->
+#oldwhitedudes	-->
+#WellDeserved	-->
+#MichaelMann	-->
+#GWOT	-->
+#PJNet	-->
+#celebration	-->
+#unwind	-->
+#gogetter	-->
+#dreams	-->
+#Plano	-->
+#Charity	-->
+#Dinner	-->
+#NomNom	-->
+#esagerati	-->
+#applausi	-->
+#private	-->
+#2015OscarContenders	-->
+#gotmyticketsdoe	-->
+#tvfilms	-->
+#blooper	-->
+#superexcited	-->
+#moviepass	-->
+#gonnarereadthebook	-->
+#ItsBeautifulMan	-->
+#Navigator	-->
+#TorinoLazio	-->
+#IMDB	-->
+#MWC	-->
+#pewpew	-->
+#MarchigianSnaiper	-->
+#findlucy	-->
+#gripping	-->
+#predictions	-->
+#atroce	-->
+#LegendarySniper	-->
+#3amThoughts	-->
+#hashtag	-->
+#benrecommends	-->
+#ElPoderDeOprah	-->
+#CCP	-->
+#stayingtuned	-->
+#Yeremiito21	-->
+#looksquality	-->
+#Unlimited	-->
+#socialmedia	-->
+#saltpopcornisbuzzin	-->
+#Legit	-->
+#BabyJe	-->
+#Setting4Success	-->
+#SocialMedi	-->
+#американский	-->
+#снайпер	-->
+#Disrespect	-->
+#SJNow	-->
+#Box	--> Box
+#iNewsPhoto	-->
+#Oscarnompredix	-->
+#ineedtogetoutmore	-->
+#SLCnow	-->
+#LooksAmazing	-->
+#buonanotte	-->
+#SanAntonioMilitaryMedicalCenter	-->
+#ciaoproprio	-->
+#topperia	-->
+#GoldStandard	-->
+#screenjunkies	-->
+#FML	-->
+#Perhaps	-->
+#SAMMC	-->
+#HONORChrisKyle	-->
+#topwatch	--> top watch
+#Ballers	-->
+#WhereAreTheWomen	-->
+#gah	-->
+#JakeMcDorman	-->
+#realmvp	-->
+#alliwant	-->
+#lagazzettadellosport	-->
+#latenight	-->
+#Guardianangle	-->
+#InnerSpace	-->
+#lovehismovies	-->
+#Twittersister	-->
+#TwoDaysOneNight	-->
+#militarymoviesalwaysgetme	-->
+#wtopstuff	-->
+#TheImmigrant	-->
+#spettacolo	-->
+#MejorSonido	-->
+#MejorMontajeDeSonido	-->
+#notfair	-->
+#dga	-->
+#QualityTime	-->
+#IMissMyChunkyButtTho	-->
+#TheWholeGangWithMe	-->
+#anxious	-->
+#GODBLESSTHEUSA	-->
+#thehillplan	-->
+#2daystillthemovie	-->
+#AskforHelp	-->
+#CharlieHunnam	-->
+#AmericanDrugLord	-->
+#moviesmoviesmovies	--> movies movies movies
+#IfWeDate	-->
+#PapaJohnCares	-->
+#Chilled	-->
+#Chriskylefrogfoundation	-->
+#ryantoo	-->
+#hesnotmybaeyet	-->
+#solid8to9	-->
+#iAM	-->
+#OscarWorthyPerformance	-->
+#DallasCowboys	-->
+#ithinkso	-->
+#tunein	-->
+#SoIBoughtATheatre	-->
+#WithCash	-->
+#sickdays	-->
+#coldnights	-->
+#hottea	-->
+#flinch	-->
+#Maya	-->
+#movieswithastory	-->
+#solid	-->
+#unfriend	-->
+#FilmClub	-->
+#milan	-->
+#Italy	-->
+#citylights	-->
+#ClanginAndBangin	-->
+#Idc	-->
+#okmaybeillbringmydad	-->
+#greatreviews	-->
+#guerra	-->
+#WoopWoop	-->
+#honorourtroops	--> honor our troops
+#PunnIntended	-->
+#Winnipeg	-->
+#queensny	-->
+#Cinemart	-->
+#foresthills	-->
+#DopePMusic	-->
+#RedWhiteBlue	--> Red White Blue
+#premier	-->
+#wildturkey	-->
+#bootcampaign	-->
+#camparilife	-->
+#iptvip	-->
+#SOA	-->
+#instagood	-->
+#instacool	-->
+#CKFFdn	-->
+#ChrisKyleStyle	-->
+#Ace	-->
+#nLwL	-->
+#Bent	-->
+#extraordinarilygood	-->
+#pjotg	-->
+#IMPACT	-->
+#VH1	-->
+#MovieCrew	-->
+#SoSadThough	-->
+#imspoiled	-->
+#starstruck	-->
+#USHistory	-->
+#classfilm	-->
+#Prep	-->
+#thechriskylefrogfoundation	-->
+#CuandoTengoHambre	-->
+#predix	-->
+#FilmDaVedere	-->
+#GivingBack	-->
+#devastated	-->
+#Cinemark	--> Cinemark
+#Inked	-->
+#Tattoo	-->
+#rightbetweentheeyes	-->
+#screener	-->
+#justkarmellethings	-->
+#VirtualHugForTaya	-->
+#bu	-->
+#in	-->
+#foreverthankful	-->
+#BCoop	-->
+#lmk	-->
+#WildTales	-->
+#FourFiveSeconds	-->
+#TriviaCrack	-->
+#want	-->
+#homeless	-->
+#myfirstTweet	-->
+#inc	-->
+#AmericanExtremist	-->
+#lovethetroops	--> love the troops
+#godbless	--> godbless
+#appletv	-->
+#str8	-->
+#smallbusiness	-->
+#january16th	-->
+#typical	-->
+#Eagles	-->
+#SelfieWithoutBrad	-->
+#CooperScooper	-->
+#SoCloseYetSoFar	-->
+#PhillyBoy	-->
+#GulfBreeze	-->
+#TwitchyTeam	-->
+#13Hours	-->
+#TaleMeToPlano	-->
+#livelocal	-->
+#IThinkSo	-->
+#TakeMeToPlano	-->
+#xoxo	-->
+#cartels	-->
+#diplom	-->
+#couldbemeoneday	-->
+#GoodAssMovie	--> Good Ass Movie
+#Recomedada	-->
+#NBC7	-->
+#Oohrah	-->
+#devildogs	-->
+#Biden	-->
+#thedailybeast	-->
+#swin24	-->
+#JoeBiden	-->
+#chris_kyle	-->
+#SVU	-->
+#luv	-->
+#relatable	-->
+#GreatActor	--> Great Actor
+#Entrepreneur	-->
+#Leadership	-->
+#invest	-->
+#entrepreneurs	-->
+#nb	-->
+#hr247	-->
+#workplacerevolution	-->
+#SideHustleDaily	-->
+#smallbiz	-->
+#incmag	-->
+#sadkenz	-->
+#C100Premiere	--> 100 Premiere
+#CANNOTWAIT	-->
+#visto	-->
+#plzdontdebateoverthis	-->
+#entrepreneur	-->
+#hurryupweekend	-->
+#rt	-->
+#sopumped	-->
+#QOTD	-->
+#Positive	-->
+#butstill	-->
+#workisfun	-->
+#basic	-->
+#Yay	-->
+#JeffKyle	-->
+#sorrygrades	-->
+#loner	-->
+#gastown	-->
+#BanqueteCinematográfico	-->
+#ItsAMust	-->
+#dyingtoseeit	-->
+#cornhole	-->
+#UCantHide	-->
+#Sidenote	-->
+#Instagram	-->
+#LetsFootball	-->
+#Megacab	-->
+#Dilemna	-->
+#гледајфилм	-->
+#Media_Blogz	-->
+#movieblog4movies	-->
+#turnup	-->
+#greatbooks	-->
+#PlotTwist	-->
+#thankyouall	-->
+#spilledmilk	-->
+#cantwaitforFriday	--> cant wait for Friday
+#JudgeMe	-->
+#lifegoals	-->
+#LINSTEAD	-->
+#imcraycray	-->
+#ubettermakesometoescurl	-->
+#imitation	-->
+#MovieThenBook	-->
+#autobiography	-->
+#undauntedApparel	-->
+#Thrilled	-->
+#SfxMakeup	-->
+#YesPlease	-->
+#Boston	-->
+#bookreview	-->
+#AmericasNavy	--> Americas Navy
+#NAVYSEALs	-->
+#OPSEC	-->
+#swag	-->
+#hurryfriday	-->
+#Inc	-->
+#NameDropper	-->
+#Integrity	-->
+#Natu	-->
+#SomeoneComeWith	-->
+#ThatIsTheQuestion	-->
+#MatthewMcConaughey	-->
+#IMakeMyOwnMoney	-->
+#IPayForMyself	-->
+#milspouseblogger	-->
+#milso	-->
+#worththeanxiety	-->
+#hoot	-->
+#howareya	-->
+#howsyamotha	-->
+#howsyabootleg	-->
+#Femail	-->
+#mrdirtyharry	-->
+#weekendboxoffice	-->
+#Ideal	-->
+#WhoWaitsForTheatres	-->
+#AHSFREAKSHOW	-->
+#tears	-->
+#defamustsee	-->
+#YouGoBradleyCooper	-->
+#sickmovie	-->
+#battlefield4	-->
+#photoaday2015	-->
+#january	-->
+#warnerbros	--> warner bros
+#wblife	-->
+#workperks	-->
+#LetsFuckinGo	-->
+#americansniperpremiere	--> american sniper premiere
+#dfw	-->
+#GBvsSEA	-->
+#RuinMovies	--> Ruin Movies
+#notomkos	-->
+#unfriendedmovie	-->
+#TheLazarusEffect	-->
+#NP	-->
+#actor	-->
+#acting	-->
+#chasingpavemen	-->
+#babybaby	--> baby baby
+#الجيش_الامريكي	-->
+#haventevenfinished	-->
+#كريس_كايل	-->
+#americathegreatest	-->
+#Pacioretty	-->
+#MoviesoftheMonth	-->
+#notimpressed	-->
+#iamrollingout	-->
+#DirtSailors	-->
+#criskyles	-->
+#RedWhiteAndBradleyCooper	--> Red White And Bradley Cooper
+#Amry	-->
+#typicaltweet	-->
+#BeenWaitingForThis	-->
+#drudge	-->
+#been	-->
+#busy	-->
+#TurnDown	--> Turn Down
+#EdgarValdez	-->
+#yyc	-->
+#feels	--> feels
+#thxMonthruFri	-->
+#8to5	-->
+#noturnuponweekdays	-->
+#INCREDIBLE	-->
+#TedCruzCrimes	-->
+#DamnILoveAmericans	-->
+#DiiME	-->
+#GORDiiTOO	-->
+#JustOneComment	-->
+#shitisreal	-->
+#genre	-->
+#Biography	-->
+#amIkidding	-->
+#MovieTitleThatDescribesYou	-->
+#hobbit	-->
+#bighero6	-->
+#lossforwords	-->
+#Cinephiles	-->
+#HooRah	-->
+#traitor	-->
+#so	-->
+#twisters	-->
+#dirtysouthmafia	-->
+#HarlemGlobetrotters	-->
+#bummed	-->
+#GetLikeMe	-->
+#IntoTheWoodsTH	-->
+#DawnofthePlanetoftheApes	-->
+#Godzilla	-->
+#CKFF	-->
+#need	-->
+#ITheMovie	--> The Movie
+#NeverGetsOld	-->
+#yycfriends	-->
+#illbuyyourticket	-->
+#FYC	-->
+#Chilis	-->
+#StVincent	-->
+#AmericanHeros	--> American Heros
+#goodbyeworld	-->
+#alreadyaddicted	-->
+#brodate	-->
+#CodePink	-->
+#chriskylefrogfoundation	-->
+#GodFamilyCountry	--> God Family Country
+#warmovie	--> war movie
+#patriotguard	-->
+#moviestar	-->
+#justathought	-->
+#cannothandleit	-->
+#blake	-->
+#akwaters	-->
+#goingtopray	-->
+#RIPchrist	-->
+#GODBLESSAMERICA	-->
+#Miami	-->
+#puppyparty	-->
+#pho	-->
+#Clint_Eastwood	-->
+#singlelife	-->
+#GaTSPOD	-->
+#anyonewannajoin	-->
+#SaluteChrisKyle	--> Salute Chris Kyle
+#TheBrand	-->
+#planotx	-->
+#NotReallyASpoilerBecauseItsATrueStory	-->
+#Business	-->
+#CRAZY	-->
+#simplyspoiltforchoice	-->
+#moviebuff	-->
+#ItsJustAwesome	-->
+#moviemarathon	-->
+#IWatchedItSoYouDontHaveTo	-->
+#ThereCanNeverBeTooManyDogPhotosOnTwitter	-->
+#snipesfordayz	-->
+#isu	-->
+#OhhhhModdoooo	-->
+#ExclusiveShit	-->
+#RILChrisKyle	-->
+#clintwastwood	-->
+#dafuck	-->
+#fromstagetoscreen	-->
+#bdayweekend	-->
+#lovedthemboth	-->
+#YerliZeplin	-->
+#audiobook	-->
+#Biogr	-->
+#lightsOut	-->
+#BusinessPlan	-->
+#Guide	-->
+#citizenfour	-->
+#modeling	-->
+#DearOomf	-->
+#WORKAHOLICS	-->
+#2Chainz	-->
+#HappyFoundersDay	-->
+#MilitaryFamily	--> Military Family
+#hometheater	-->
+#MovieNews	--> Movie News
+#foad	-->
+#jimmyfallon	-->
+#華納威秀補習班	-->
+#Pot2Blame	-->
+#BiggerStars	-->
+#wba	-->
+#russia	-->
+#ukraine	-->
+#cambodia	-->
+#HubbaHubba	-->
+#FuryMovie	--> Fury Movie
+#アカデミー賞	-->
+#senzaparole	-->
+#DendyCanberra	-->
+#brisbane	-->
+#Glenn	--> Glenn
+#AMERICANmovie	--> AMERICAN movie
+#Фильмыонлайн	-->
+#HDKinoteka	-->
+#buywarbonds	-->
+#realHero	-->
+#BootLeg	-->
+#HighlyRecommendIt	-->
+#Audible	-->
+#Κινηματογραφος	-->
+#ЧитаюВзаимно	-->
+#followback	--> follow back
+#philly	-->
+#SuryaRay	-->
+#Surya	-->
+#Favorite	-->
+#PopCorn	-->
+#Fam	-->
+#IE	-->
+#SharpShooter	-->
+#PHILADELPHIACBS	-->
+#WoW	-->
+#chokedup	-->
+#chapeaux	-->
+#VoxCinemas	-->
+#bodybuilding	-->
+#Memoirs	-->
+#yeeeet	-->
+#filmwithkiramadeira	-->
+#voxcinemas	-->
+#Limitless	-->
+#kens5news	-->
+#fanculo	-->
+#tayaKyle	-->
+#truelegend	--> true legend
+#fuckingshitup	-->
+#spazioalfieri	-->
+#becauseimpoor	-->
+#beargrills	-->
+#moviebox	--> movie box
+#ihadto	-->
+#gotmymoneysworth	-->
+#GoodGuys	-->
+#NYCnowApp	-->
+#Screenplay	-->
+#افضل_ميكس_صوتي	-->
+#don	-->
+#RearWindowsOscar	-->
+#BrandleyCooper	-->
+#BennettMiller	-->
+#BestActress	-->
+#SteveCarell	-->
+#MovieFan	-->
+#MadAboutMovies	-->
+#bestpicturenominee	-->
+#melhorfilme	-->
+#BtExtra	-->
+#MejorPela	-->
+#WesAnderson	-->
+#OscarNomsnominations	-->
+#osar	-->
+#theten	-->
+#OscarNomination	-->
+#JakeGyllenhaal	-->
+#nightcrawler	-->
+#JenAniston	-->
+#loúltimo	-->
+#LaTeoriaDelTutto	-->
+#PremiosOscar	-->
+#EscuchoRCN	-->
+#OscarNorms	-->
+#cbcarts	-->
+#thrGrandBudapestHotel	-->
+#HalfFullMag	-->
+#oScarNoms	-->
+#editing	-->
+#AFP	-->
+#WHIPLASH	-->
+#MelhorFilme	-->
+#oscarnominations	-->
+#wral	-->
+#ผมนี่เลือกไม่ถูกเลยครับ	-->
+#whyamiawake	-->
+#early	-->
+#congratulations	-->
+#OscarsLadoG	-->
+#OSCAR	-->
+#RozandMocha	-->
+#cake	-->
+#ElRetodelosOscar	-->
+#X	-->
+#MejorPeli	-->
+#MarionCotillard	-->
+#FNSOscars	-->
+#fingerscrossed	-->
+#OSCARS	-->
+#NominasiOscar	-->
+#oscar2015	--> oscar 2015
+#OscarsenTNT	-->
+#LaTeoriaDelTodo	-->
+#GranHotelBudapest	-->
+#Perdida	-->
+#Thetheoryofeverything	-->
+#Aniston	-->
+#BoyHood	-->
+#grandhotelbudapest	-->
+#oscarnominee	-->
+#BestPictureNoms	--> Best Picture Noms
+#WTFAmericanSniper	-->
+#nyheter	-->
+#YourPick	-->
+#AltAcademyAwards	-->
+#Óscar2015	-->
+#academy	-->
+#oscaresfilmoteca	-->
+#Oscarsnoms2015	--> Oscars noms 2015
+#WBAP	-->
+#Oscar2015FR	-->
+#Adams	-->
+#Moore	--> Moore
+#BoyhoodMovie	--> Boyhood Movie
+#thegrandbudapesthotel	-->
+#AwardsBuzz	-->
+#RidiculousSnub	-->
+#EmmaStone	-->
+#RosamundPike	-->
+#NominacionesAlOscar2015	-->
+#yyj	-->
+#LeadingRole	-->
+#surprise	-->
+#AmericanDream	-->
+#AdaptedScreenplay	-->
+#MichealKeaton	-->
+#Os	-->
+#9newsmornings	-->
+#BesteFilm	-->
+#NominacionesOscar	-->
+#WkUpAmer	-->
+#njnow	-->
+#btfnow	-->
+#OhSoOriginal	-->
+#MrTurner	-->
+#bestpic	-->
+#OscarNominees	-->
+#MakeFamilyProud	--> Make Family Proud
+#NeverForgetCK	-->
+#ClintEastwoodrules	-->
+#OSCARNOMS	-->
+#pish	-->
+#PendientesPorVer	-->
+#oscarnatnt	-->
+#Teoríadetodo	-->
+#Foda	-->
+#LegoMovie	--> Lego Movie
+#LifeItself	-->
+#BOYHOOD	-->
+#BIRDMAN	-->
+#UFO4UBlogBusiness	-->
+#NeverForgetFallenBrother	-->
+#Sorry	-->
+#budapesthotel	-->
+#Rigsby	-->
+#افضل_سيناريو_مقتبس	-->
+#Oscary	-->
+#grandbudapesthoel	-->
+#murca	-->
+#ShowTimeLegends	-->
+#SoundEditing	-->
+#TheHobbitTheBattleOfTheFiveArmies	-->
+#SigueVivo	-->
+#ElGordoDeLosRompebodas	-->
+#TVN	-->
+#teambradleycooper	--> team bradley cooper
+#MarcLee	-->
+#ImNotCrying	-->
+#ItsDusty	-->
+#SoundMixing	-->
+#whew	-->
+#TheimitationGame	-->
+#supportourvets	-->
+#surprises	-->
+#BestPictureNominations	-->
+#QualityFilm	-->
+#TGHB	-->
+#cbarts	-->
+#GranBudapest	-->
+#Waiting	-->
+#Snubbed	-->
+#leftists	-->
+#SpringNews	-->
+#CH19	-->
+#NominadosÓscar	-->
+#NosTomanPorTontosM4	-->
+#RemontadaBlanca	-->
+#8YearsOfKidrauhl	-->
+#27S2015	-->
+#Award	--> Award
+#EfectoEastwood	-->
+#GoodDrills	-->
+#nominations	-->
+#TGBH	-->
+#افضل_فلم	-->
+#ohdear	-->
+#BestFilms	--> Best Films
+#skcbc	-->
+#FringeNYC	-->
+#CoMo	-->
+#grandbudapest	-->
+#embarrasing	-->
+#butyayyyy	-->
+#MadeInPhilly	-->
+#iluvntx	-->
+#Fox35	-->
+#Algeria	-->
+#الجزائر	-->
+#BestDirector	--> Best Director
+#Surprised	-->
+#snubs	-->
+#Шилдэг_кино	-->
+#needamoviedate	-->
+#whosin	-->
+#wheredowegetthesemorons	-->
+#teatroamiata	-->
+#abbadiasansalvatore	-->
+#AMCBPS	-->
+#WeeklyGoals	-->
+#productplacement	-->
+#OscarNominated	--> Oscar Nominated
+#RelatosSalvajes	-->
+#Oscarsnominations	-->
+#whymakesense	-->
+#Sniper4	-->
+#PapalVisit	-->
+#MehmetAliAğca	-->
+#AmericanSniper5	-->
+#MarkDavidChapman	-->
+#DiCaprioWho	-->
+#oscardk	-->
+#nomineringer	-->
+#spoil	-->
+#ThankYouPune	-->
+#Nominees	-->
+#BooksBeforeTheyWereFilms	-->
+#oscarfilmoteca	-->
+#ASLOscars	-->
+#OscarNoms2015	--> Oscar Noms 2015
+#GonnaBeBadAss	-->
+#MrEastwood	-->
+#FilmEditing	-->
+#keaton	-->
+#redmayne	-->
+#thetheory	-->
+#jematepasuneastwoodendvdscreen	-->
+#unlimited	-->
+#bestpicturenominees	-->
+#FilmCritic	-->
+#Daybreak8	-->
+#KellyAndMichael	--> Kelly And Michael
+#gonnabecrowded	-->
+#Surprises	-->
+#XVdeFrance	-->
+#Acts	-->
+#TeamBirdman	--> Team Birdman
+#TeamAnderson	-->
+#AndersonCooper	-->
+#Booyah	-->
+#ترشيحات_الأوسكار_2015	-->
+#completelist	-->
+#Oscares2014	-->
+#casual	-->
+#DearWhitePeople	-->
+#BigEyesMovie	-->
+#noms	--> noms
+#GodisGreat	-->
+#IntheatresNOW	-->
+#effettonotte	-->
+#Osca	-->
+#politicsoverart	-->
+#injusticia	-->
+#calmdown	-->
+#87thAcademyAwardsFeb22	-->
+#shitbags	-->
+#DarkHorse	-->
+#WhiplashForBestPic	-->
+#Parenting	-->
+#KekoNews	-->
+#poop	-->
+#NOMINEES	-->
+#hotelBudapest	-->
+#TheElephantMan	-->
+#watchlist	-->
+#happymlkday	-->
+#TheLmitationGame	-->
+#jesseventura	-->
