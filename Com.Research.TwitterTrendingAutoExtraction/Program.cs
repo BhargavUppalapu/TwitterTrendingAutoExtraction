@@ -14,10 +14,8 @@ namespace Com.Research.TwitterTrendingAutoExtraction
         {
 
             string configFile = "..\\..\\..\\resources\\configuration\\config.ini";
-            string inputFile = "..\\..\\..\\resources\\corpus\\as.txt";
-            string outputFile = "..\\..\\..\\resources\\corpus\\as_out.txt";
-
-
+            string inputFile = "..\\..\\..\\resources\\corpus\\as.txt";//testCase.txt";
+            string outputFile = "..\\..\\..\\resources\\corpus";
             Program prog = new Program();
             prog.run(configFile, inputFile, outputFile);
         }
@@ -27,8 +25,7 @@ namespace Com.Research.TwitterTrendingAutoExtraction
         {
             Processing P = new Processing();
             Utils.Configuration config = P.InitfromConfig(configFile);
-            config.HashTagSplitter.splitHashTag(inputFile, outputFile);
-
+            P.ProcessWorkItem(inputFile, outputFile);
         }
 
     }

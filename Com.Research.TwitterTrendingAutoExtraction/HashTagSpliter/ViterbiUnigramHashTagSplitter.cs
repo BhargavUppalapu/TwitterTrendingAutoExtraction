@@ -5,6 +5,7 @@ using System.Text;
 using System.IO;
 
 using Com.Research.TwitterTrendingAutoExtraction.Utils;
+using Com.Research.TwitterTrendingAutoExtraction.DataStructures;
 using Com.Research.NLPCore.WordSegmentaion;
 
 
@@ -42,35 +43,46 @@ namespace Com.Research.TwitterTrendingAutoExtraction.HashTagSpliter
         }
         
 
-        public void splitHashTag(string inFilePath, string outFilePath)
+        public void splitHashTag(string inFilePath, string outFilePath,List<TweetsDocument> tweets)
         {
 
-            FileStream fs_OutFile = new FileStream(outFilePath, FileMode.Create);
+            FileStream fs_OutFile = new FileStream(outFilePath + "//output_HashTagSplit.txt", FileMode.Append);
             StreamWriter sw_OutFile = new StreamWriter(fs_OutFile, System.Text.Encoding.UTF8);
-           
+            //StreamReader sr_as = new StreamReader(inFilePath, System.Text.Encoding.UTF8);
+            string[] lines = System.IO.File.ReadAllLines(inFilePath);
             
-            StreamReader sr_as = new StreamReader(inFilePath, System.Text.Encoding.UTF8);
-            
-            
-            string text = sr_as.ReadToEnd();
+            //string text = sr_as.ReadToEnd();
             List<string> hashtags = new List<string>();
-            hashtags =  ExtractHashTags.ExtractTags(text);
 
-            foreach (string hashtag in hashtags)
+            foreach (string text in lines)
             {
-                List<string> words = _wordSegmentorModel.ExtractSegments(hashtag);
-                string output = "#" +hashtag + "\t-->";
+                string curText = text;
+                hashtags = ExtractHashTags.ExtractTags(text);
+                TweetsDocument tweet = new TweetsDocument();
 
-                foreach(string word in words   )
+                foreach (string hashtag in hashtags)
                 {
-                    output =  output + " " + word;
+                    List<string> words = _wordSegmentorModel.ExtractSegments(hashtag);
+                    // "#" +hashtag + "\t-->";
+                    string output = "";
+                    foreach (string word in words)
+                    {
+                        output = output + " " + word;
+                    }
+
+                    sw_OutFile.WriteLine("#" + hashtag + "\t-->" + output);
+
+                    curText = curText.Replace("#" + hashtag, output);
+                    
                 }
 
-                sw_OutFile.WriteLine(output);
+                tweet.tweet = curText;
+                tweets.Add(tweet);
             }
-
+            sw_OutFile.Close();
             fs_OutFile.Close();
-            sr_as.Close();
+            
+            //sr_as.Close();
         }
 
 

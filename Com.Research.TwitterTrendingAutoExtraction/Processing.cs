@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.IO;
+using Com.Research.TwitterTrendingAutoExtraction.DataStructures;
 
 namespace Com.Research.TwitterTrendingAutoExtraction
 {
@@ -9,11 +11,15 @@ namespace Com.Research.TwitterTrendingAutoExtraction
     {
 
         Utils.Configuration _config = new Utils.Configuration();
-
+        List<TweetsDocument> tweets = new List<TweetsDocument>();
 
         public void ProcessWorkItem(string InputFilePath, string outFilePath)
         {
-            _config.HashTagSplitter.splitHashTag(InputFilePath, outFilePath);
+            
+            _config.HashTagSplitter.splitHashTag(InputFilePath, outFilePath,tweets);
+            _config.TrendExtractor.Extract(_config,tweets);
+
+
 
         }
 

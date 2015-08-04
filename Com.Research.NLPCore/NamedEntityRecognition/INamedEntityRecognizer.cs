@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Com.Research.NLPCore.NamedEntityRecognition
 {
-    interface INamedEntityRecognizer
+    public interface INamedEntityRecognizer
     {
 
         /// <summary>

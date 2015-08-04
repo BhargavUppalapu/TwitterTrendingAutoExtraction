@@ -96,12 +96,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataStructures\TweetsDocument.cs" />
     <Compile Include="HashTagSpliter\IHashTagSplitter.cs" />
     <Compile Include="HashTagSpliter\ViterbiUnigramHashTagSplitter.cs" />
     <Compile Include="Processing.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TrendExtraction\ITrendExtractor.cs" />
+    <Compile Include="TrendExtraction\TrendExtractor.cs" />
     <Compile Include="Utils\Configuration.cs" />
     <Compile Include="Utils\ExtractHashTags.cs" />
     <Compile Include="Utils\IniParser.cs" />
