@@ -18,6 +18,11 @@ You must be able to download and install the .Net Framework 4 from http://www.mi
 	
 #Usage
 
+1. Give the information of the input file which has the tweets in the cofig file.
+2. Give the information of the output folder where you want to save the results.
+
+The Hashtag extraction and segmentation results are stored in the file "output_HashTagSplit.txt" in the output folder. The Trends extracted are stored in the file "output_Trends.txt" in the output folder.
+
 You can go to the DemoTest.c file and run the code from there. 
 
 Need to specify the config file path. Config file "config.txt" has the Following details.
