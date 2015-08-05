@@ -25,7 +25,7 @@ The Hashtag extraction and segmentation results are stored in the file "output_H
 
 You can go to the DemoTest.c file and run the code from there. 
 
-Need to specify the config file path. Config file "config.txt" has the Following details.
+Need to specify the config file path. Config file "config.ini" has the Following details.
 
 1. Hash Tag Splitter ModelFile -- Model file for the Viterbi algorithm which contains the word probability list.
 2. InputFile -- File with the input text.
