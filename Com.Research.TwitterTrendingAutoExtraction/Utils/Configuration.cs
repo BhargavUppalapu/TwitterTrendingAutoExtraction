@@ -103,6 +103,11 @@ namespace Com.Research.TwitterTrendingAutoExtraction.Utils
         }
 
 
+        public string InputFileName;
+        public string OutputFolder;
+        public string NaesForTrends;
+
+
         public void InitiateModules()
         {
             if (!string.IsNullOrEmpty(_hashTagSplitterName))
@@ -126,6 +131,7 @@ namespace Com.Research.TwitterTrendingAutoExtraction.Utils
 
         public bool CreateNamedEntityRecognizer()
         {
+            Console.WriteLine("Loading Named Entity Recognition Model. This may take a minute.");
             _myNER = _myNERFactory.Create(_nerName);
             return (_myNER.LoadModel(_myNERModelFile));
         }
@@ -153,6 +159,7 @@ namespace Com.Research.TwitterTrendingAutoExtraction.Utils
 
         public bool CreatePOSTagger()
         {
+            Console.WriteLine("Loading POS Tagger Model. This may take few seconds.");
             _myposTagger = _myPOSTaggerFactory.Create(_posTaggerNameName);
             return (_myposTagger.LoadModel(_posTaggerModelFile));
 
@@ -172,6 +179,11 @@ namespace Com.Research.TwitterTrendingAutoExtraction.Utils
 
             _posTaggerModelFile = parser.GetSetting("appSettings", "COMPANY.Modules.POSTaggerModelFile");
             _posTaggerNameName = parser.GetSetting("appSettings", "COMPANY.Modules.POSTagging");
+
+
+            NaesForTrends = parser.GetSetting("appSettings", "COMPANY.Modules.NamesForTrends");
+            InputFileName = parser.GetSetting("appSettings", "COMPANY.Modules.InputFile");
+            OutputFolder = parser.GetSetting("appSettings", "COMPANY.Modules.OutPutFolder");
 
             InitiateModules();
         }

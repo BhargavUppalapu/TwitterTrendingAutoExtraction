@@ -20,8 +20,8 @@ namespace Com.Research.TwitterTrendingAutoExtraction.HashTagSpliter
         public String ViterbiModelFile
         {
             get { return _viterbiModelFile; }
-            set{_viterbiModelFile = value;}
-        
+            set { _viterbiModelFile = value; }
+
         }
 
 
@@ -30,7 +30,7 @@ namespace Com.Research.TwitterTrendingAutoExtraction.HashTagSpliter
         /// </summary>
         public ViterbiUnigramHashTagSplitter()
         {
-            _wordSegmentorModel = new ViterbiUnigramWordSegmenter();  
+            _wordSegmentorModel = new ViterbiUnigramWordSegmenter();
         }
 
 
@@ -41,16 +41,16 @@ namespace Com.Research.TwitterTrendingAutoExtraction.HashTagSpliter
             hashtags = ExtractHashTags.ExtractTags(text);
             return hashtags;
         }
-        
 
-        public void splitHashTag(string inFilePath, string outFilePath,List<TweetsDocument> tweets)
+
+        public void splitHashTag(string inFilePath, string outFilePath, List<TweetsDocument> tweets)
         {
 
             FileStream fs_OutFile = new FileStream(outFilePath + "//output_HashTagSplit.txt", FileMode.Append);
             StreamWriter sw_OutFile = new StreamWriter(fs_OutFile, System.Text.Encoding.UTF8);
             //StreamReader sr_as = new StreamReader(inFilePath, System.Text.Encoding.UTF8);
             string[] lines = System.IO.File.ReadAllLines(inFilePath);
-            
+
             //string text = sr_as.ReadToEnd();
             List<string> hashtags = new List<string>();
 
@@ -69,11 +69,14 @@ namespace Com.Research.TwitterTrendingAutoExtraction.HashTagSpliter
                     {
                         output = output + " " + word;
                     }
-
-                    sw_OutFile.WriteLine("#" + hashtag + "\t-->" + output);
+                    if (String.IsNullOrEmpty(output))
+                    {
+                        sw_OutFile.WriteLine("#" + hashtag + "\t-->" + hashtag);
+                    }
+                    else
+                        sw_OutFile.WriteLine("#" + hashtag + "\t-->" + output);
 
                     curText = curText.Replace("#" + hashtag, output);
-                    
                 }
 
                 tweet.tweet = curText;
@@ -81,7 +84,7 @@ namespace Com.Research.TwitterTrendingAutoExtraction.HashTagSpliter
             }
             sw_OutFile.Close();
             fs_OutFile.Close();
-            
+
             //sr_as.Close();
         }
 

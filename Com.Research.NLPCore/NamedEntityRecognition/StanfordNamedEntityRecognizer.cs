@@ -86,7 +86,7 @@ namespace Com.Research.NLPCore.NamedEntityRecognition
 
             try
             {
-                Properties props = new Properties();
+                java.util.Properties props = new java.util.Properties();
                 InputStream st = new BufferedInputStream(new FileInputStream(prop));
                 InputStreamReader reader = new InputStreamReader(st, "utf-8");
 
