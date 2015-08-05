@@ -38,4 +38,8 @@ specific task we can handle the same using the cofiguration.
 4. NamedEntityRecognizer -- NamedEntityRecognizer Class File.
 5. TrendExtractor -- TrendExtractor Class File name
 
+#Future work
+
+1. Use the parser for finding the trends so that we only can extract the trends that are having relation with the person. Currenytly using POS tags JJ/VBJ/NN that are present around the name for the relevance of the trend.
+2. Word Sense Disambiguation so that similar trends can be clustered together.
 
