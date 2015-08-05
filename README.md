@@ -21,6 +21,7 @@ You must be able to download and install the .Net Framework 4 from http://www.mi
 You can go to the DemoTest.c file and run the code from there. 
 
 Need to specify the config file path. Config file "config.txt" has the Following details.
+
 1. Hash Tag Splitter ModelFile -- Model file for the Viterbi algorithm which contains the word probability list.
 2. InputFile -- File with the input text.
 3. OutPutFolder -- Folder in which we want to output the results. The results are written into a text file.
@@ -31,10 +32,10 @@ Need to specify the config file path. Config file "config.txt" has the Following
 Below are the details of the classes we want to use for the specific task. Using config file because if we want to use another algorithm for 
 specific task we can handle the same using the cofiguration.
 
-7. HashTagSplitter -- Class Name of the Hash tag splitter.
-8. Tokenizer -- Tokenizer class name.
-9. POSTagging -- POS tagging class file name.
-10. NamedEntityRecognizer -- NamedEntityRecognizer Class File.
-11. TrendExtractor -- TrendExtractor Class File name
+1. HashTagSplitter -- Class Name of the Hash tag splitter.
+2. Tokenizer -- Tokenizer class name.
+3. POSTagging -- POS tagging class file name.
+4. NamedEntityRecognizer -- NamedEntityRecognizer Class File.
+5. TrendExtractor -- TrendExtractor Class File name
 
 
